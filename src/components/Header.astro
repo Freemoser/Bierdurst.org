@@ -1,0 +1,29 @@
+---
+const path = Astro.url.pathname;
+const items = [
+  ['/biersorten/', 'Biersorten'],
+  ['/biervergleich/', 'Vergleich'],
+  ['/bierwissen/', 'Bierwissen'],
+  ['/bier-rechner/', 'Rechner'],
+  ['/bierregionen/', 'Regionen'],
+  ['/oktoberfest/', 'Oktoberfest']
+];
+---
+<a class="skip-link" href="#inhalt">Zum Inhalt springen</a>
+<header class="site-header">
+  <div class="header-inner">
+    <a class="brand" href="/" aria-label="Bier-Durst.de Startseite">
+      <span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span>
+      <span>Bier<span>Durst</span></span>
+    </a>
+    <nav class="desktop-nav" aria-label="Hauptnavigation">
+      {items.map(([href, label]) => <a href={href} aria-current={path.startsWith(href) ? 'page' : undefined}>{label}</a>)}
+    </nav>
+    <details class="mobile-menu">
+      <summary>Menü</summary>
+      <nav aria-label="Mobile Navigation">
+        {items.map(([href, label]) => <a href={href} aria-current={path.startsWith(href) ? 'page' : undefined}>{label}</a>)}
+      </nav>
+    </details>
+  </div>
+</header>

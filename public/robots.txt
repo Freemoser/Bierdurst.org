@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bier-durst.de/sitemap.xml

@@ -1,0 +1,22 @@
+{
+  "name": "bier-durst-de",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "ASTRO_TELEMETRY_DISABLED=1 astro dev",
+    "prebuild": "node scripts/generate-sitemap.mjs",
+    "build": "ASTRO_TELEMETRY_DISABLED=1 astro build && node scripts/prepare-dist.mjs && node scripts/validate-build.mjs",
+    "preview": "ASTRO_TELEMETRY_DISABLED=1 astro preview",
+    "check": "ASTRO_TELEMETRY_DISABLED=1 astro check && node scripts/test-calculators.mjs",
+    "test": "node scripts/test-calculators.mjs"
+  },
+  "dependencies": {
+    "@astrojs/markdown-remark": "latest",
+    "astro": "latest"
+  },
+  "devDependencies": {
+    "@astrojs/check": "latest",
+    "typescript": "latest"
+  }
+}

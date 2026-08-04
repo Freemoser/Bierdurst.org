@@ -1,0 +1,65 @@
+import { readdir, readFile } from 'node:fs/promises';
+import { join, relative, sep } from 'node:path';
+
+async function files(dir) {
+  const entries = await readdir(dir, { withFileTypes: true });
+  return (await Promise.all(entries.map((entry) => entry.isDirectory() ? files(join(dir, entry.name)) : [join(dir, entry.name)]))).flat();
+}
+
+const allFiles = await files('dist');
+const htmlFiles = allFiles.filter((file) => file.endsWith('.html'));
+const sitemap = await readFile('dist/sitemap.xml', 'utf8');
+const sitemapPaths = new Set([...sitemap.matchAll(/<loc>https:\/\/bier-durst\.de([^<]*)<\/loc>/g)].map((match) => match[1] || '/'));
+const expectedFiles = new Map([...sitemapPaths].map((path) => [path, path === '/' ? 'dist/index.html' : `dist${path}index.html`]));
+const errors = [];
+const incoming = new Map([...sitemapPaths].map((path) => [path, 0]));
+
+for (const [path, file] of expectedFiles) {
+  if (!htmlFiles.includes(file)) errors.push(`Sitemap-URL ohne HTML: ${path}`);
+}
+
+const titles = new Map();
+const canonicals = new Map();
+for (const file of htmlFiles) {
+  const html = await readFile(file, 'utf8');
+  const rel = relative('dist', file).split(sep).join('/');
+  const path = rel === 'index.html' ? '/' : rel === '404.html' ? '/404/' : `/${rel.replace(/index\.html$/, '')}`;
+  if (path !== '/404/' && !sitemapPaths.has(path)) errors.push(`HTML außerhalb der Launch-Sitemap: ${path}`);
+  const title = html.match(/<title>([^<]+)<\/title>/)?.[1];
+  const canonical = html.match(/<link rel="canonical" href="([^"]+)"/)?.[1];
+  const descriptions = [...html.matchAll(/<meta name="description" content="([^"]+)"/g)];
+  const h1s = [...html.matchAll(/<h1(?:\s|>)/g)];
+  if (!title || descriptions.length !== 1 || !canonical || h1s.length !== 1) errors.push(`SEO-Grunddaten unvollständig in ${path}`);
+  if (path !== '/404/' && canonical !== `https://bier-durst.de${path}`) errors.push(`Falscher Canonical in ${path}: ${canonical}`);
+  if (/lorem ipsum/i.test(html)) errors.push(`Lorem Ipsum in ${path}`);
+  if (path !== '/404/') {
+    if (titles.has(title)) errors.push(`Doppelter Titel: ${title}`); else titles.set(title, path);
+    if (canonicals.has(canonical)) errors.push(`Doppelter Canonical: ${canonical}`); else canonicals.set(canonical, path);
+  }
+  for (const match of html.matchAll(/href="([^"]+)"/g)) {
+    const href = match[1];
+    if (!href.startsWith('/') || href.startsWith('//')) continue;
+    const target = href.split('#')[0].split('?')[0];
+    if (!target || target === '/') continue;
+    if (target.includes('.')) {
+      if (!allFiles.includes(`dist${target}`)) errors.push(`Fehlende Datei ${target} in ${path}`);
+    } else if (!sitemapPaths.has(target)) {
+      errors.push(`Interner Link außerhalb der Launch-Sitemap: ${path} → ${target}`);
+    } else if (target !== path) {
+      incoming.set(target, (incoming.get(target) ?? 0) + 1);
+    }
+  }
+}
+
+for (const [path, count] of incoming) {
+  if (path !== '/' && count === 0) errors.push(`Verwaiste Launch-Seite ohne internen Eingang: ${path}`);
+}
+
+if (allFiles.includes('dist/sitemap-full.xml') || allFiles.includes('dist/ads.txt.template')) errors.push('Roadmap- oder Template-Datei wurde versehentlich veröffentlicht.');
+if (sitemapPaths.size !== 76) errors.push(`Launch-Sitemap enthält ${sitemapPaths.size} statt 76 URLs.`);
+
+if (errors.length) {
+  console.error(errors.slice(0, 80).join('\n'));
+  process.exit(1);
+}
+console.log(`${htmlFiles.length} HTML-Dateien, ${sitemapPaths.size} Launch-URLs, interne Links, Titel und Canonicals erfolgreich geprüft.`);

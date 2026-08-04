@@ -1,0 +1,5 @@
+---
+import type { CollectionEntry } from 'astro:content';
+const { entries = [] } = Astro.props as { entries?: CollectionEntry<'pages'>[] };
+---
+{entries.length > 0 && <section class="related" aria-labelledby="related-heading"><div class="section-heading"><p class="eyebrow">Weiterlesen</p><h2 id="related-heading">Passende Artikel</h2></div><div class="related-grid">{entries.map((entry) => <a href={entry.data.slug}><span>{entry.data.category ?? entry.data.cluster.replaceAll('-', ' ')}</span><h3>{entry.data.title}</h3><p>{entry.data.meta_description}</p><b aria-hidden="true">Mehr erfahren →</b></a>)}</div></section>}

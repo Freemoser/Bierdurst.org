@@ -1,0 +1,76 @@
+---
+import { getCollection, render, type CollectionEntry } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Breadcrumbs from './Breadcrumbs.astro';
+import TableOfContents from './TableOfContents.astro';
+import Calculator from './Calculator.astro';
+import AdSlot from './AdSlot.astro';
+import ResponsibleNotice from './ResponsibleNotice.astro';
+import HomeFeatures from './HomeFeatures.astro';
+import SourcesList from './SourcesList.astro';
+import RelatedArticles from './RelatedArticles.astro';
+import manifest from '../../data/url-manifest.json';
+
+const { entry } = Astro.props as { entry: CollectionEntry<'pages'> };
+const { Content, headings } = await render(entry);
+const previewQueue = import.meta.env.PREVIEW_QUEUE === 'true';
+const launchSlugs = new Set(manifest.filter((page) => page.launch_status === 'publish').map((page) => page.slug));
+const allEntries = await getCollection('pages', ({ data }) => launchSlugs.has(data.slug) || previewQueue);
+const related = allEntries
+  .filter((candidate) => candidate.id !== entry.id && candidate.data.cluster === entry.data.cluster && !['home', 'legal'].includes(candidate.data.page_type))
+  .sort((a, b) => b.data.last_updated.valueOf() - a.data.last_updated.valueOf())
+  .slice(0, 3);
+
+const labels: Record<string, string> = { 'biersorten': 'Biersorten', 'biervergleich': 'Biervergleich', 'bierwissen': 'Bierwissen', 'bier-rechner': 'Bierrechner', 'bierregionen': 'Bierregionen', 'oktoberfest': 'Oktoberfest', 'bestenlisten': 'Bestenlisten' };
+const parts = entry.data.slug.split('/').filter(Boolean);
+const breadcrumbItems = [{ href: '/', label: 'Startseite' }];
+if (parts.length > 1) breadcrumbItems.push({ href: `/${parts[0]}/`, label: labels[parts[0]] ?? parts[0] });
+if (entry.data.slug !== '/') breadcrumbItems.push({ href: entry.data.slug, label: entry.data.title });
+
+const title = entry.data.meta_title ?? (entry.data.slug === '/' ? entry.data.title : `${entry.data.title} | Bier-Durst.de`);
+const updated = entry.data.last_updated.toISOString().slice(0, 10);
+const articleTypes = new Set(['article', 'comparison', 'tool', 'pillar']);
+const schemas = [];
+if (entry.data.slug === '/') {
+  schemas.push({ '@context': 'https://schema.org', '@type': 'WebSite', name: 'Bier-Durst.de', url: 'https://bier-durst.de/', inLanguage: 'de-DE', description: entry.data.meta_description, publisher: { '@type': 'Organization', name: 'Bier-Durst.de', url: 'https://bier-durst.de/' } });
+}
+if (articleTypes.has(entry.data.page_type)) {
+  schemas.push({ '@context': 'https://schema.org', '@type': 'Article', headline: entry.data.title, description: entry.data.meta_description, dateModified: updated, inLanguage: 'de-DE', mainEntityOfPage: entry.data.canonical, publisher: { '@type': 'Organization', name: 'Bier-Durst.de', url: 'https://bier-durst.de/' } });
+}
+if (breadcrumbItems.length > 1) {
+  schemas.push({ '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: breadcrumbItems.map((item, index) => ({ '@type': 'ListItem', position: index + 1, name: item.label, item: new URL(item.href, 'https://bier-durst.de').href })) });
+}
+const pageHeadings = headings.filter((heading) => heading.depth === 2 || heading.depth === 3);
+const isHome = entry.data.slug === '/';
+const isTool = entry.data.page_type === 'tool' && entry.data.tool_id;
+---
+<BaseLayout title={title} description={entry.data.meta_description} canonical={entry.data.canonical} robots={entry.data.launch_status === 'queue' ? 'noindex, nofollow' : (entry.data.index ? 'index, follow' : 'noindex, follow')} structuredData={schemas} pageType={isHome ? 'home' : 'article'}>
+  <main id="inhalt">
+    {!isHome && <div class="page-width"><Breadcrumbs items={breadcrumbItems} /></div>}
+    <header class:list={['page-hero', { 'home-hero': isHome }]}>
+      <div class="hero-copy">
+        <p class="eyebrow">{isHome ? 'Dein Wegweiser durch die Bierwelt' : (entry.data.category ?? labels[entry.data.cluster] ?? 'Bierwissen')}</p>
+        <h1>{entry.data.title}</h1>
+        <p>{entry.data.meta_description}</p>
+        {!isHome && <div class="page-meta"><span>Aktualisiert am <time datetime={updated}>{entry.data.last_updated.toLocaleDateString('de-DE')}</time></span><span>{entry.data.review_cycle ? `Prüfrhythmus: ${entry.data.review_cycle}` : 'Redaktionell eingeordnet'}</span></div>}
+      </div>
+      <div class="beer-scene" aria-hidden="true"><span class="sun"></span><span class="glass"><i></i><i></i><i></i></span><span class="barley">⌇</span></div>
+    </header>
+
+    {isHome && <div class="page-width"><HomeFeatures /></div>}
+
+    <div class:list={['content-layout', { 'home-content': isHome }] }>
+      <article class="article-card">
+        {isTool && <Calculator toolId={entry.data.tool_id} />}
+        {isTool && <ResponsibleNotice />}
+        {!isHome && !isTool && <AdSlot position="after-introduction" />}
+        <div class="prose"><Content /></div>
+        {isHome && <AdSlot position="homepage" />}
+        {!isHome && <SourcesList sources={entry.data.sources} />}
+        {!isHome && !isTool && <AdSlot position="after-content" />}
+      </article>
+      {!isHome && <div class="article-aside"><TableOfContents headings={pageHeadings} />{!isTool && <div class="aside-note"><span>Unabhängig erklärt</span><p>Keine erfundenen Bewertungen, keine Community-Zahlen, keine bezahlten Ranglisten.</p><a href="/quellen-methodik/">So arbeiten wir</a></div>}</div>}
+    </div>
+    {!isHome && <div class="page-width"><RelatedArticles entries={related} /></div>}
+  </main>
+</BaseLayout>

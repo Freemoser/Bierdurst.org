@@ -1,0 +1,15 @@
+---
+import { getCollection } from 'astro:content';
+import PageView from '../components/PageView.astro';
+import manifest from '../../data/url-manifest.json';
+
+export async function getStaticPaths() {
+  const previewQueue = import.meta.env.PREVIEW_QUEUE === 'true';
+  const launchSlugs = new Set(manifest.filter((page) => page.launch_status === 'publish').map((page) => page.slug));
+  const entries = await getCollection('pages', ({ data }) => data.slug !== '/' && (launchSlugs.has(data.slug) || previewQueue));
+  return entries.map((entry) => ({ params: { slug: entry.data.slug.replace(/^\//, '').replace(/\/$/, '') }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+---
+<PageView entry={entry} />

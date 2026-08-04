@@ -1,0 +1,76 @@
+---
+const { toolId } = Astro.props;
+---
+
+{toolId === 'party-beer-calculator' && (
+  <form class="calculator" data-calculator={toolId}>
+    <p class="eyebrow">Browser-Rechner · keine Datenübertragung</p>
+    <h2>Partybedarf schätzen</h2>
+    <div class="form-grid">
+      <label>Gäste insgesamt<input name="guests" type="number" min="1" max="10000" value="50" required /></label>
+      <label>Erwachsene Biertrinker<input name="drinkers" type="number" min="0" max="10000" value="22" required /></label>
+      <label>Dauer in Stunden<input name="duration" type="number" min="1" max="48" value="6" required /></label>
+      <label>Reserve in Prozent<input name="reserve" type="number" min="0" max="100" value="10" required /></label>
+      <label>Flaschengröße<select name="bottleSize"><option value="0.5">0,5 Liter</option><option value="0.33">0,33 Liter</option></select></label>
+      <label>Flaschen je Kasten<input name="bottlesPerCrate" type="number" min="1" max="40" value="20" required /></label>
+    </div>
+    <button type="submit">Berechnen</button><div class="calculator-result" data-result tabindex="-1" aria-live="polite" hidden></div>
+  </form>
+)}
+
+{toolId === 'keg-servings-calculator' && (
+  <form class="calculator" data-calculator={toolId}>
+    <p class="eyebrow">Browser-Rechner · keine Datenübertragung</p><h2>Fass in Gläser umrechnen</h2>
+    <div class="form-grid">
+      <label>Fassgröße in Litern<input name="kegLitres" type="number" min="0.1" max="1000" step="0.1" value="30" required /></label>
+      <label>Glasgröße in Litern<input name="glassLitres" type="number" min="0.1" max="2" step="0.1" value="0.5" required /></label>
+      <label>Ausschankverlust in Prozent<input name="loss" type="number" min="0" max="99" step="1" value="5" required /></label>
+      <label>Gäste (optional)<input name="guests" type="number" min="0" max="10000" value="20" /></label>
+    </div>
+    <button type="submit">Berechnen</button><div class="calculator-result" data-result tabindex="-1" aria-live="polite" hidden></div>
+  </form>
+)}
+
+{toolId === 'beer-unit-price-calculator' && (
+  <form class="calculator" data-calculator={toolId}>
+    <p class="eyebrow">Browser-Rechner · keine Datenübertragung</p><h2>Literpreis vergleichen</h2>
+    <div class="form-grid">
+      <label>Gesamtpreis in Euro<input name="totalPrice" type="text" inputmode="decimal" value="21,10" required /></label>
+      <label>Pfand in Euro<input name="deposit" type="text" inputmode="decimal" value="3,10" required /></label>
+      <label>Pfandbehandlung<select name="depositIncluded"><option value="yes">im Gesamtpreis enthalten</option><option value="no">kommt zusätzlich hinzu</option></select></label>
+      <label>Eingabemodus<select name="mode"><option value="bottles">Flaschen berechnen</option><option value="direct">Gesamtliter direkt</option></select></label>
+      <label>Flaschenzahl<input name="bottleCount" type="number" min="1" max="1000" value="20" /></label>
+      <label>Liter je Flasche<input name="bottleSize" type="text" inputmode="decimal" value="0,5" /></label>
+      <label>Gesamtliter (bei Direktmodus)<input name="directLitres" type="text" inputmode="decimal" value="10" /></label>
+    </div>
+    <button type="submit">Berechnen</button><div class="calculator-result" data-result tabindex="-1" aria-live="polite" hidden></div>
+  </form>
+)}
+
+{toolId === 'beer-cooling-time-calculator' && (
+  <form class="calculator" data-calculator={toolId}>
+    <p class="eyebrow">Browser-Rechner · grobe Schätzung</p><h2>Kühlzeit schätzen</h2>
+    <div class="form-grid">
+      <label>Starttemperatur in °C<input name="start" type="number" min="-2" max="40" value="20" required /></label>
+      <label>Zieltemperatur in °C<input name="target" type="number" min="-2" max="30" value="7" required /></label>
+      <label>Gebinde<select name="container"><option value="can">Dose</option><option value="bottle033">0,33-l-Flasche</option><option value="bottle05" selected>0,5-l-Flasche</option></select></label>
+      <label>Methode<select name="method"><option value="fridge">Kühlschrank</option><option value="ice">Eiswasser</option><option value="salt">Eiswasser mit Salz</option></select></label>
+      <label>Anzahl Gebinde<input name="count" type="number" min="1" max="200" value="1" required /></label>
+    </div>
+    <button type="submit">Berechnen</button><div class="calculator-result" data-result tabindex="-1" aria-live="polite" hidden></div>
+  </form>
+)}
+
+{toolId === 'pure-alcohol-calculator' && (
+  <form class="calculator" data-calculator={toolId}>
+    <p class="eyebrow">Browser-Rechner · kein Promillerechner</p><h2>Reinen Alkohol berechnen</h2>
+    <div class="form-grid">
+      <label>Menge je Gebinde in ml<input name="millilitres" type="number" min="1" max="10000" value="500" required /></label>
+      <label>Alkoholgehalt in Vol.-%<input name="abv" type="text" inputmode="decimal" value="5,0" required /></label>
+      <label>Anzahl gleicher Gebinde<input name="count" type="number" min="1" max="1000" value="1" required /></label>
+    </div>
+    <button type="submit">Berechnen</button><div class="calculator-result" data-result tabindex="-1" aria-live="polite" hidden></div>
+  </form>
+)}
+
+<script type="module" src="/scripts/calculators.mjs" is:inline></script>

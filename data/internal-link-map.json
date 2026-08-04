@@ -1,0 +1,4286 @@
+[
+  {
+    "from": "/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/",
+    "to": "/biervergleich/"
+  },
+  {
+    "from": "/",
+    "to": "/bierwissen/"
+  },
+  {
+    "from": "/",
+    "to": "/bier-rechner/"
+  },
+  {
+    "from": "/",
+    "to": "/bierregionen/"
+  },
+  {
+    "from": "/",
+    "to": "/oktoberfest/"
+  },
+  {
+    "from": "/",
+    "to": "/biervergleich/pils-oder-helles/"
+  },
+  {
+    "from": "/",
+    "to": "/bierwissen/wie-viele-biersorten-gibt-es/"
+  },
+  {
+    "from": "/",
+    "to": "/bierwissen/wie-viel-bier-pro-person/"
+  },
+  {
+    "from": "/",
+    "to": "/bierwissen/bier-kalorien-tabelle/"
+  },
+  {
+    "from": "/",
+    "to": "/bier-rechner/biermenge-party/"
+  },
+  {
+    "from": "/",
+    "to": "/oktoberfest/bier-in-welchem-festzelt/"
+  },
+  {
+    "from": "/bierregionen/",
+    "to": "/bierregionen/bier-in-bayern/"
+  },
+  {
+    "from": "/bierregionen/",
+    "to": "/bierregionen/bier-in-muenchen/"
+  },
+  {
+    "from": "/bierregionen/",
+    "to": "/bierregionen/bier-in-franken/"
+  },
+  {
+    "from": "/bierregionen/",
+    "to": "/bierregionen/bier-in-koeln/"
+  },
+  {
+    "from": "/bierregionen/",
+    "to": "/bierregionen/bier-in-duesseldorf/"
+  },
+  {
+    "from": "/bierregionen/",
+    "to": "/bierregionen/bier-in-berlin/"
+  },
+  {
+    "from": "/bierregionen/",
+    "to": "/bierregionen/bier-in-baden-wuerttemberg/"
+  },
+  {
+    "from": "/bierregionen/",
+    "to": "/bierregionen/bier-in-sachsen-und-thueringen/"
+  },
+  {
+    "from": "/bierregionen/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/bierregionen/",
+    "to": "/bestenlisten/beliebteste-biersorten-deutschland/"
+  },
+  {
+    "from": "/bierregionen/",
+    "to": "/bierwissen/wie-viele-brauereien-gibt-es/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bestenlisten/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bestenlisten/beste-helle-deutschland/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bestenlisten/beste-pilsbiere-deutschland/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bestenlisten/beste-weizenbiere-deutschland/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bestenlisten/beste-alkoholfreie-biere-deutschland/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bestenlisten/groesste-brauereien-deutschland/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bestenlisten/aelteste-brauereien-deutschland/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bestenlisten/bestes-bier-deutschland/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bestenlisten/beliebteste-biersorten-deutschland/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bestenlisten/was-kostet-bier-in-deutschland/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bestenlisten/beliebteste-biermarken-deutschland/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bestenlisten/meistgetrunkenes-bier-deutschland/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bestenlisten/wie-viel-bier-wird-getrunken/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bier-rechner/alkoholmenge/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bier-rechner/bier-kuehlzeit/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bier-rechner/biermenge-party/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bier-rechner/bierpreis-pro-liter/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bier-rechner/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bier-rechner/fassbier/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierregionen/bier-in-baden-wuerttemberg/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierregionen/bier-in-bayern/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierregionen/bier-in-berlin/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierregionen/bier-in-duesseldorf/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierregionen/bier-in-franken/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierregionen/bier-in-koeln/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierregionen/bier-in-muenchen/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierregionen/bier-in-sachsen-und-thueringen/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierregionen/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biersorten/altbier/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biersorten/berliner-weisse/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biersorten/bockbier/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biersorten/doppelbock/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biersorten/dunkelbier/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biersorten/eisbock/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biersorten/exportbier/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biersorten/festbier-oktoberfestbier/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biersorten/gose/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biersorten/hefeweizen/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biersorten/helles/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biersorten/kristallweizen/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biersorten/koelsch/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biersorten/lagerbier/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biersorten/landbier/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biersorten/maerzenbier/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biersorten/pils/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biersorten/rauchbier/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biersorten/roggenbier/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biersorten/schwarzbier/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biersorten/weizenbier/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biersorten/weizenbock/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biersorten/zoiglbier/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biersorten/alkoholfreies-bier/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biersorten/dunkles-weizenbier/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biersorten/ipa-und-pale-ale/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biersorten/kellerbier-zwickelbier/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biersorten/porter-und-stout/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biersorten/radler-biermischgetraenke/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biervergleich/alkoholfrei-oder-null-komma-null/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biervergleich/altbier-oder-pils/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biervergleich/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biervergleich/bockbier-oder-doppelbock/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biervergleich/bockbier-oder-weizenbock/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biervergleich/dunkelbier-oder-schwarzbier/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biervergleich/hefeweizen-oder-kristallweizen/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biervergleich/helles-oder-export/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biervergleich/helles-oder-weizenbier/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biervergleich/ipa-oder-pils/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biervergleich/kellerbier-oder-zwickelbier/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biervergleich/koelsch-oder-altbier/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biervergleich/koelsch-oder-pils/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biervergleich/lager-oder-helles/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biervergleich/maerzen-oder-festbier/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biervergleich/pils-oder-export/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biervergleich/pils-oder-helles/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biervergleich/pils-oder-lager/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biervergleich/porter-oder-stout/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biervergleich/radler-oder-alsterwasser/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/biervergleich/weizenbier-oder-weissbier/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierwissen/aus-welchen-zutaten-besteht-bier/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierwissen/gefriertemperatur-bier/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierwissen/abgelaufenes-bier-trinken/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierwissen/bier-einfrieren/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierwissen/bier-richtig-einschenken/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierwissen/bier-richtig-lagern/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierwissen/bier-schnell-kuehlen/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierwissen/bier-warm-und-wieder-kalt/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierwissen/bier-kalorien-tabelle/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierwissen/bieretikett-lesen/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierwissen/bierflaschen-groessen/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierwissen/bierkasten-groessen/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierwissen/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierwissen/deutsches-reinheitsgebot/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierwissen/obergaerig-oder-untergaerig/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierwissen/warum-bierflaschen-braun-gruen/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierwissen/ebc-beim-bier/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierwissen/ibu-beim-bier/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierwissen/stammwuerze-beim-bier/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierwissen/naturtrueb-unfiltriert/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierwissen/was-ist-bier/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierwissen/optimale-trinktemperatur-bier/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierwissen/welches-bierglas/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierwissen/bier-im-kuehlschrank-kuehlen/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierwissen/partyfass-haltbarkeit/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierwissen/wie-lange-ist-bier-haltbar/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierwissen/dosenbier-haltbarkeit/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierwissen/geoeffnetes-bier-haltbar/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierwissen/wie-schwer-ist-bierkasten/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierwissen/wie-viel-alkohol-hat-bier/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierwissen/wie-viel-bier-pro-person/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierwissen/zucker-im-bier/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierwissen/wie-viel-ist-eine-mass/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierwissen/reiner-alkohol-im-bier/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierwissen/wie-viele-biermarken-gibt-es/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierwissen/wie-viele-biersorten-gibt-es/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierwissen/wie-viele-brauereien-gibt-es/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierwissen/wie-viele-flaschen-bierkasten/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierwissen/wie-viele-glaeser-aus-bierfass/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierwissen/wie-viele-kalorien-hat-bier/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierwissen/kohlenhydrate-bier/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierwissen/wie-viele-liter-bierkasten/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/bierwissen/wie-wird-bier-gebraut/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/datenschutz/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/impressum/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/kontakt/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/quellen-methodik/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/redaktionsrichtlinien/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/verantwortungsvoller-alkoholkonsum/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/ueber-uns/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/oktoberfest/festzelte/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/oktoberfest/sechs-oktoberfestbrauereien/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/oktoberfest/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/oktoberfest/reservierung-oeffnungszeiten/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/oktoberfest/karte-anreise/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/oktoberfest/bands-musik/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/oktoberfest/welches-bier-gibt-es/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/oktoberfest/bier-in-welchem-festzelt/"
+  },
+  {
+    "from": "/sitemap/",
+    "to": "/oktoberfest/bierpreise/"
+  },
+  {
+    "from": "/bier-rechner/",
+    "to": "/bier-rechner/biermenge-party/"
+  },
+  {
+    "from": "/bier-rechner/",
+    "to": "/bier-rechner/fassbier/"
+  },
+  {
+    "from": "/bier-rechner/",
+    "to": "/bier-rechner/bierpreis-pro-liter/"
+  },
+  {
+    "from": "/bier-rechner/",
+    "to": "/bier-rechner/bier-kuehlzeit/"
+  },
+  {
+    "from": "/bier-rechner/",
+    "to": "/bier-rechner/alkoholmenge/"
+  },
+  {
+    "from": "/oktoberfest/",
+    "to": "/oktoberfest/bier-in-welchem-festzelt/"
+  },
+  {
+    "from": "/oktoberfest/",
+    "to": "/oktoberfest/sechs-oktoberfestbrauereien/"
+  },
+  {
+    "from": "/oktoberfest/",
+    "to": "/oktoberfest/festzelte/"
+  },
+  {
+    "from": "/oktoberfest/",
+    "to": "/oktoberfest/welches-bier-gibt-es/"
+  },
+  {
+    "from": "/oktoberfest/",
+    "to": "/oktoberfest/bier-in-welchem-festzelt/"
+  },
+  {
+    "from": "/oktoberfest/",
+    "to": "/oktoberfest/festzelte/"
+  },
+  {
+    "from": "/oktoberfest/",
+    "to": "/oktoberfest/bierpreise/"
+  },
+  {
+    "from": "/oktoberfest/",
+    "to": "/oktoberfest/reservierung-oeffnungszeiten/"
+  },
+  {
+    "from": "/oktoberfest/",
+    "to": "/oktoberfest/karte-anreise/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/biersorten/pils/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/biersorten/helles/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/biersorten/lagerbier/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/biersorten/exportbier/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/biersorten/weizenbier/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/biersorten/hefeweizen/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/biersorten/kristallweizen/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/biersorten/dunkles-weizenbier/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/biersorten/koelsch/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/biersorten/altbier/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/biersorten/schwarzbier/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/biersorten/dunkelbier/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/biersorten/kellerbier-zwickelbier/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/biersorten/maerzenbier/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/biersorten/festbier-oktoberfestbier/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/biersorten/bockbier/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/biersorten/doppelbock/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/biersorten/weizenbock/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/biersorten/eisbock/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/biersorten/berliner-weisse/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/biersorten/gose/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/biersorten/rauchbier/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/biersorten/zoiglbier/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/biersorten/roggenbier/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/biersorten/landbier/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/biersorten/alkoholfreies-bier/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/biersorten/radler-biermischgetraenke/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/biersorten/ipa-und-pale-ale/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/biersorten/porter-und-stout/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/biersorten/pils/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/biersorten/helles/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/biersorten/exportbier/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/biersorten/dunkelbier/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/biersorten/schwarzbier/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/biersorten/weizenbier/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/biersorten/koelsch/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/biersorten/altbier/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/biersorten/ipa-und-pale-ale/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/biersorten/porter-und-stout/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/biersorten/berliner-weisse/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/biersorten/gose/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/biersorten/rauchbier/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/biersorten/zoiglbier/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/bierwissen/obergaerig-oder-untergaerig/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/bierwissen/wie-viele-biersorten-gibt-es/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/bestenlisten/beliebteste-biersorten-deutschland/"
+  },
+  {
+    "from": "/biersorten/",
+    "to": "/bierregionen/"
+  },
+  {
+    "from": "/biersorten/ipa-und-pale-ale/",
+    "to": "/biervergleich/ipa-oder-pils/"
+  },
+  {
+    "from": "/biersorten/ipa-und-pale-ale/",
+    "to": "/biersorten/pils/"
+  },
+  {
+    "from": "/biersorten/ipa-und-pale-ale/",
+    "to": "/bierwissen/ibu-beim-bier/"
+  },
+  {
+    "from": "/biersorten/ipa-und-pale-ale/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/biersorten/ipa-und-pale-ale/",
+    "to": "/biersorten/radler-biermischgetraenke/"
+  },
+  {
+    "from": "/biersorten/ipa-und-pale-ale/",
+    "to": "/biersorten/porter-und-stout/"
+  },
+  {
+    "from": "/biersorten/ipa-und-pale-ale/",
+    "to": "/biersorten/alkoholfreies-bier/"
+  },
+  {
+    "from": "/biersorten/kristallweizen/",
+    "to": "/biersorten/hefeweizen/"
+  },
+  {
+    "from": "/biersorten/kristallweizen/",
+    "to": "/biervergleich/hefeweizen-oder-kristallweizen/"
+  },
+  {
+    "from": "/biersorten/kristallweizen/",
+    "to": "/biersorten/weizenbier/"
+  },
+  {
+    "from": "/biersorten/kristallweizen/",
+    "to": "/bierregionen/bier-in-baden-wuerttemberg/"
+  },
+  {
+    "from": "/biersorten/kristallweizen/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/biersorten/kristallweizen/",
+    "to": "/biersorten/dunkles-weizenbier/"
+  },
+  {
+    "from": "/biersorten/kristallweizen/",
+    "to": "/biersorten/koelsch/"
+  },
+  {
+    "from": "/biersorten/bockbier/",
+    "to": "/biersorten/doppelbock/"
+  },
+  {
+    "from": "/biersorten/bockbier/",
+    "to": "/biervergleich/bockbier-oder-doppelbock/"
+  },
+  {
+    "from": "/biersorten/bockbier/",
+    "to": "/biersorten/weizenbock/"
+  },
+  {
+    "from": "/biersorten/bockbier/",
+    "to": "/biersorten/eisbock/"
+  },
+  {
+    "from": "/biersorten/bockbier/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/biersorten/bockbier/",
+    "to": "/biersorten/festbier-oktoberfestbier/"
+  },
+  {
+    "from": "/biersorten/bockbier/",
+    "to": "/biersorten/maerzenbier/"
+  },
+  {
+    "from": "/biersorten/schwarzbier/",
+    "to": "/biersorten/dunkelbier/"
+  },
+  {
+    "from": "/biersorten/schwarzbier/",
+    "to": "/biervergleich/dunkelbier-oder-schwarzbier/"
+  },
+  {
+    "from": "/biersorten/schwarzbier/",
+    "to": "/bierregionen/bier-in-sachsen-und-thueringen/"
+  },
+  {
+    "from": "/biersorten/schwarzbier/",
+    "to": "/biersorten/porter-und-stout/"
+  },
+  {
+    "from": "/biersorten/schwarzbier/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/biersorten/schwarzbier/",
+    "to": "/biersorten/altbier/"
+  },
+  {
+    "from": "/biersorten/schwarzbier/",
+    "to": "/biersorten/koelsch/"
+  },
+  {
+    "from": "/biersorten/schwarzbier/",
+    "to": "/biersorten/kellerbier-zwickelbier/"
+  },
+  {
+    "from": "/biersorten/helles/",
+    "to": "/biersorten/pils/"
+  },
+  {
+    "from": "/biersorten/helles/",
+    "to": "/biervergleich/pils-oder-helles/"
+  },
+  {
+    "from": "/biersorten/helles/",
+    "to": "/bierregionen/bier-in-bayern/"
+  },
+  {
+    "from": "/biersorten/helles/",
+    "to": "/bestenlisten/beste-helle-deutschland/"
+  },
+  {
+    "from": "/biersorten/helles/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/biersorten/helles/",
+    "to": "/biersorten/lagerbier/"
+  },
+  {
+    "from": "/biersorten/helles/",
+    "to": "/biersorten/exportbier/"
+  },
+  {
+    "from": "/biersorten/weizenbier/",
+    "to": "/biersorten/hefeweizen/"
+  },
+  {
+    "from": "/biersorten/weizenbier/",
+    "to": "/biersorten/kristallweizen/"
+  },
+  {
+    "from": "/biersorten/weizenbier/",
+    "to": "/biersorten/dunkles-weizenbier/"
+  },
+  {
+    "from": "/biersorten/weizenbier/",
+    "to": "/biervergleich/weizenbier-oder-weissbier/"
+  },
+  {
+    "from": "/biersorten/weizenbier/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/biersorten/weizenbier/",
+    "to": "/biersorten/exportbier/"
+  },
+  {
+    "from": "/biersorten/weizenbier/",
+    "to": "/biersorten/lagerbier/"
+  },
+  {
+    "from": "/biersorten/weizenbock/",
+    "to": "/biersorten/weizenbier/"
+  },
+  {
+    "from": "/biersorten/weizenbock/",
+    "to": "/biersorten/bockbier/"
+  },
+  {
+    "from": "/biersorten/weizenbock/",
+    "to": "/biervergleich/bockbier-oder-weizenbock/"
+  },
+  {
+    "from": "/biersorten/weizenbock/",
+    "to": "/biersorten/dunkles-weizenbier/"
+  },
+  {
+    "from": "/biersorten/weizenbock/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/biersorten/weizenbock/",
+    "to": "/biersorten/doppelbock/"
+  },
+  {
+    "from": "/biersorten/weizenbock/",
+    "to": "/biersorten/eisbock/"
+  },
+  {
+    "from": "/biersorten/weizenbock/",
+    "to": "/biersorten/berliner-weisse/"
+  },
+  {
+    "from": "/biersorten/radler-biermischgetraenke/",
+    "to": "/biervergleich/radler-oder-alsterwasser/"
+  },
+  {
+    "from": "/biersorten/radler-biermischgetraenke/",
+    "to": "/biersorten/alkoholfreies-bier/"
+  },
+  {
+    "from": "/biersorten/radler-biermischgetraenke/",
+    "to": "/bierwissen/wie-viel-alkohol-hat-bier/"
+  },
+  {
+    "from": "/biersorten/radler-biermischgetraenke/",
+    "to": "/bestenlisten/wie-viel-bier-wird-getrunken/"
+  },
+  {
+    "from": "/biersorten/radler-biermischgetraenke/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/biersorten/radler-biermischgetraenke/",
+    "to": "/biersorten/ipa-und-pale-ale/"
+  },
+  {
+    "from": "/biersorten/radler-biermischgetraenke/",
+    "to": "/biersorten/landbier/"
+  },
+  {
+    "from": "/biersorten/radler-biermischgetraenke/",
+    "to": "/biersorten/porter-und-stout/"
+  },
+  {
+    "from": "/biersorten/alkoholfreies-bier/",
+    "to": "/biervergleich/alkoholfrei-oder-null-komma-null/"
+  },
+  {
+    "from": "/biersorten/alkoholfreies-bier/",
+    "to": "/bestenlisten/beste-alkoholfreie-biere-deutschland/"
+  },
+  {
+    "from": "/biersorten/alkoholfreies-bier/",
+    "to": "/bierwissen/wie-viele-kalorien-hat-bier/"
+  },
+  {
+    "from": "/biersorten/alkoholfreies-bier/",
+    "to": "/bestenlisten/beliebteste-biersorten-deutschland/"
+  },
+  {
+    "from": "/biersorten/alkoholfreies-bier/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/biersorten/alkoholfreies-bier/",
+    "to": "/biersorten/landbier/"
+  },
+  {
+    "from": "/biersorten/alkoholfreies-bier/",
+    "to": "/biersorten/radler-biermischgetraenke/"
+  },
+  {
+    "from": "/biersorten/alkoholfreies-bier/",
+    "to": "/biersorten/roggenbier/"
+  },
+  {
+    "from": "/biersorten/berliner-weisse/",
+    "to": "/biersorten/gose/"
+  },
+  {
+    "from": "/biersorten/berliner-weisse/",
+    "to": "/bierregionen/bier-in-berlin/"
+  },
+  {
+    "from": "/biersorten/berliner-weisse/",
+    "to": "/bierwissen/obergaerig-oder-untergaerig/"
+  },
+  {
+    "from": "/biersorten/berliner-weisse/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/biersorten/berliner-weisse/",
+    "to": "/biersorten/eisbock/"
+  },
+  {
+    "from": "/biersorten/berliner-weisse/",
+    "to": "/biersorten/weizenbock/"
+  },
+  {
+    "from": "/biersorten/berliner-weisse/",
+    "to": "/biersorten/rauchbier/"
+  },
+  {
+    "from": "/biersorten/hefeweizen/",
+    "to": "/biersorten/weizenbier/"
+  },
+  {
+    "from": "/biersorten/hefeweizen/",
+    "to": "/biersorten/kristallweizen/"
+  },
+  {
+    "from": "/biersorten/hefeweizen/",
+    "to": "/biervergleich/hefeweizen-oder-kristallweizen/"
+  },
+  {
+    "from": "/biersorten/hefeweizen/",
+    "to": "/bierwissen/welches-bierglas/"
+  },
+  {
+    "from": "/biersorten/hefeweizen/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/biersorten/hefeweizen/",
+    "to": "/biersorten/exportbier/"
+  },
+  {
+    "from": "/biersorten/hefeweizen/",
+    "to": "/biersorten/dunkles-weizenbier/"
+  },
+  {
+    "from": "/biersorten/doppelbock/",
+    "to": "/biersorten/bockbier/"
+  },
+  {
+    "from": "/biersorten/doppelbock/",
+    "to": "/biervergleich/bockbier-oder-doppelbock/"
+  },
+  {
+    "from": "/biersorten/doppelbock/",
+    "to": "/biersorten/eisbock/"
+  },
+  {
+    "from": "/biersorten/doppelbock/",
+    "to": "/bierregionen/bier-in-bayern/"
+  },
+  {
+    "from": "/biersorten/doppelbock/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/biersorten/doppelbock/",
+    "to": "/biersorten/weizenbock/"
+  },
+  {
+    "from": "/biersorten/doppelbock/",
+    "to": "/biersorten/festbier-oktoberfestbier/"
+  },
+  {
+    "from": "/biersorten/pils/",
+    "to": "/biersorten/helles/"
+  },
+  {
+    "from": "/biersorten/pils/",
+    "to": "/biervergleich/pils-oder-helles/"
+  },
+  {
+    "from": "/biersorten/pils/",
+    "to": "/bierwissen/ibu-beim-bier/"
+  },
+  {
+    "from": "/biersorten/pils/",
+    "to": "/bestenlisten/beste-pilsbiere-deutschland/"
+  },
+  {
+    "from": "/biersorten/pils/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/biersorten/pils/",
+    "to": "/biersorten/lagerbier/"
+  },
+  {
+    "from": "/biersorten/landbier/",
+    "to": "/biersorten/kellerbier-zwickelbier/"
+  },
+  {
+    "from": "/biersorten/landbier/",
+    "to": "/bierregionen/"
+  },
+  {
+    "from": "/biersorten/landbier/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/biersorten/landbier/",
+    "to": "/bestenlisten/beliebteste-biermarken-deutschland/"
+  },
+  {
+    "from": "/biersorten/landbier/",
+    "to": "/biersorten/roggenbier/"
+  },
+  {
+    "from": "/biersorten/landbier/",
+    "to": "/biersorten/alkoholfreies-bier/"
+  },
+  {
+    "from": "/biersorten/landbier/",
+    "to": "/biersorten/zoiglbier/"
+  },
+  {
+    "from": "/biersorten/landbier/",
+    "to": "/biersorten/radler-biermischgetraenke/"
+  },
+  {
+    "from": "/biersorten/lagerbier/",
+    "to": "/biersorten/helles/"
+  },
+  {
+    "from": "/biersorten/lagerbier/",
+    "to": "/biersorten/pils/"
+  },
+  {
+    "from": "/biersorten/lagerbier/",
+    "to": "/biersorten/exportbier/"
+  },
+  {
+    "from": "/biersorten/lagerbier/",
+    "to": "/biervergleich/lager-oder-helles/"
+  },
+  {
+    "from": "/biersorten/lagerbier/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/biersorten/lagerbier/",
+    "to": "/biersorten/weizenbier/"
+  },
+  {
+    "from": "/biersorten/altbier/",
+    "to": "/biersorten/koelsch/"
+  },
+  {
+    "from": "/biersorten/altbier/",
+    "to": "/biervergleich/koelsch-oder-altbier/"
+  },
+  {
+    "from": "/biersorten/altbier/",
+    "to": "/biervergleich/altbier-oder-pils/"
+  },
+  {
+    "from": "/biersorten/altbier/",
+    "to": "/bierregionen/bier-in-duesseldorf/"
+  },
+  {
+    "from": "/biersorten/altbier/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/biersorten/altbier/",
+    "to": "/biersorten/schwarzbier/"
+  },
+  {
+    "from": "/biersorten/altbier/",
+    "to": "/biersorten/dunkles-weizenbier/"
+  },
+  {
+    "from": "/biersorten/altbier/",
+    "to": "/biersorten/dunkelbier/"
+  },
+  {
+    "from": "/biersorten/exportbier/",
+    "to": "/biersorten/helles/"
+  },
+  {
+    "from": "/biersorten/exportbier/",
+    "to": "/biervergleich/helles-oder-export/"
+  },
+  {
+    "from": "/biersorten/exportbier/",
+    "to": "/biervergleich/pils-oder-export/"
+  },
+  {
+    "from": "/biersorten/exportbier/",
+    "to": "/bierregionen/bier-in-baden-wuerttemberg/"
+  },
+  {
+    "from": "/biersorten/exportbier/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/biersorten/exportbier/",
+    "to": "/biersorten/lagerbier/"
+  },
+  {
+    "from": "/biersorten/exportbier/",
+    "to": "/biersorten/weizenbier/"
+  },
+  {
+    "from": "/biersorten/exportbier/",
+    "to": "/biersorten/hefeweizen/"
+  },
+  {
+    "from": "/biersorten/rauchbier/",
+    "to": "/bierregionen/bier-in-franken/"
+  },
+  {
+    "from": "/biersorten/rauchbier/",
+    "to": "/biersorten/dunkelbier/"
+  },
+  {
+    "from": "/biersorten/rauchbier/",
+    "to": "/bierwissen/optimale-trinktemperatur-bier/"
+  },
+  {
+    "from": "/biersorten/rauchbier/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/biersorten/rauchbier/",
+    "to": "/biersorten/gose/"
+  },
+  {
+    "from": "/biersorten/rauchbier/",
+    "to": "/biersorten/zoiglbier/"
+  },
+  {
+    "from": "/biersorten/rauchbier/",
+    "to": "/biersorten/berliner-weisse/"
+  },
+  {
+    "from": "/biersorten/rauchbier/",
+    "to": "/biersorten/roggenbier/"
+  },
+  {
+    "from": "/biersorten/zoiglbier/",
+    "to": "/biersorten/kellerbier-zwickelbier/"
+  },
+  {
+    "from": "/biersorten/zoiglbier/",
+    "to": "/bierregionen/bier-in-bayern/"
+  },
+  {
+    "from": "/biersorten/zoiglbier/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/biersorten/zoiglbier/",
+    "to": "/bierwissen/bier-richtig-lagern/"
+  },
+  {
+    "from": "/biersorten/zoiglbier/",
+    "to": "/biersorten/rauchbier/"
+  },
+  {
+    "from": "/biersorten/zoiglbier/",
+    "to": "/biersorten/roggenbier/"
+  },
+  {
+    "from": "/biersorten/zoiglbier/",
+    "to": "/biersorten/gose/"
+  },
+  {
+    "from": "/biersorten/zoiglbier/",
+    "to": "/biersorten/landbier/"
+  },
+  {
+    "from": "/biersorten/dunkles-weizenbier/",
+    "to": "/biersorten/weizenbier/"
+  },
+  {
+    "from": "/biersorten/dunkles-weizenbier/",
+    "to": "/biersorten/dunkelbier/"
+  },
+  {
+    "from": "/biersorten/dunkles-weizenbier/",
+    "to": "/biervergleich/helles-oder-weizenbier/"
+  },
+  {
+    "from": "/biersorten/dunkles-weizenbier/",
+    "to": "/biersorten/weizenbock/"
+  },
+  {
+    "from": "/biersorten/dunkles-weizenbier/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/biersorten/dunkles-weizenbier/",
+    "to": "/biersorten/kristallweizen/"
+  },
+  {
+    "from": "/biersorten/dunkles-weizenbier/",
+    "to": "/biersorten/koelsch/"
+  },
+  {
+    "from": "/biersorten/dunkles-weizenbier/",
+    "to": "/biersorten/hefeweizen/"
+  },
+  {
+    "from": "/biersorten/roggenbier/",
+    "to": "/biersorten/weizenbier/"
+  },
+  {
+    "from": "/biersorten/roggenbier/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/biersorten/roggenbier/",
+    "to": "/bierwissen/obergaerig-oder-untergaerig/"
+  },
+  {
+    "from": "/biersorten/roggenbier/",
+    "to": "/bierregionen/bier-in-bayern/"
+  },
+  {
+    "from": "/biersorten/roggenbier/",
+    "to": "/biersorten/zoiglbier/"
+  },
+  {
+    "from": "/biersorten/roggenbier/",
+    "to": "/biersorten/landbier/"
+  },
+  {
+    "from": "/biersorten/roggenbier/",
+    "to": "/biersorten/rauchbier/"
+  },
+  {
+    "from": "/biersorten/roggenbier/",
+    "to": "/biersorten/alkoholfreies-bier/"
+  },
+  {
+    "from": "/biersorten/festbier-oktoberfestbier/",
+    "to": "/biersorten/maerzenbier/"
+  },
+  {
+    "from": "/biersorten/festbier-oktoberfestbier/",
+    "to": "/biervergleich/maerzen-oder-festbier/"
+  },
+  {
+    "from": "/biersorten/festbier-oktoberfestbier/",
+    "to": "/oktoberfest/sechs-oktoberfestbrauereien/"
+  },
+  {
+    "from": "/biersorten/festbier-oktoberfestbier/",
+    "to": "/oktoberfest/bier-in-welchem-festzelt/"
+  },
+  {
+    "from": "/biersorten/festbier-oktoberfestbier/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/biersorten/festbier-oktoberfestbier/",
+    "to": "/biersorten/bockbier/"
+  },
+  {
+    "from": "/biersorten/festbier-oktoberfestbier/",
+    "to": "/biersorten/kellerbier-zwickelbier/"
+  },
+  {
+    "from": "/biersorten/festbier-oktoberfestbier/",
+    "to": "/biersorten/doppelbock/"
+  },
+  {
+    "from": "/biersorten/maerzenbier/",
+    "to": "/biersorten/festbier-oktoberfestbier/"
+  },
+  {
+    "from": "/biersorten/maerzenbier/",
+    "to": "/biervergleich/maerzen-oder-festbier/"
+  },
+  {
+    "from": "/biersorten/maerzenbier/",
+    "to": "/oktoberfest/welches-bier-gibt-es/"
+  },
+  {
+    "from": "/biersorten/maerzenbier/",
+    "to": "/biersorten/bockbier/"
+  },
+  {
+    "from": "/biersorten/maerzenbier/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/biersorten/maerzenbier/",
+    "to": "/biersorten/kellerbier-zwickelbier/"
+  },
+  {
+    "from": "/biersorten/maerzenbier/",
+    "to": "/biersorten/dunkelbier/"
+  },
+  {
+    "from": "/biersorten/eisbock/",
+    "to": "/biersorten/bockbier/"
+  },
+  {
+    "from": "/biersorten/eisbock/",
+    "to": "/biersorten/doppelbock/"
+  },
+  {
+    "from": "/biersorten/eisbock/",
+    "to": "/bierwissen/bier-richtig-lagern/"
+  },
+  {
+    "from": "/biersorten/eisbock/",
+    "to": "/bierwissen/wie-viel-alkohol-hat-bier/"
+  },
+  {
+    "from": "/biersorten/eisbock/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/biersorten/eisbock/",
+    "to": "/biersorten/weizenbock/"
+  },
+  {
+    "from": "/biersorten/eisbock/",
+    "to": "/biersorten/berliner-weisse/"
+  },
+  {
+    "from": "/biersorten/eisbock/",
+    "to": "/biersorten/gose/"
+  },
+  {
+    "from": "/biersorten/porter-und-stout/",
+    "to": "/biervergleich/porter-oder-stout/"
+  },
+  {
+    "from": "/biersorten/porter-und-stout/",
+    "to": "/biersorten/schwarzbier/"
+  },
+  {
+    "from": "/biersorten/porter-und-stout/",
+    "to": "/biersorten/dunkelbier/"
+  },
+  {
+    "from": "/biersorten/porter-und-stout/",
+    "to": "/bierwissen/optimale-trinktemperatur-bier/"
+  },
+  {
+    "from": "/biersorten/porter-und-stout/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/biersorten/porter-und-stout/",
+    "to": "/biersorten/ipa-und-pale-ale/"
+  },
+  {
+    "from": "/biersorten/porter-und-stout/",
+    "to": "/biersorten/radler-biermischgetraenke/"
+  },
+  {
+    "from": "/biersorten/gose/",
+    "to": "/biersorten/berliner-weisse/"
+  },
+  {
+    "from": "/biersorten/gose/",
+    "to": "/bierregionen/bier-in-sachsen-und-thueringen/"
+  },
+  {
+    "from": "/biersorten/gose/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/biersorten/gose/",
+    "to": "/biersorten/ipa-und-pale-ale/"
+  },
+  {
+    "from": "/biersorten/gose/",
+    "to": "/biersorten/rauchbier/"
+  },
+  {
+    "from": "/biersorten/gose/",
+    "to": "/biersorten/eisbock/"
+  },
+  {
+    "from": "/biersorten/gose/",
+    "to": "/biersorten/zoiglbier/"
+  },
+  {
+    "from": "/biersorten/kellerbier-zwickelbier/",
+    "to": "/biervergleich/kellerbier-oder-zwickelbier/"
+  },
+  {
+    "from": "/biersorten/kellerbier-zwickelbier/",
+    "to": "/bierregionen/bier-in-franken/"
+  },
+  {
+    "from": "/biersorten/kellerbier-zwickelbier/",
+    "to": "/biersorten/zoiglbier/"
+  },
+  {
+    "from": "/biersorten/kellerbier-zwickelbier/",
+    "to": "/bierwissen/bier-richtig-lagern/"
+  },
+  {
+    "from": "/biersorten/kellerbier-zwickelbier/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/biersorten/kellerbier-zwickelbier/",
+    "to": "/biersorten/dunkelbier/"
+  },
+  {
+    "from": "/biersorten/kellerbier-zwickelbier/",
+    "to": "/biersorten/maerzenbier/"
+  },
+  {
+    "from": "/biersorten/kellerbier-zwickelbier/",
+    "to": "/biersorten/schwarzbier/"
+  },
+  {
+    "from": "/biersorten/dunkelbier/",
+    "to": "/biersorten/schwarzbier/"
+  },
+  {
+    "from": "/biersorten/dunkelbier/",
+    "to": "/biervergleich/dunkelbier-oder-schwarzbier/"
+  },
+  {
+    "from": "/biersorten/dunkelbier/",
+    "to": "/bierregionen/bier-in-bayern/"
+  },
+  {
+    "from": "/biersorten/dunkelbier/",
+    "to": "/biersorten/dunkles-weizenbier/"
+  },
+  {
+    "from": "/biersorten/dunkelbier/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/biersorten/dunkelbier/",
+    "to": "/biersorten/kellerbier-zwickelbier/"
+  },
+  {
+    "from": "/biersorten/dunkelbier/",
+    "to": "/biersorten/altbier/"
+  },
+  {
+    "from": "/biersorten/dunkelbier/",
+    "to": "/biersorten/maerzenbier/"
+  },
+  {
+    "from": "/biersorten/koelsch/",
+    "to": "/biersorten/altbier/"
+  },
+  {
+    "from": "/biersorten/koelsch/",
+    "to": "/biervergleich/koelsch-oder-altbier/"
+  },
+  {
+    "from": "/biersorten/koelsch/",
+    "to": "/biervergleich/koelsch-oder-pils/"
+  },
+  {
+    "from": "/biersorten/koelsch/",
+    "to": "/bierregionen/bier-in-koeln/"
+  },
+  {
+    "from": "/biersorten/koelsch/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/biersorten/koelsch/",
+    "to": "/biersorten/dunkles-weizenbier/"
+  },
+  {
+    "from": "/biersorten/koelsch/",
+    "to": "/biersorten/kristallweizen/"
+  },
+  {
+    "from": "/biersorten/koelsch/",
+    "to": "/biersorten/schwarzbier/"
+  },
+  {
+    "from": "/oktoberfest/bands-musik/",
+    "to": "/oktoberfest/festzelte/"
+  },
+  {
+    "from": "/oktoberfest/bands-musik/",
+    "to": "/oktoberfest/reservierung-oeffnungszeiten/"
+  },
+  {
+    "from": "/oktoberfest/bands-musik/",
+    "to": "/oktoberfest/bier-in-welchem-festzelt/"
+  },
+  {
+    "from": "/oktoberfest/bands-musik/",
+    "to": "/oktoberfest/"
+  },
+  {
+    "from": "/oktoberfest/bands-musik/",
+    "to": "/oktoberfest/bierpreise/"
+  },
+  {
+    "from": "/oktoberfest/bands-musik/",
+    "to": "/oktoberfest/karte-anreise/"
+  },
+  {
+    "from": "/oktoberfest/festzelte/",
+    "to": "/oktoberfest/bier-in-welchem-festzelt/"
+  },
+  {
+    "from": "/oktoberfest/festzelte/",
+    "to": "/oktoberfest/karte-anreise/"
+  },
+  {
+    "from": "/oktoberfest/festzelte/",
+    "to": "/oktoberfest/reservierung-oeffnungszeiten/"
+  },
+  {
+    "from": "/oktoberfest/festzelte/",
+    "to": "/oktoberfest/bands-musik/"
+  },
+  {
+    "from": "/oktoberfest/festzelte/",
+    "to": "/oktoberfest/"
+  },
+  {
+    "from": "/oktoberfest/festzelte/",
+    "to": "/oktoberfest/bierpreise/"
+  },
+  {
+    "from": "/oktoberfest/festzelte/",
+    "to": "/oktoberfest/sechs-oktoberfestbrauereien/"
+  },
+  {
+    "from": "/oktoberfest/karte-anreise/",
+    "to": "/oktoberfest/festzelte/"
+  },
+  {
+    "from": "/oktoberfest/karte-anreise/",
+    "to": "/oktoberfest/reservierung-oeffnungszeiten/"
+  },
+  {
+    "from": "/oktoberfest/karte-anreise/",
+    "to": "/oktoberfest/bier-in-welchem-festzelt/"
+  },
+  {
+    "from": "/oktoberfest/karte-anreise/",
+    "to": "/oktoberfest/"
+  },
+  {
+    "from": "/oktoberfest/karte-anreise/",
+    "to": "/oktoberfest/bands-musik/"
+  },
+  {
+    "from": "/oktoberfest/reservierung-oeffnungszeiten/",
+    "to": "/oktoberfest/festzelte/"
+  },
+  {
+    "from": "/oktoberfest/reservierung-oeffnungszeiten/",
+    "to": "/oktoberfest/bierpreise/"
+  },
+  {
+    "from": "/oktoberfest/reservierung-oeffnungszeiten/",
+    "to": "/oktoberfest/karte-anreise/"
+  },
+  {
+    "from": "/oktoberfest/reservierung-oeffnungszeiten/",
+    "to": "/oktoberfest/bands-musik/"
+  },
+  {
+    "from": "/oktoberfest/reservierung-oeffnungszeiten/",
+    "to": "/oktoberfest/"
+  },
+  {
+    "from": "/oktoberfest/bierpreise/",
+    "to": "/oktoberfest/welches-bier-gibt-es/"
+  },
+  {
+    "from": "/oktoberfest/bierpreise/",
+    "to": "/oktoberfest/bier-in-welchem-festzelt/"
+  },
+  {
+    "from": "/oktoberfest/bierpreise/",
+    "to": "/bestenlisten/was-kostet-bier-in-deutschland/"
+  },
+  {
+    "from": "/oktoberfest/bierpreise/",
+    "to": "/oktoberfest/reservierung-oeffnungszeiten/"
+  },
+  {
+    "from": "/oktoberfest/bierpreise/",
+    "to": "/oktoberfest/"
+  },
+  {
+    "from": "/oktoberfest/bierpreise/",
+    "to": "/oktoberfest/festzelte/"
+  },
+  {
+    "from": "/oktoberfest/bierpreise/",
+    "to": "/oktoberfest/bands-musik/"
+  },
+  {
+    "from": "/oktoberfest/bier-in-welchem-festzelt/",
+    "to": "/oktoberfest/festzelte/"
+  },
+  {
+    "from": "/oktoberfest/bier-in-welchem-festzelt/",
+    "to": "/oktoberfest/sechs-oktoberfestbrauereien/"
+  },
+  {
+    "from": "/oktoberfest/bier-in-welchem-festzelt/",
+    "to": "/oktoberfest/bierpreise/"
+  },
+  {
+    "from": "/oktoberfest/bier-in-welchem-festzelt/",
+    "to": "/oktoberfest/bands-musik/"
+  },
+  {
+    "from": "/oktoberfest/bier-in-welchem-festzelt/",
+    "to": "/oktoberfest/"
+  },
+  {
+    "from": "/oktoberfest/bier-in-welchem-festzelt/",
+    "to": "/oktoberfest/welches-bier-gibt-es/"
+  },
+  {
+    "from": "/oktoberfest/welches-bier-gibt-es/",
+    "to": "/biervergleich/maerzen-oder-festbier/"
+  },
+  {
+    "from": "/oktoberfest/welches-bier-gibt-es/",
+    "to": "/oktoberfest/sechs-oktoberfestbrauereien/"
+  },
+  {
+    "from": "/oktoberfest/welches-bier-gibt-es/",
+    "to": "/oktoberfest/bier-in-welchem-festzelt/"
+  },
+  {
+    "from": "/oktoberfest/welches-bier-gibt-es/",
+    "to": "/biersorten/festbier-oktoberfestbier/"
+  },
+  {
+    "from": "/oktoberfest/welches-bier-gibt-es/",
+    "to": "/biersorten/maerzenbier/"
+  },
+  {
+    "from": "/oktoberfest/welches-bier-gibt-es/",
+    "to": "/biersorten/alkoholfreies-bier/"
+  },
+  {
+    "from": "/oktoberfest/welches-bier-gibt-es/",
+    "to": "/oktoberfest/"
+  },
+  {
+    "from": "/oktoberfest/sechs-oktoberfestbrauereien/",
+    "to": "/oktoberfest/welches-bier-gibt-es/"
+  },
+  {
+    "from": "/oktoberfest/sechs-oktoberfestbrauereien/",
+    "to": "/oktoberfest/bier-in-welchem-festzelt/"
+  },
+  {
+    "from": "/oktoberfest/sechs-oktoberfestbrauereien/",
+    "to": "/bierregionen/bier-in-muenchen/"
+  },
+  {
+    "from": "/oktoberfest/sechs-oktoberfestbrauereien/",
+    "to": "/bestenlisten/aelteste-brauereien-deutschland/"
+  },
+  {
+    "from": "/oktoberfest/sechs-oktoberfestbrauereien/",
+    "to": "/oktoberfest/"
+  },
+  {
+    "from": "/oktoberfest/sechs-oktoberfestbrauereien/",
+    "to": "/oktoberfest/festzelte/"
+  },
+  {
+    "from": "/bier-rechner/bier-kuehlzeit/",
+    "to": "/bierwissen/bier-schnell-kuehlen/"
+  },
+  {
+    "from": "/bier-rechner/bier-kuehlzeit/",
+    "to": "/bierwissen/bier-im-kuehlschrank-kuehlen/"
+  },
+  {
+    "from": "/bier-rechner/bier-kuehlzeit/",
+    "to": "/bierwissen/optimale-trinktemperatur-bier/"
+  },
+  {
+    "from": "/bier-rechner/bier-kuehlzeit/",
+    "to": "/bierwissen/gefriertemperatur-bier/"
+  },
+  {
+    "from": "/bier-rechner/bier-kuehlzeit/",
+    "to": "/bier-rechner/bierpreis-pro-liter/"
+  },
+  {
+    "from": "/bier-rechner/bier-kuehlzeit/",
+    "to": "/bier-rechner/alkoholmenge/"
+  },
+  {
+    "from": "/bier-rechner/bierpreis-pro-liter/",
+    "to": "/bier-rechner/alkoholmenge/"
+  },
+  {
+    "from": "/bier-rechner/bierpreis-pro-liter/",
+    "to": "/bier-rechner/bier-kuehlzeit/"
+  },
+  {
+    "from": "/bier-rechner/bierpreis-pro-liter/",
+    "to": "/bier-rechner/fassbier/"
+  },
+  {
+    "from": "/bier-rechner/biermenge-party/",
+    "to": "/bierwissen/wie-viel-bier-pro-person/"
+  },
+  {
+    "from": "/bier-rechner/biermenge-party/",
+    "to": "/bierwissen/wie-viele-liter-bierkasten/"
+  },
+  {
+    "from": "/bier-rechner/biermenge-party/",
+    "to": "/bier-rechner/bierpreis-pro-liter/"
+  },
+  {
+    "from": "/bier-rechner/biermenge-party/",
+    "to": "/bier-rechner/fassbier/"
+  },
+  {
+    "from": "/bier-rechner/biermenge-party/",
+    "to": "/bier-rechner/alkoholmenge/"
+  },
+  {
+    "from": "/bier-rechner/fassbier/",
+    "to": "/bierwissen/wie-viele-glaeser-aus-bierfass/"
+  },
+  {
+    "from": "/bier-rechner/fassbier/",
+    "to": "/bierwissen/wie-viel-ist-eine-mass/"
+  },
+  {
+    "from": "/bier-rechner/fassbier/",
+    "to": "/bierwissen/wie-viel-bier-pro-person/"
+  },
+  {
+    "from": "/bier-rechner/fassbier/",
+    "to": "/bier-rechner/biermenge-party/"
+  },
+  {
+    "from": "/bier-rechner/fassbier/",
+    "to": "/bier-rechner/alkoholmenge/"
+  },
+  {
+    "from": "/bier-rechner/fassbier/",
+    "to": "/bier-rechner/bierpreis-pro-liter/"
+  },
+  {
+    "from": "/bier-rechner/alkoholmenge/",
+    "to": "/bier-rechner/fassbier/"
+  },
+  {
+    "from": "/bier-rechner/alkoholmenge/",
+    "to": "/bier-rechner/bierpreis-pro-liter/"
+  },
+  {
+    "from": "/bier-rechner/alkoholmenge/",
+    "to": "/bier-rechner/biermenge-party/"
+  },
+  {
+    "from": "/bier-rechner/alkoholmenge/",
+    "to": "/bier-rechner/bier-kuehlzeit/"
+  },
+  {
+    "from": "/bierwissen/bier-warm-und-wieder-kalt/",
+    "to": "/bierwissen/"
+  },
+  {
+    "from": "/bierwissen/bier-warm-und-wieder-kalt/",
+    "to": "/bierwissen/gefriertemperatur-bier/"
+  },
+  {
+    "from": "/bierwissen/bier-warm-und-wieder-kalt/",
+    "to": "/bierwissen/geoeffnetes-bier-haltbar/"
+  },
+  {
+    "from": "/bierwissen/bier-warm-und-wieder-kalt/",
+    "to": "/bierwissen/bier-schnell-kuehlen/"
+  },
+  {
+    "from": "/bierwissen/bierflaschen-groessen/",
+    "to": "/bierwissen/"
+  },
+  {
+    "from": "/bierwissen/bierflaschen-groessen/",
+    "to": "/bierwissen/wie-schwer-ist-bierkasten/"
+  },
+  {
+    "from": "/bierwissen/bierflaschen-groessen/",
+    "to": "/bierwissen/bierkasten-groessen/"
+  },
+  {
+    "from": "/bierwissen/bierflaschen-groessen/",
+    "to": "/bierwissen/wie-viele-liter-bierkasten/"
+  },
+  {
+    "from": "/bierwissen/ibu-beim-bier/",
+    "to": "/biersorten/pils/"
+  },
+  {
+    "from": "/bierwissen/ibu-beim-bier/",
+    "to": "/biersorten/ipa-und-pale-ale/"
+  },
+  {
+    "from": "/bierwissen/ibu-beim-bier/",
+    "to": "/biervergleich/pils-oder-helles/"
+  },
+  {
+    "from": "/bierwissen/ibu-beim-bier/",
+    "to": "/bierwissen/"
+  },
+  {
+    "from": "/bierwissen/ibu-beim-bier/",
+    "to": "/bierwissen/stammwuerze-beim-bier/"
+  },
+  {
+    "from": "/bierwissen/ibu-beim-bier/",
+    "to": "/bierwissen/ebc-beim-bier/"
+  },
+  {
+    "from": "/bierwissen/ibu-beim-bier/",
+    "to": "/bierwissen/wie-viele-brauereien-gibt-es/"
+  },
+  {
+    "from": "/bierwissen/wie-viele-glaeser-aus-bierfass/",
+    "to": "/bier-rechner/fassbier/"
+  },
+  {
+    "from": "/bierwissen/wie-viele-glaeser-aus-bierfass/",
+    "to": "/bierwissen/"
+  },
+  {
+    "from": "/bierwissen/wie-viele-glaeser-aus-bierfass/",
+    "to": "/bierwissen/wie-viel-bier-pro-person/"
+  },
+  {
+    "from": "/bierwissen/wie-viele-glaeser-aus-bierfass/",
+    "to": "/bierwissen/wie-viel-ist-eine-mass/"
+  },
+  {
+    "from": "/bierwissen/wie-viele-glaeser-aus-bierfass/",
+    "to": "/bierwissen/bierkasten-groessen/"
+  },
+  {
+    "from": "/bierwissen/wie-viel-alkohol-hat-bier/",
+    "to": "/biersorten/alkoholfreies-bier/"
+  },
+  {
+    "from": "/bierwissen/wie-viel-alkohol-hat-bier/",
+    "to": "/bierwissen/stammwuerze-beim-bier/"
+  },
+  {
+    "from": "/bierwissen/wie-viel-alkohol-hat-bier/",
+    "to": "/biersorten/bockbier/"
+  },
+  {
+    "from": "/bierwissen/wie-viel-alkohol-hat-bier/",
+    "to": "/bierwissen/"
+  },
+  {
+    "from": "/bierwissen/wie-viel-alkohol-hat-bier/",
+    "to": "/bierwissen/ebc-beim-bier/"
+  },
+  {
+    "from": "/bierwissen/wie-viel-alkohol-hat-bier/",
+    "to": "/bierwissen/wie-viele-kalorien-hat-bier/"
+  },
+  {
+    "from": "/bierwissen/wie-viel-alkohol-hat-bier/",
+    "to": "/bierwissen/ibu-beim-bier/"
+  },
+  {
+    "from": "/bierwissen/bieretikett-lesen/",
+    "to": "/bierwissen/stammwuerze-beim-bier/"
+  },
+  {
+    "from": "/bierwissen/bieretikett-lesen/",
+    "to": "/bierwissen/ibu-beim-bier/"
+  },
+  {
+    "from": "/bierwissen/bieretikett-lesen/",
+    "to": "/bierwissen/"
+  },
+  {
+    "from": "/bierwissen/bieretikett-lesen/",
+    "to": "/bierwissen/reiner-alkohol-im-bier/"
+  },
+  {
+    "from": "/bierwissen/bieretikett-lesen/",
+    "to": "/bierwissen/naturtrueb-unfiltriert/"
+  },
+  {
+    "from": "/bierwissen/bieretikett-lesen/",
+    "to": "/bierwissen/zucker-im-bier/"
+  },
+  {
+    "from": "/bierwissen/geoeffnetes-bier-haltbar/",
+    "to": "/bierwissen/"
+  },
+  {
+    "from": "/bierwissen/geoeffnetes-bier-haltbar/",
+    "to": "/bierwissen/bier-warm-und-wieder-kalt/"
+  },
+  {
+    "from": "/bierwissen/geoeffnetes-bier-haltbar/",
+    "to": "/bierwissen/partyfass-haltbarkeit/"
+  },
+  {
+    "from": "/bierwissen/geoeffnetes-bier-haltbar/",
+    "to": "/bierwissen/gefriertemperatur-bier/"
+  },
+  {
+    "from": "/bierwissen/wie-viele-kalorien-hat-bier/",
+    "to": "/bierwissen/bier-kalorien-tabelle/"
+  },
+  {
+    "from": "/bierwissen/wie-viele-kalorien-hat-bier/",
+    "to": "/biersorten/alkoholfreies-bier/"
+  },
+  {
+    "from": "/bierwissen/wie-viele-kalorien-hat-bier/",
+    "to": "/biervergleich/alkoholfrei-oder-null-komma-null/"
+  },
+  {
+    "from": "/bierwissen/wie-viele-kalorien-hat-bier/",
+    "to": "/bierwissen/wie-viel-alkohol-hat-bier/"
+  },
+  {
+    "from": "/bierwissen/wie-viele-kalorien-hat-bier/",
+    "to": "/bierwissen/"
+  },
+  {
+    "from": "/bierwissen/wie-viele-kalorien-hat-bier/",
+    "to": "/bierwissen/wie-lange-ist-bier-haltbar/"
+  },
+  {
+    "from": "/bierwissen/wie-viele-kalorien-hat-bier/",
+    "to": "/bierwissen/ebc-beim-bier/"
+  },
+  {
+    "from": "/bierwissen/wie-viele-kalorien-hat-bier/",
+    "to": "/bierwissen/abgelaufenes-bier-trinken/"
+  },
+  {
+    "from": "/bierwissen/wie-viele-biermarken-gibt-es/",
+    "to": "/bestenlisten/beliebteste-biermarken-deutschland/"
+  },
+  {
+    "from": "/bierwissen/wie-viele-biermarken-gibt-es/",
+    "to": "/bierwissen/wie-viele-brauereien-gibt-es/"
+  },
+  {
+    "from": "/bierwissen/wie-viele-biermarken-gibt-es/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/bierwissen/wie-viele-biermarken-gibt-es/",
+    "to": "/bierwissen/"
+  },
+  {
+    "from": "/bierwissen/wie-viele-biermarken-gibt-es/",
+    "to": "/bierwissen/wie-viele-biersorten-gibt-es/"
+  },
+  {
+    "from": "/bierwissen/wie-viele-biermarken-gibt-es/",
+    "to": "/bierwissen/obergaerig-oder-untergaerig/"
+  },
+  {
+    "from": "/bierwissen/wie-viele-biermarken-gibt-es/",
+    "to": "/bierwissen/stammwuerze-beim-bier/"
+  },
+  {
+    "from": "/bierwissen/wie-viel-ist-eine-mass/",
+    "to": "/oktoberfest/bierpreise/"
+  },
+  {
+    "from": "/bierwissen/wie-viel-ist-eine-mass/",
+    "to": "/oktoberfest/welches-bier-gibt-es/"
+  },
+  {
+    "from": "/bierwissen/wie-viel-ist-eine-mass/",
+    "to": "/oktoberfest/festzelte/"
+  },
+  {
+    "from": "/bierwissen/wie-viel-ist-eine-mass/",
+    "to": "/bierwissen/"
+  },
+  {
+    "from": "/bierwissen/wie-viel-ist-eine-mass/",
+    "to": "/bierwissen/wie-viele-glaeser-aus-bierfass/"
+  },
+  {
+    "from": "/bierwissen/wie-viel-ist-eine-mass/",
+    "to": "/bierwissen/bier-im-kuehlschrank-kuehlen/"
+  },
+  {
+    "from": "/bierwissen/wie-viel-ist-eine-mass/",
+    "to": "/bierwissen/wie-viel-bier-pro-person/"
+  },
+  {
+    "from": "/bierwissen/ebc-beim-bier/",
+    "to": "/biersorten/schwarzbier/"
+  },
+  {
+    "from": "/bierwissen/ebc-beim-bier/",
+    "to": "/biersorten/dunkelbier/"
+  },
+  {
+    "from": "/bierwissen/ebc-beim-bier/",
+    "to": "/biersorten/maerzenbier/"
+  },
+  {
+    "from": "/bierwissen/ebc-beim-bier/",
+    "to": "/bierwissen/"
+  },
+  {
+    "from": "/bierwissen/ebc-beim-bier/",
+    "to": "/bierwissen/ibu-beim-bier/"
+  },
+  {
+    "from": "/bierwissen/ebc-beim-bier/",
+    "to": "/bierwissen/wie-viel-alkohol-hat-bier/"
+  },
+  {
+    "from": "/bierwissen/ebc-beim-bier/",
+    "to": "/bierwissen/stammwuerze-beim-bier/"
+  },
+  {
+    "from": "/bierwissen/obergaerig-oder-untergaerig/",
+    "to": "/biersorten/weizenbier/"
+  },
+  {
+    "from": "/bierwissen/obergaerig-oder-untergaerig/",
+    "to": "/biersorten/koelsch/"
+  },
+  {
+    "from": "/bierwissen/obergaerig-oder-untergaerig/",
+    "to": "/biersorten/altbier/"
+  },
+  {
+    "from": "/bierwissen/obergaerig-oder-untergaerig/",
+    "to": "/biersorten/ipa-und-pale-ale/"
+  },
+  {
+    "from": "/bierwissen/obergaerig-oder-untergaerig/",
+    "to": "/biersorten/pils/"
+  },
+  {
+    "from": "/bierwissen/obergaerig-oder-untergaerig/",
+    "to": "/biersorten/helles/"
+  },
+  {
+    "from": "/bierwissen/obergaerig-oder-untergaerig/",
+    "to": "/biersorten/pils/"
+  },
+  {
+    "from": "/bierwissen/obergaerig-oder-untergaerig/",
+    "to": "/biersorten/weizenbier/"
+  },
+  {
+    "from": "/bierwissen/obergaerig-oder-untergaerig/",
+    "to": "/biersorten/lagerbier/"
+  },
+  {
+    "from": "/bierwissen/obergaerig-oder-untergaerig/",
+    "to": "/bierwissen/"
+  },
+  {
+    "from": "/bierwissen/obergaerig-oder-untergaerig/",
+    "to": "/bierwissen/deutsches-reinheitsgebot/"
+  },
+  {
+    "from": "/bierwissen/obergaerig-oder-untergaerig/",
+    "to": "/bierwissen/wie-viele-biersorten-gibt-es/"
+  },
+  {
+    "from": "/bierwissen/obergaerig-oder-untergaerig/",
+    "to": "/bierwissen/aus-welchen-zutaten-besteht-bier/"
+  },
+  {
+    "from": "/bierwissen/stammwuerze-beim-bier/",
+    "to": "/bierwissen/wie-wird-bier-gebraut/"
+  },
+  {
+    "from": "/bierwissen/stammwuerze-beim-bier/",
+    "to": "/bierwissen/wie-viel-alkohol-hat-bier/"
+  },
+  {
+    "from": "/bierwissen/stammwuerze-beim-bier/",
+    "to": "/biersorten/bockbier/"
+  },
+  {
+    "from": "/bierwissen/stammwuerze-beim-bier/",
+    "to": "/bierwissen/"
+  },
+  {
+    "from": "/bierwissen/stammwuerze-beim-bier/",
+    "to": "/bierwissen/wie-viele-brauereien-gibt-es/"
+  },
+  {
+    "from": "/bierwissen/stammwuerze-beim-bier/",
+    "to": "/bierwissen/ibu-beim-bier/"
+  },
+  {
+    "from": "/bierwissen/stammwuerze-beim-bier/",
+    "to": "/bierwissen/wie-viele-biermarken-gibt-es/"
+  },
+  {
+    "from": "/bierwissen/dosenbier-haltbarkeit/",
+    "to": "/bierwissen/"
+  },
+  {
+    "from": "/bierwissen/dosenbier-haltbarkeit/",
+    "to": "/bierwissen/partyfass-haltbarkeit/"
+  },
+  {
+    "from": "/bierwissen/dosenbier-haltbarkeit/",
+    "to": "/bierwissen/bier-kalorien-tabelle/"
+  },
+  {
+    "from": "/bierwissen/dosenbier-haltbarkeit/",
+    "to": "/bierwissen/geoeffnetes-bier-haltbar/"
+  },
+  {
+    "from": "/bierwissen/welches-bierglas/",
+    "to": "/bierwissen/bier-richtig-einschenken/"
+  },
+  {
+    "from": "/bierwissen/welches-bierglas/",
+    "to": "/bierwissen/optimale-trinktemperatur-bier/"
+  },
+  {
+    "from": "/bierwissen/welches-bierglas/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/bierwissen/welches-bierglas/",
+    "to": "/bierwissen/"
+  },
+  {
+    "from": "/bierwissen/welches-bierglas/",
+    "to": "/bierwissen/bier-einfrieren/"
+  },
+  {
+    "from": "/bierwissen/welches-bierglas/",
+    "to": "/bierwissen/wie-viele-flaschen-bierkasten/"
+  },
+  {
+    "from": "/bierwissen/welches-bierglas/",
+    "to": "/bier-rechner/"
+  },
+  {
+    "from": "/bierwissen/aus-welchen-zutaten-besteht-bier/",
+    "to": "/bierwissen/wie-wird-bier-gebraut/"
+  },
+  {
+    "from": "/bierwissen/aus-welchen-zutaten-besteht-bier/",
+    "to": "/bierwissen/deutsches-reinheitsgebot/"
+  },
+  {
+    "from": "/bierwissen/aus-welchen-zutaten-besteht-bier/",
+    "to": "/biersorten/weizenbier/"
+  },
+  {
+    "from": "/bierwissen/aus-welchen-zutaten-besteht-bier/",
+    "to": "/bierwissen/"
+  },
+  {
+    "from": "/bierwissen/aus-welchen-zutaten-besteht-bier/",
+    "to": "/bierwissen/was-ist-bier/"
+  },
+  {
+    "from": "/bierwissen/aus-welchen-zutaten-besteht-bier/",
+    "to": "/bierwissen/obergaerig-oder-untergaerig/"
+  },
+  {
+    "from": "/bierwissen/aus-welchen-zutaten-besteht-bier/",
+    "to": "/bier-rechner/"
+  },
+  {
+    "from": "/bierwissen/bierkasten-groessen/",
+    "to": "/bierwissen/wie-viele-flaschen-bierkasten/"
+  },
+  {
+    "from": "/bierwissen/bierkasten-groessen/",
+    "to": "/bierwissen/wie-viele-liter-bierkasten/"
+  },
+  {
+    "from": "/bierwissen/bierkasten-groessen/",
+    "to": "/bierwissen/wie-schwer-ist-bierkasten/"
+  },
+  {
+    "from": "/bierwissen/bierkasten-groessen/",
+    "to": "/bierwissen/"
+  },
+  {
+    "from": "/bierwissen/bierkasten-groessen/",
+    "to": "/bierwissen/bierflaschen-groessen/"
+  },
+  {
+    "from": "/bierwissen/bierkasten-groessen/",
+    "to": "/bierwissen/wie-viel-bier-pro-person/"
+  },
+  {
+    "from": "/bierwissen/bierkasten-groessen/",
+    "to": "/bierwissen/wie-viele-glaeser-aus-bierfass/"
+  },
+  {
+    "from": "/bierwissen/zucker-im-bier/",
+    "to": "/bierwissen/"
+  },
+  {
+    "from": "/bierwissen/zucker-im-bier/",
+    "to": "/bierwissen/kohlenhydrate-bier/"
+  },
+  {
+    "from": "/bierwissen/zucker-im-bier/",
+    "to": "/bierwissen/reiner-alkohol-im-bier/"
+  },
+  {
+    "from": "/bierwissen/zucker-im-bier/",
+    "to": "/bierwissen/bier-kalorien-tabelle/"
+  },
+  {
+    "from": "/bierwissen/wie-viele-flaschen-bierkasten/",
+    "to": "/bier-rechner/biermenge-party/"
+  },
+  {
+    "from": "/bierwissen/wie-viele-flaschen-bierkasten/",
+    "to": "/bierwissen/"
+  },
+  {
+    "from": "/bierwissen/wie-viele-flaschen-bierkasten/",
+    "to": "/bierwissen/optimale-trinktemperatur-bier/"
+  },
+  {
+    "from": "/bierwissen/wie-viele-flaschen-bierkasten/",
+    "to": "/bierwissen/wie-viele-liter-bierkasten/"
+  },
+  {
+    "from": "/bierwissen/wie-viele-flaschen-bierkasten/",
+    "to": "/bierwissen/welches-bierglas/"
+  },
+  {
+    "from": "/bierwissen/kohlenhydrate-bier/",
+    "to": "/bierwissen/"
+  },
+  {
+    "from": "/bierwissen/kohlenhydrate-bier/",
+    "to": "/bierwissen/bier-kalorien-tabelle/"
+  },
+  {
+    "from": "/bierwissen/kohlenhydrate-bier/",
+    "to": "/bierwissen/zucker-im-bier/"
+  },
+  {
+    "from": "/bierwissen/kohlenhydrate-bier/",
+    "to": "/bierwissen/dosenbier-haltbarkeit/"
+  },
+  {
+    "from": "/bierwissen/bier-im-kuehlschrank-kuehlen/",
+    "to": "/bierwissen/bier-schnell-kuehlen/"
+  },
+  {
+    "from": "/bierwissen/bier-im-kuehlschrank-kuehlen/",
+    "to": "/bier-rechner/bier-kuehlzeit/"
+  },
+  {
+    "from": "/bierwissen/bier-im-kuehlschrank-kuehlen/",
+    "to": "/bierwissen/optimale-trinktemperatur-bier/"
+  },
+  {
+    "from": "/bierwissen/bier-im-kuehlschrank-kuehlen/",
+    "to": "/bierwissen/"
+  },
+  {
+    "from": "/bierwissen/bier-im-kuehlschrank-kuehlen/",
+    "to": "/bierwissen/wie-viel-ist-eine-mass/"
+  },
+  {
+    "from": "/bierwissen/bier-im-kuehlschrank-kuehlen/",
+    "to": "/bierwissen/wie-viele-glaeser-aus-bierfass/"
+  },
+  {
+    "from": "/bierwissen/bier-im-kuehlschrank-kuehlen/",
+    "to": "/bierwissen/gefriertemperatur-bier/"
+  },
+  {
+    "from": "/bierwissen/warum-bierflaschen-braun-gruen/",
+    "to": "/bierwissen/"
+  },
+  {
+    "from": "/bierwissen/warum-bierflaschen-braun-gruen/",
+    "to": "/bierwissen/naturtrueb-unfiltriert/"
+  },
+  {
+    "from": "/bierwissen/warum-bierflaschen-braun-gruen/",
+    "to": "/bierwissen/bieretikett-lesen/"
+  },
+  {
+    "from": "/bierwissen/warum-bierflaschen-braun-gruen/",
+    "to": "/bier-rechner/"
+  },
+  {
+    "from": "/bierwissen/wie-lange-ist-bier-haltbar/",
+    "to": "/bierwissen/abgelaufenes-bier-trinken/"
+  },
+  {
+    "from": "/bierwissen/wie-lange-ist-bier-haltbar/",
+    "to": "/bierwissen/bier-richtig-lagern/"
+  },
+  {
+    "from": "/bierwissen/wie-lange-ist-bier-haltbar/",
+    "to": "/bierwissen/bier-einfrieren/"
+  },
+  {
+    "from": "/bierwissen/wie-lange-ist-bier-haltbar/",
+    "to": "/bierwissen/"
+  },
+  {
+    "from": "/bierwissen/wie-lange-ist-bier-haltbar/",
+    "to": "/bierwissen/wie-viele-kalorien-hat-bier/"
+  },
+  {
+    "from": "/bierwissen/wie-lange-ist-bier-haltbar/",
+    "to": "/bierwissen/wie-viel-alkohol-hat-bier/"
+  },
+  {
+    "from": "/bierwissen/wie-lange-ist-bier-haltbar/",
+    "to": "/bier-rechner/"
+  },
+  {
+    "from": "/bierwissen/wie-wird-bier-gebraut/",
+    "to": "/bierwissen/aus-welchen-zutaten-besteht-bier/"
+  },
+  {
+    "from": "/bierwissen/wie-wird-bier-gebraut/",
+    "to": "/bierwissen/obergaerig-oder-untergaerig/"
+  },
+  {
+    "from": "/bierwissen/wie-wird-bier-gebraut/",
+    "to": "/bierwissen/stammwuerze-beim-bier/"
+  },
+  {
+    "from": "/bierwissen/wie-wird-bier-gebraut/",
+    "to": "/bierwissen/"
+  },
+  {
+    "from": "/bierwissen/wie-wird-bier-gebraut/",
+    "to": "/bierwissen/was-ist-bier/"
+  },
+  {
+    "from": "/bierwissen/wie-wird-bier-gebraut/",
+    "to": "/bierwissen/deutsches-reinheitsgebot/"
+  },
+  {
+    "from": "/bierwissen/wie-wird-bier-gebraut/",
+    "to": "/bier-rechner/"
+  },
+  {
+    "from": "/bierwissen/bier-kalorien-tabelle/",
+    "to": "/bierwissen/"
+  },
+  {
+    "from": "/bierwissen/bier-kalorien-tabelle/",
+    "to": "/bierwissen/dosenbier-haltbarkeit/"
+  },
+  {
+    "from": "/bierwissen/bier-kalorien-tabelle/",
+    "to": "/bierwissen/kohlenhydrate-bier/"
+  },
+  {
+    "from": "/bierwissen/bier-kalorien-tabelle/",
+    "to": "/bierwissen/partyfass-haltbarkeit/"
+  },
+  {
+    "from": "/bierwissen/wie-schwer-ist-bierkasten/",
+    "to": "/bierwissen/"
+  },
+  {
+    "from": "/bierwissen/wie-schwer-ist-bierkasten/",
+    "to": "/bierwissen/wie-viele-liter-bierkasten/"
+  },
+  {
+    "from": "/bierwissen/wie-schwer-ist-bierkasten/",
+    "to": "/bierwissen/bierflaschen-groessen/"
+  },
+  {
+    "from": "/bierwissen/wie-schwer-ist-bierkasten/",
+    "to": "/bierwissen/wie-viele-flaschen-bierkasten/"
+  },
+  {
+    "from": "/bierwissen/deutsches-reinheitsgebot/",
+    "to": "/bierwissen/aus-welchen-zutaten-besteht-bier/"
+  },
+  {
+    "from": "/bierwissen/deutsches-reinheitsgebot/",
+    "to": "/bierwissen/wie-wird-bier-gebraut/"
+  },
+  {
+    "from": "/bierwissen/deutsches-reinheitsgebot/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/bierwissen/deutsches-reinheitsgebot/",
+    "to": "/bierwissen/"
+  },
+  {
+    "from": "/bierwissen/deutsches-reinheitsgebot/",
+    "to": "/bierwissen/obergaerig-oder-untergaerig/"
+  },
+  {
+    "from": "/bierwissen/deutsches-reinheitsgebot/",
+    "to": "/bierwissen/wie-viele-biersorten-gibt-es/"
+  },
+  {
+    "from": "/bierwissen/deutsches-reinheitsgebot/",
+    "to": "/bier-rechner/"
+  },
+  {
+    "from": "/bierwissen/wie-viele-brauereien-gibt-es/",
+    "to": "/bestenlisten/groesste-brauereien-deutschland/"
+  },
+  {
+    "from": "/bierwissen/wie-viele-brauereien-gibt-es/",
+    "to": "/bestenlisten/aelteste-brauereien-deutschland/"
+  },
+  {
+    "from": "/bierwissen/wie-viele-brauereien-gibt-es/",
+    "to": "/bierregionen/"
+  },
+  {
+    "from": "/bierwissen/wie-viele-brauereien-gibt-es/",
+    "to": "/bierwissen/"
+  },
+  {
+    "from": "/bierwissen/wie-viele-brauereien-gibt-es/",
+    "to": "/bierwissen/wie-viele-biermarken-gibt-es/"
+  },
+  {
+    "from": "/bierwissen/wie-viele-brauereien-gibt-es/",
+    "to": "/bierwissen/stammwuerze-beim-bier/"
+  },
+  {
+    "from": "/bierwissen/wie-viele-brauereien-gibt-es/",
+    "to": "/bierwissen/wie-viele-biersorten-gibt-es/"
+  },
+  {
+    "from": "/bierwissen/partyfass-haltbarkeit/",
+    "to": "/bier-rechner/fassbier/"
+  },
+  {
+    "from": "/bierwissen/partyfass-haltbarkeit/",
+    "to": "/bierwissen/"
+  },
+  {
+    "from": "/bierwissen/partyfass-haltbarkeit/",
+    "to": "/bierwissen/geoeffnetes-bier-haltbar/"
+  },
+  {
+    "from": "/bierwissen/partyfass-haltbarkeit/",
+    "to": "/bierwissen/dosenbier-haltbarkeit/"
+  },
+  {
+    "from": "/bierwissen/partyfass-haltbarkeit/",
+    "to": "/bierwissen/bier-warm-und-wieder-kalt/"
+  },
+  {
+    "from": "/bierwissen/naturtrueb-unfiltriert/",
+    "to": "/bierwissen/"
+  },
+  {
+    "from": "/bierwissen/naturtrueb-unfiltriert/",
+    "to": "/bierwissen/bieretikett-lesen/"
+  },
+  {
+    "from": "/bierwissen/naturtrueb-unfiltriert/",
+    "to": "/bierwissen/warum-bierflaschen-braun-gruen/"
+  },
+  {
+    "from": "/bierwissen/naturtrueb-unfiltriert/",
+    "to": "/bierwissen/reiner-alkohol-im-bier/"
+  },
+  {
+    "from": "/bierwissen/optimale-trinktemperatur-bier/",
+    "to": "/bierwissen/bier-richtig-lagern/"
+  },
+  {
+    "from": "/bierwissen/optimale-trinktemperatur-bier/",
+    "to": "/bierwissen/bier-richtig-einschenken/"
+  },
+  {
+    "from": "/bierwissen/optimale-trinktemperatur-bier/",
+    "to": "/bierwissen/welches-bierglas/"
+  },
+  {
+    "from": "/bierwissen/optimale-trinktemperatur-bier/",
+    "to": "/bierwissen/"
+  },
+  {
+    "from": "/bierwissen/optimale-trinktemperatur-bier/",
+    "to": "/bierwissen/wie-viele-flaschen-bierkasten/"
+  },
+  {
+    "from": "/bierwissen/optimale-trinktemperatur-bier/",
+    "to": "/bierwissen/wie-viele-liter-bierkasten/"
+  },
+  {
+    "from": "/bierwissen/optimale-trinktemperatur-bier/",
+    "to": "/bier-rechner/"
+  },
+  {
+    "from": "/bierwissen/gefriertemperatur-bier/",
+    "to": "/bierwissen/bier-einfrieren/"
+  },
+  {
+    "from": "/bierwissen/gefriertemperatur-bier/",
+    "to": "/bierwissen/bier-schnell-kuehlen/"
+  },
+  {
+    "from": "/bierwissen/gefriertemperatur-bier/",
+    "to": "/bierwissen/optimale-trinktemperatur-bier/"
+  },
+  {
+    "from": "/bierwissen/gefriertemperatur-bier/",
+    "to": "/bierwissen/"
+  },
+  {
+    "from": "/bierwissen/gefriertemperatur-bier/",
+    "to": "/bierwissen/bier-warm-und-wieder-kalt/"
+  },
+  {
+    "from": "/bierwissen/gefriertemperatur-bier/",
+    "to": "/bierwissen/bier-im-kuehlschrank-kuehlen/"
+  },
+  {
+    "from": "/bierwissen/gefriertemperatur-bier/",
+    "to": "/bierwissen/geoeffnetes-bier-haltbar/"
+  },
+  {
+    "from": "/bierwissen/bier-richtig-lagern/",
+    "to": "/bierwissen/wie-lange-ist-bier-haltbar/"
+  },
+  {
+    "from": "/bierwissen/bier-richtig-lagern/",
+    "to": "/bierwissen/optimale-trinktemperatur-bier/"
+  },
+  {
+    "from": "/bierwissen/bier-richtig-lagern/",
+    "to": "/bierwissen/abgelaufenes-bier-trinken/"
+  },
+  {
+    "from": "/bierwissen/bier-richtig-lagern/",
+    "to": "/bierwissen/"
+  },
+  {
+    "from": "/bierwissen/bier-richtig-lagern/",
+    "to": "/bierwissen/bier-einfrieren/"
+  },
+  {
+    "from": "/bierwissen/bier-richtig-lagern/",
+    "to": "/bierwissen/bier-richtig-einschenken/"
+  },
+  {
+    "from": "/bierwissen/bier-richtig-lagern/",
+    "to": "/bier-rechner/"
+  },
+  {
+    "from": "/bierwissen/abgelaufenes-bier-trinken/",
+    "to": "/bierwissen/wie-lange-ist-bier-haltbar/"
+  },
+  {
+    "from": "/bierwissen/abgelaufenes-bier-trinken/",
+    "to": "/bierwissen/bier-richtig-lagern/"
+  },
+  {
+    "from": "/bierwissen/abgelaufenes-bier-trinken/",
+    "to": "/bierwissen/bier-einfrieren/"
+  },
+  {
+    "from": "/bierwissen/abgelaufenes-bier-trinken/",
+    "to": "/bierwissen/"
+  },
+  {
+    "from": "/bierwissen/abgelaufenes-bier-trinken/",
+    "to": "/bierwissen/wie-viele-kalorien-hat-bier/"
+  },
+  {
+    "from": "/bierwissen/abgelaufenes-bier-trinken/",
+    "to": "/bier-rechner/"
+  },
+  {
+    "from": "/bierwissen/wie-viele-liter-bierkasten/",
+    "to": "/bier-rechner/bierpreis-pro-liter/"
+  },
+  {
+    "from": "/bierwissen/wie-viele-liter-bierkasten/",
+    "to": "/bierwissen/"
+  },
+  {
+    "from": "/bierwissen/wie-viele-liter-bierkasten/",
+    "to": "/bierwissen/wie-viele-flaschen-bierkasten/"
+  },
+  {
+    "from": "/bierwissen/wie-viele-liter-bierkasten/",
+    "to": "/bierwissen/wie-schwer-ist-bierkasten/"
+  },
+  {
+    "from": "/bierwissen/wie-viele-liter-bierkasten/",
+    "to": "/bierwissen/optimale-trinktemperatur-bier/"
+  },
+  {
+    "from": "/bierwissen/reiner-alkohol-im-bier/",
+    "to": "/bier-rechner/alkoholmenge/"
+  },
+  {
+    "from": "/bierwissen/reiner-alkohol-im-bier/",
+    "to": "/bierwissen/"
+  },
+  {
+    "from": "/bierwissen/reiner-alkohol-im-bier/",
+    "to": "/bierwissen/zucker-im-bier/"
+  },
+  {
+    "from": "/bierwissen/reiner-alkohol-im-bier/",
+    "to": "/bierwissen/bieretikett-lesen/"
+  },
+  {
+    "from": "/bierwissen/reiner-alkohol-im-bier/",
+    "to": "/bierwissen/kohlenhydrate-bier/"
+  },
+  {
+    "from": "/bierwissen/bier-richtig-einschenken/",
+    "to": "/bierwissen/welches-bierglas/"
+  },
+  {
+    "from": "/bierwissen/bier-richtig-einschenken/",
+    "to": "/bierwissen/optimale-trinktemperatur-bier/"
+  },
+  {
+    "from": "/bierwissen/bier-richtig-einschenken/",
+    "to": "/biersorten/pils/"
+  },
+  {
+    "from": "/bierwissen/bier-richtig-einschenken/",
+    "to": "/bierwissen/"
+  },
+  {
+    "from": "/bierwissen/bier-richtig-einschenken/",
+    "to": "/bierwissen/bier-einfrieren/"
+  },
+  {
+    "from": "/bierwissen/bier-richtig-einschenken/",
+    "to": "/bierwissen/bier-richtig-lagern/"
+  },
+  {
+    "from": "/bierwissen/bier-richtig-einschenken/",
+    "to": "/bier-rechner/"
+  },
+  {
+    "from": "/bierwissen/bier-schnell-kuehlen/",
+    "to": "/bierwissen/"
+  },
+  {
+    "from": "/bierwissen/bier-schnell-kuehlen/",
+    "to": "/bierwissen/bier-im-kuehlschrank-kuehlen/"
+  },
+  {
+    "from": "/bierwissen/bier-schnell-kuehlen/",
+    "to": "/bierwissen/gefriertemperatur-bier/"
+  },
+  {
+    "from": "/bierwissen/bier-schnell-kuehlen/",
+    "to": "/bierwissen/wie-viel-ist-eine-mass/"
+  },
+  {
+    "from": "/bierwissen/was-ist-bier/",
+    "to": "/biersorten/pils/"
+  },
+  {
+    "from": "/bierwissen/was-ist-bier/",
+    "to": "/biersorten/helles/"
+  },
+  {
+    "from": "/bierwissen/was-ist-bier/",
+    "to": "/biersorten/weizenbier/"
+  },
+  {
+    "from": "/bierwissen/was-ist-bier/",
+    "to": "/biersorten/schwarzbier/"
+  },
+  {
+    "from": "/bierwissen/was-ist-bier/",
+    "to": "/biersorten/berliner-weisse/"
+  },
+  {
+    "from": "/bierwissen/was-ist-bier/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/bierwissen/was-ist-bier/",
+    "to": "/bierwissen/wie-wird-bier-gebraut/"
+  },
+  {
+    "from": "/bierwissen/was-ist-bier/",
+    "to": "/bierwissen/aus-welchen-zutaten-besteht-bier/"
+  },
+  {
+    "from": "/bierwissen/was-ist-bier/",
+    "to": "/bierwissen/"
+  },
+  {
+    "from": "/bierwissen/was-ist-bier/",
+    "to": "/bier-rechner/"
+  },
+  {
+    "from": "/bierwissen/wie-viele-biersorten-gibt-es/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/bierwissen/wie-viele-biersorten-gibt-es/",
+    "to": "/bierwissen/wie-viele-biermarken-gibt-es/"
+  },
+  {
+    "from": "/bierwissen/wie-viele-biersorten-gibt-es/",
+    "to": "/bestenlisten/beliebteste-biersorten-deutschland/"
+  },
+  {
+    "from": "/bierwissen/wie-viele-biersorten-gibt-es/",
+    "to": "/bierwissen/"
+  },
+  {
+    "from": "/bierwissen/wie-viele-biersorten-gibt-es/",
+    "to": "/bierwissen/obergaerig-oder-untergaerig/"
+  },
+  {
+    "from": "/bierwissen/wie-viele-biersorten-gibt-es/",
+    "to": "/bierwissen/deutsches-reinheitsgebot/"
+  },
+  {
+    "from": "/bierwissen/wie-viele-biersorten-gibt-es/",
+    "to": "/bierwissen/wie-viele-brauereien-gibt-es/"
+  },
+  {
+    "from": "/bierwissen/wie-viel-bier-pro-person/",
+    "to": "/bier-rechner/biermenge-party/"
+  },
+  {
+    "from": "/bierwissen/wie-viel-bier-pro-person/",
+    "to": "/bierwissen/"
+  },
+  {
+    "from": "/bierwissen/wie-viel-bier-pro-person/",
+    "to": "/bierwissen/bierkasten-groessen/"
+  },
+  {
+    "from": "/bierwissen/wie-viel-bier-pro-person/",
+    "to": "/bierwissen/wie-viele-glaeser-aus-bierfass/"
+  },
+  {
+    "from": "/bierwissen/wie-viel-bier-pro-person/",
+    "to": "/bierwissen/bierflaschen-groessen/"
+  },
+  {
+    "from": "/bierwissen/bier-einfrieren/",
+    "to": "/bierwissen/bier-richtig-lagern/"
+  },
+  {
+    "from": "/bierwissen/bier-einfrieren/",
+    "to": "/bierwissen/optimale-trinktemperatur-bier/"
+  },
+  {
+    "from": "/bierwissen/bier-einfrieren/",
+    "to": "/bierwissen/wie-lange-ist-bier-haltbar/"
+  },
+  {
+    "from": "/bierwissen/bier-einfrieren/",
+    "to": "/bierwissen/"
+  },
+  {
+    "from": "/bierwissen/bier-einfrieren/",
+    "to": "/bierwissen/bier-richtig-einschenken/"
+  },
+  {
+    "from": "/bierwissen/bier-einfrieren/",
+    "to": "/bierwissen/abgelaufenes-bier-trinken/"
+  },
+  {
+    "from": "/bierwissen/bier-einfrieren/",
+    "to": "/bierwissen/welches-bierglas/"
+  },
+  {
+    "from": "/biervergleich/ipa-oder-pils/",
+    "to": "/biersorten/ipa-und-pale-ale/"
+  },
+  {
+    "from": "/biervergleich/ipa-oder-pils/",
+    "to": "/biersorten/pils/"
+  },
+  {
+    "from": "/biervergleich/ipa-oder-pils/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/biervergleich/ipa-oder-pils/",
+    "to": "/bierwissen/optimale-trinktemperatur-bier/"
+  },
+  {
+    "from": "/biervergleich/ipa-oder-pils/",
+    "to": "/biervergleich/"
+  },
+  {
+    "from": "/biervergleich/ipa-oder-pils/",
+    "to": "/biervergleich/porter-oder-stout/"
+  },
+  {
+    "from": "/biervergleich/ipa-oder-pils/",
+    "to": "/biervergleich/alkoholfrei-oder-null-komma-null/"
+  },
+  {
+    "from": "/biervergleich/ipa-oder-pils/",
+    "to": "/biervergleich/bockbier-oder-weizenbock/"
+  },
+  {
+    "from": "/biervergleich/porter-oder-stout/",
+    "to": "/biersorten/porter-und-stout/"
+  },
+  {
+    "from": "/biervergleich/porter-oder-stout/",
+    "to": "/biersorten/schwarzbier/"
+  },
+  {
+    "from": "/biervergleich/porter-oder-stout/",
+    "to": "/biervergleich/dunkelbier-oder-schwarzbier/"
+  },
+  {
+    "from": "/biervergleich/porter-oder-stout/",
+    "to": "/biervergleich/"
+  },
+  {
+    "from": "/biervergleich/porter-oder-stout/",
+    "to": "/biervergleich/bockbier-oder-weizenbock/"
+  },
+  {
+    "from": "/biervergleich/porter-oder-stout/",
+    "to": "/biervergleich/ipa-oder-pils/"
+  },
+  {
+    "from": "/biervergleich/porter-oder-stout/",
+    "to": "/biervergleich/bockbier-oder-doppelbock/"
+  },
+  {
+    "from": "/biervergleich/bockbier-oder-doppelbock/",
+    "to": "/biersorten/bockbier/"
+  },
+  {
+    "from": "/biervergleich/bockbier-oder-doppelbock/",
+    "to": "/biersorten/doppelbock/"
+  },
+  {
+    "from": "/biervergleich/bockbier-oder-doppelbock/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/biervergleich/bockbier-oder-doppelbock/",
+    "to": "/bierwissen/optimale-trinktemperatur-bier/"
+  },
+  {
+    "from": "/biervergleich/bockbier-oder-doppelbock/",
+    "to": "/biervergleich/"
+  },
+  {
+    "from": "/biervergleich/bockbier-oder-doppelbock/",
+    "to": "/biervergleich/maerzen-oder-festbier/"
+  },
+  {
+    "from": "/biervergleich/bockbier-oder-doppelbock/",
+    "to": "/biervergleich/bockbier-oder-weizenbock/"
+  },
+  {
+    "from": "/biervergleich/bockbier-oder-doppelbock/",
+    "to": "/biervergleich/kellerbier-oder-zwickelbier/"
+  },
+  {
+    "from": "/biervergleich/helles-oder-export/",
+    "to": "/biersorten/helles/"
+  },
+  {
+    "from": "/biervergleich/helles-oder-export/",
+    "to": "/biersorten/exportbier/"
+  },
+  {
+    "from": "/biervergleich/helles-oder-export/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/biervergleich/helles-oder-export/",
+    "to": "/bierwissen/optimale-trinktemperatur-bier/"
+  },
+  {
+    "from": "/biervergleich/helles-oder-export/",
+    "to": "/biervergleich/"
+  },
+  {
+    "from": "/biervergleich/helles-oder-export/",
+    "to": "/biervergleich/pils-oder-helles/"
+  },
+  {
+    "from": "/biervergleich/helles-oder-export/",
+    "to": "/biervergleich/pils-oder-export/"
+  },
+  {
+    "from": "/biervergleich/helles-oder-export/",
+    "to": "/biervergleich/pils-oder-lager/"
+  },
+  {
+    "from": "/biervergleich/weizenbier-oder-weissbier/",
+    "to": "/biersorten/hefeweizen/"
+  },
+  {
+    "from": "/biervergleich/weizenbier-oder-weissbier/",
+    "to": "/biersorten/kristallweizen/"
+  },
+  {
+    "from": "/biervergleich/weizenbier-oder-weissbier/",
+    "to": "/biersorten/dunkles-weizenbier/"
+  },
+  {
+    "from": "/biervergleich/weizenbier-oder-weissbier/",
+    "to": "/biersorten/weizenbock/"
+  },
+  {
+    "from": "/biervergleich/weizenbier-oder-weissbier/",
+    "to": "/biersorten/weizenbier/"
+  },
+  {
+    "from": "/biervergleich/weizenbier-oder-weissbier/",
+    "to": "/biervergleich/hefeweizen-oder-kristallweizen/"
+  },
+  {
+    "from": "/biervergleich/weizenbier-oder-weissbier/",
+    "to": "/bierwissen/welches-bierglas/"
+  },
+  {
+    "from": "/biervergleich/weizenbier-oder-weissbier/",
+    "to": "/biervergleich/"
+  },
+  {
+    "from": "/biervergleich/weizenbier-oder-weissbier/",
+    "to": "/biervergleich/lager-oder-helles/"
+  },
+  {
+    "from": "/biervergleich/weizenbier-oder-weissbier/",
+    "to": "/biervergleich/pils-oder-lager/"
+  },
+  {
+    "from": "/biervergleich/weizenbier-oder-weissbier/",
+    "to": "/biervergleich/helles-oder-weizenbier/"
+  },
+  {
+    "from": "/biervergleich/lager-oder-helles/",
+    "to": "/biersorten/lagerbier/"
+  },
+  {
+    "from": "/biervergleich/lager-oder-helles/",
+    "to": "/biersorten/helles/"
+  },
+  {
+    "from": "/biervergleich/lager-oder-helles/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/biervergleich/lager-oder-helles/",
+    "to": "/bierwissen/optimale-trinktemperatur-bier/"
+  },
+  {
+    "from": "/biervergleich/lager-oder-helles/",
+    "to": "/biervergleich/"
+  },
+  {
+    "from": "/biervergleich/lager-oder-helles/",
+    "to": "/biervergleich/pils-oder-lager/"
+  },
+  {
+    "from": "/biervergleich/lager-oder-helles/",
+    "to": "/biervergleich/weizenbier-oder-weissbier/"
+  },
+  {
+    "from": "/biervergleich/lager-oder-helles/",
+    "to": "/biervergleich/pils-oder-export/"
+  },
+  {
+    "from": "/biervergleich/hefeweizen-oder-kristallweizen/",
+    "to": "/biersorten/hefeweizen/"
+  },
+  {
+    "from": "/biervergleich/hefeweizen-oder-kristallweizen/",
+    "to": "/biersorten/kristallweizen/"
+  },
+  {
+    "from": "/biervergleich/hefeweizen-oder-kristallweizen/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/biervergleich/hefeweizen-oder-kristallweizen/",
+    "to": "/bierwissen/optimale-trinktemperatur-bier/"
+  },
+  {
+    "from": "/biervergleich/hefeweizen-oder-kristallweizen/",
+    "to": "/biervergleich/"
+  },
+  {
+    "from": "/biervergleich/hefeweizen-oder-kristallweizen/",
+    "to": "/biervergleich/weizenbier-oder-weissbier/"
+  },
+  {
+    "from": "/biervergleich/hefeweizen-oder-kristallweizen/",
+    "to": "/biervergleich/helles-oder-weizenbier/"
+  },
+  {
+    "from": "/biervergleich/hefeweizen-oder-kristallweizen/",
+    "to": "/biervergleich/lager-oder-helles/"
+  },
+  {
+    "from": "/biervergleich/helles-oder-weizenbier/",
+    "to": "/biersorten/helles/"
+  },
+  {
+    "from": "/biervergleich/helles-oder-weizenbier/",
+    "to": "/biersorten/weizenbier/"
+  },
+  {
+    "from": "/biervergleich/helles-oder-weizenbier/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/biervergleich/helles-oder-weizenbier/",
+    "to": "/bierwissen/optimale-trinktemperatur-bier/"
+  },
+  {
+    "from": "/biervergleich/helles-oder-weizenbier/",
+    "to": "/biervergleich/"
+  },
+  {
+    "from": "/biervergleich/helles-oder-weizenbier/",
+    "to": "/biervergleich/hefeweizen-oder-kristallweizen/"
+  },
+  {
+    "from": "/biervergleich/helles-oder-weizenbier/",
+    "to": "/biervergleich/koelsch-oder-altbier/"
+  },
+  {
+    "from": "/biervergleich/helles-oder-weizenbier/",
+    "to": "/biervergleich/weizenbier-oder-weissbier/"
+  },
+  {
+    "from": "/biervergleich/alkoholfrei-oder-null-komma-null/",
+    "to": "/biersorten/alkoholfreies-bier/"
+  },
+  {
+    "from": "/biervergleich/alkoholfrei-oder-null-komma-null/",
+    "to": "/bestenlisten/beste-alkoholfreie-biere-deutschland/"
+  },
+  {
+    "from": "/biervergleich/alkoholfrei-oder-null-komma-null/",
+    "to": "/bierwissen/wie-viele-kalorien-hat-bier/"
+  },
+  {
+    "from": "/biervergleich/alkoholfrei-oder-null-komma-null/",
+    "to": "/biervergleich/"
+  },
+  {
+    "from": "/biervergleich/alkoholfrei-oder-null-komma-null/",
+    "to": "/biervergleich/ipa-oder-pils/"
+  },
+  {
+    "from": "/biervergleich/alkoholfrei-oder-null-komma-null/",
+    "to": "/biervergleich/radler-oder-alsterwasser/"
+  },
+  {
+    "from": "/biervergleich/alkoholfrei-oder-null-komma-null/",
+    "to": "/biervergleich/porter-oder-stout/"
+  },
+  {
+    "from": "/biervergleich/bockbier-oder-weizenbock/",
+    "to": "/biersorten/bockbier/"
+  },
+  {
+    "from": "/biervergleich/bockbier-oder-weizenbock/",
+    "to": "/biersorten/weizenbock/"
+  },
+  {
+    "from": "/biervergleich/bockbier-oder-weizenbock/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/biervergleich/bockbier-oder-weizenbock/",
+    "to": "/bierwissen/optimale-trinktemperatur-bier/"
+  },
+  {
+    "from": "/biervergleich/bockbier-oder-weizenbock/",
+    "to": "/biervergleich/"
+  },
+  {
+    "from": "/biervergleich/bockbier-oder-weizenbock/",
+    "to": "/biervergleich/bockbier-oder-doppelbock/"
+  },
+  {
+    "from": "/biervergleich/bockbier-oder-weizenbock/",
+    "to": "/biervergleich/porter-oder-stout/"
+  },
+  {
+    "from": "/biervergleich/bockbier-oder-weizenbock/",
+    "to": "/biervergleich/maerzen-oder-festbier/"
+  },
+  {
+    "from": "/biervergleich/kellerbier-oder-zwickelbier/",
+    "to": "/biersorten/kellerbier-zwickelbier/"
+  },
+  {
+    "from": "/biervergleich/kellerbier-oder-zwickelbier/",
+    "to": "/bierregionen/bier-in-franken/"
+  },
+  {
+    "from": "/biervergleich/kellerbier-oder-zwickelbier/",
+    "to": "/biersorten/zoiglbier/"
+  },
+  {
+    "from": "/biervergleich/kellerbier-oder-zwickelbier/",
+    "to": "/biervergleich/"
+  },
+  {
+    "from": "/biervergleich/kellerbier-oder-zwickelbier/",
+    "to": "/biervergleich/dunkelbier-oder-schwarzbier/"
+  },
+  {
+    "from": "/biervergleich/kellerbier-oder-zwickelbier/",
+    "to": "/biervergleich/maerzen-oder-festbier/"
+  },
+  {
+    "from": "/biervergleich/kellerbier-oder-zwickelbier/",
+    "to": "/biervergleich/altbier-oder-pils/"
+  },
+  {
+    "from": "/biervergleich/pils-oder-helles/",
+    "to": "/biersorten/pils/"
+  },
+  {
+    "from": "/biervergleich/pils-oder-helles/",
+    "to": "/biersorten/helles/"
+  },
+  {
+    "from": "/biervergleich/pils-oder-helles/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/biervergleich/pils-oder-helles/",
+    "to": "/bierwissen/optimale-trinktemperatur-bier/"
+  },
+  {
+    "from": "/biervergleich/pils-oder-helles/",
+    "to": "/biervergleich/"
+  },
+  {
+    "from": "/biervergleich/pils-oder-helles/",
+    "to": "/biervergleich/helles-oder-export/"
+  },
+  {
+    "from": "/biervergleich/pils-oder-helles/",
+    "to": "/biervergleich/pils-oder-export/"
+  },
+  {
+    "from": "/biervergleich/dunkelbier-oder-schwarzbier/",
+    "to": "/biersorten/dunkelbier/"
+  },
+  {
+    "from": "/biervergleich/dunkelbier-oder-schwarzbier/",
+    "to": "/biersorten/schwarzbier/"
+  },
+  {
+    "from": "/biervergleich/dunkelbier-oder-schwarzbier/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/biervergleich/dunkelbier-oder-schwarzbier/",
+    "to": "/bierwissen/optimale-trinktemperatur-bier/"
+  },
+  {
+    "from": "/biervergleich/dunkelbier-oder-schwarzbier/",
+    "to": "/biervergleich/"
+  },
+  {
+    "from": "/biervergleich/dunkelbier-oder-schwarzbier/",
+    "to": "/biervergleich/altbier-oder-pils/"
+  },
+  {
+    "from": "/biervergleich/dunkelbier-oder-schwarzbier/",
+    "to": "/biervergleich/kellerbier-oder-zwickelbier/"
+  },
+  {
+    "from": "/biervergleich/dunkelbier-oder-schwarzbier/",
+    "to": "/biervergleich/koelsch-oder-pils/"
+  },
+  {
+    "from": "/biervergleich/maerzen-oder-festbier/",
+    "to": "/biersorten/maerzenbier/"
+  },
+  {
+    "from": "/biervergleich/maerzen-oder-festbier/",
+    "to": "/biersorten/festbier-oktoberfestbier/"
+  },
+  {
+    "from": "/biervergleich/maerzen-oder-festbier/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/biervergleich/maerzen-oder-festbier/",
+    "to": "/bierwissen/optimale-trinktemperatur-bier/"
+  },
+  {
+    "from": "/biervergleich/maerzen-oder-festbier/",
+    "to": "/biervergleich/"
+  },
+  {
+    "from": "/biervergleich/maerzen-oder-festbier/",
+    "to": "/biervergleich/kellerbier-oder-zwickelbier/"
+  },
+  {
+    "from": "/biervergleich/maerzen-oder-festbier/",
+    "to": "/biervergleich/bockbier-oder-doppelbock/"
+  },
+  {
+    "from": "/biervergleich/maerzen-oder-festbier/",
+    "to": "/biervergleich/dunkelbier-oder-schwarzbier/"
+  },
+  {
+    "from": "/biervergleich/pils-oder-lager/",
+    "to": "/biersorten/pils/"
+  },
+  {
+    "from": "/biervergleich/pils-oder-lager/",
+    "to": "/biersorten/lagerbier/"
+  },
+  {
+    "from": "/biervergleich/pils-oder-lager/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/biervergleich/pils-oder-lager/",
+    "to": "/bierwissen/optimale-trinktemperatur-bier/"
+  },
+  {
+    "from": "/biervergleich/pils-oder-lager/",
+    "to": "/biervergleich/"
+  },
+  {
+    "from": "/biervergleich/pils-oder-lager/",
+    "to": "/biervergleich/pils-oder-export/"
+  },
+  {
+    "from": "/biervergleich/pils-oder-lager/",
+    "to": "/biervergleich/lager-oder-helles/"
+  },
+  {
+    "from": "/biervergleich/pils-oder-lager/",
+    "to": "/biervergleich/helles-oder-export/"
+  },
+  {
+    "from": "/biervergleich/altbier-oder-pils/",
+    "to": "/biersorten/altbier/"
+  },
+  {
+    "from": "/biervergleich/altbier-oder-pils/",
+    "to": "/biersorten/pils/"
+  },
+  {
+    "from": "/biervergleich/altbier-oder-pils/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/biervergleich/altbier-oder-pils/",
+    "to": "/bierwissen/optimale-trinktemperatur-bier/"
+  },
+  {
+    "from": "/biervergleich/altbier-oder-pils/",
+    "to": "/biervergleich/"
+  },
+  {
+    "from": "/biervergleich/altbier-oder-pils/",
+    "to": "/biervergleich/koelsch-oder-pils/"
+  },
+  {
+    "from": "/biervergleich/altbier-oder-pils/",
+    "to": "/biervergleich/dunkelbier-oder-schwarzbier/"
+  },
+  {
+    "from": "/biervergleich/altbier-oder-pils/",
+    "to": "/biervergleich/koelsch-oder-altbier/"
+  },
+  {
+    "from": "/biervergleich/radler-oder-alsterwasser/",
+    "to": "/biersorten/radler-biermischgetraenke/"
+  },
+  {
+    "from": "/biervergleich/radler-oder-alsterwasser/",
+    "to": "/biervergleich/pils-oder-helles/"
+  },
+  {
+    "from": "/biervergleich/radler-oder-alsterwasser/",
+    "to": "/bierwissen/wie-viel-alkohol-hat-bier/"
+  },
+  {
+    "from": "/biervergleich/radler-oder-alsterwasser/",
+    "to": "/biervergleich/"
+  },
+  {
+    "from": "/biervergleich/radler-oder-alsterwasser/",
+    "to": "/biervergleich/alkoholfrei-oder-null-komma-null/"
+  },
+  {
+    "from": "/biervergleich/radler-oder-alsterwasser/",
+    "to": "/biervergleich/ipa-oder-pils/"
+  },
+  {
+    "from": "/biervergleich/koelsch-oder-altbier/",
+    "to": "/biersorten/koelsch/"
+  },
+  {
+    "from": "/biervergleich/koelsch-oder-altbier/",
+    "to": "/biersorten/altbier/"
+  },
+  {
+    "from": "/biervergleich/koelsch-oder-altbier/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/biervergleich/koelsch-oder-altbier/",
+    "to": "/bierwissen/optimale-trinktemperatur-bier/"
+  },
+  {
+    "from": "/biervergleich/koelsch-oder-altbier/",
+    "to": "/biervergleich/"
+  },
+  {
+    "from": "/biervergleich/koelsch-oder-altbier/",
+    "to": "/biervergleich/helles-oder-weizenbier/"
+  },
+  {
+    "from": "/biervergleich/koelsch-oder-altbier/",
+    "to": "/biervergleich/koelsch-oder-pils/"
+  },
+  {
+    "from": "/biervergleich/koelsch-oder-altbier/",
+    "to": "/biervergleich/hefeweizen-oder-kristallweizen/"
+  },
+  {
+    "from": "/biervergleich/pils-oder-export/",
+    "to": "/biersorten/pils/"
+  },
+  {
+    "from": "/biervergleich/pils-oder-export/",
+    "to": "/biersorten/exportbier/"
+  },
+  {
+    "from": "/biervergleich/pils-oder-export/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/biervergleich/pils-oder-export/",
+    "to": "/bierwissen/optimale-trinktemperatur-bier/"
+  },
+  {
+    "from": "/biervergleich/pils-oder-export/",
+    "to": "/biervergleich/"
+  },
+  {
+    "from": "/biervergleich/pils-oder-export/",
+    "to": "/biervergleich/helles-oder-export/"
+  },
+  {
+    "from": "/biervergleich/pils-oder-export/",
+    "to": "/biervergleich/pils-oder-lager/"
+  },
+  {
+    "from": "/biervergleich/pils-oder-export/",
+    "to": "/biervergleich/pils-oder-helles/"
+  },
+  {
+    "from": "/biervergleich/koelsch-oder-pils/",
+    "to": "/biersorten/koelsch/"
+  },
+  {
+    "from": "/biervergleich/koelsch-oder-pils/",
+    "to": "/biersorten/pils/"
+  },
+  {
+    "from": "/biervergleich/koelsch-oder-pils/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/biervergleich/koelsch-oder-pils/",
+    "to": "/bierwissen/optimale-trinktemperatur-bier/"
+  },
+  {
+    "from": "/biervergleich/koelsch-oder-pils/",
+    "to": "/biervergleich/"
+  },
+  {
+    "from": "/biervergleich/koelsch-oder-pils/",
+    "to": "/biervergleich/koelsch-oder-altbier/"
+  },
+  {
+    "from": "/biervergleich/koelsch-oder-pils/",
+    "to": "/biervergleich/altbier-oder-pils/"
+  },
+  {
+    "from": "/biervergleich/koelsch-oder-pils/",
+    "to": "/biervergleich/helles-oder-weizenbier/"
+  },
+  {
+    "from": "/bestenlisten/beste-alkoholfreie-biere-deutschland/",
+    "to": "/biersorten/alkoholfreies-bier/"
+  },
+  {
+    "from": "/bestenlisten/beste-alkoholfreie-biere-deutschland/",
+    "to": "/biervergleich/alkoholfrei-oder-null-komma-null/"
+  },
+  {
+    "from": "/bestenlisten/beste-alkoholfreie-biere-deutschland/",
+    "to": "/bierwissen/wie-viele-kalorien-hat-bier/"
+  },
+  {
+    "from": "/bestenlisten/beste-alkoholfreie-biere-deutschland/",
+    "to": "/bestenlisten/"
+  },
+  {
+    "from": "/bestenlisten/beste-alkoholfreie-biere-deutschland/",
+    "to": "/bestenlisten/beste-weizenbiere-deutschland/"
+  },
+  {
+    "from": "/bestenlisten/beste-alkoholfreie-biere-deutschland/",
+    "to": "/bestenlisten/groesste-brauereien-deutschland/"
+  },
+  {
+    "from": "/bestenlisten/beste-alkoholfreie-biere-deutschland/",
+    "to": "/bestenlisten/beste-helle-deutschland/"
+  },
+  {
+    "from": "/bestenlisten/wie-viel-bier-wird-getrunken/",
+    "to": "/bestenlisten/beliebteste-biersorten-deutschland/"
+  },
+  {
+    "from": "/bestenlisten/wie-viel-bier-wird-getrunken/",
+    "to": "/bierwissen/wie-viele-brauereien-gibt-es/"
+  },
+  {
+    "from": "/bestenlisten/wie-viel-bier-wird-getrunken/",
+    "to": "/biersorten/alkoholfreies-bier/"
+  },
+  {
+    "from": "/bestenlisten/wie-viel-bier-wird-getrunken/",
+    "to": "/bestenlisten/"
+  },
+  {
+    "from": "/bestenlisten/wie-viel-bier-wird-getrunken/",
+    "to": "/bestenlisten/aelteste-brauereien-deutschland/"
+  },
+  {
+    "from": "/bestenlisten/wie-viel-bier-wird-getrunken/",
+    "to": "/bestenlisten/was-kostet-bier-in-deutschland/"
+  },
+  {
+    "from": "/bestenlisten/wie-viel-bier-wird-getrunken/",
+    "to": "/bestenlisten/groesste-brauereien-deutschland/"
+  },
+  {
+    "from": "/bestenlisten/bestes-bier-deutschland/",
+    "to": "/biersorten/pils/"
+  },
+  {
+    "from": "/bestenlisten/bestes-bier-deutschland/",
+    "to": "/biersorten/helles/"
+  },
+  {
+    "from": "/bestenlisten/bestes-bier-deutschland/",
+    "to": "/biersorten/weizenbier/"
+  },
+  {
+    "from": "/bestenlisten/bestes-bier-deutschland/",
+    "to": "/biersorten/bockbier/"
+  },
+  {
+    "from": "/bestenlisten/bestes-bier-deutschland/",
+    "to": "/biersorten/porter-und-stout/"
+  },
+  {
+    "from": "/bestenlisten/bestes-bier-deutschland/",
+    "to": "/bestenlisten/beste-pilsbiere-deutschland/"
+  },
+  {
+    "from": "/bestenlisten/bestes-bier-deutschland/",
+    "to": "/bestenlisten/beste-helle-deutschland/"
+  },
+  {
+    "from": "/bestenlisten/bestes-bier-deutschland/",
+    "to": "/bestenlisten/beste-weizenbiere-deutschland/"
+  },
+  {
+    "from": "/bestenlisten/bestes-bier-deutschland/",
+    "to": "/bestenlisten/beste-alkoholfreie-biere-deutschland/"
+  },
+  {
+    "from": "/bestenlisten/bestes-bier-deutschland/",
+    "to": "/bestenlisten/"
+  },
+  {
+    "from": "/bestenlisten/bestes-bier-deutschland/",
+    "to": "/bestenlisten/meistgetrunkenes-bier-deutschland/"
+  },
+  {
+    "from": "/bestenlisten/bestes-bier-deutschland/",
+    "to": "/bestenlisten/beliebteste-biermarken-deutschland/"
+  },
+  {
+    "from": "/bestenlisten/beste-pilsbiere-deutschland/",
+    "to": "/biersorten/pils/"
+  },
+  {
+    "from": "/bestenlisten/beste-pilsbiere-deutschland/",
+    "to": "/biervergleich/pils-oder-helles/"
+  },
+  {
+    "from": "/bestenlisten/beste-pilsbiere-deutschland/",
+    "to": "/bierwissen/ibu-beim-bier/"
+  },
+  {
+    "from": "/bestenlisten/beste-pilsbiere-deutschland/",
+    "to": "/bestenlisten/"
+  },
+  {
+    "from": "/bestenlisten/beste-pilsbiere-deutschland/",
+    "to": "/bestenlisten/bestes-bier-deutschland/"
+  },
+  {
+    "from": "/bestenlisten/beste-pilsbiere-deutschland/",
+    "to": "/bestenlisten/beste-helle-deutschland/"
+  },
+  {
+    "from": "/bestenlisten/beste-pilsbiere-deutschland/",
+    "to": "/bestenlisten/meistgetrunkenes-bier-deutschland/"
+  },
+  {
+    "from": "/bestenlisten/meistgetrunkenes-bier-deutschland/",
+    "to": "/bestenlisten/beliebteste-biersorten-deutschland/"
+  },
+  {
+    "from": "/bestenlisten/meistgetrunkenes-bier-deutschland/",
+    "to": "/bestenlisten/beliebteste-biermarken-deutschland/"
+  },
+  {
+    "from": "/bestenlisten/meistgetrunkenes-bier-deutschland/",
+    "to": "/bestenlisten/wie-viel-bier-wird-getrunken/"
+  },
+  {
+    "from": "/bestenlisten/meistgetrunkenes-bier-deutschland/",
+    "to": "/bestenlisten/"
+  },
+  {
+    "from": "/bestenlisten/meistgetrunkenes-bier-deutschland/",
+    "to": "/bestenlisten/bestes-bier-deutschland/"
+  },
+  {
+    "from": "/bestenlisten/meistgetrunkenes-bier-deutschland/",
+    "to": "/bestenlisten/beste-pilsbiere-deutschland/"
+  },
+  {
+    "from": "/bestenlisten/beliebteste-biersorten-deutschland/",
+    "to": "/biersorten/pils/"
+  },
+  {
+    "from": "/bestenlisten/beliebteste-biersorten-deutschland/",
+    "to": "/biersorten/helles/"
+  },
+  {
+    "from": "/bestenlisten/beliebteste-biersorten-deutschland/",
+    "to": "/biersorten/alkoholfreies-bier/"
+  },
+  {
+    "from": "/bestenlisten/beliebteste-biersorten-deutschland/",
+    "to": "/biervergleich/pils-oder-helles/"
+  },
+  {
+    "from": "/bestenlisten/beliebteste-biersorten-deutschland/",
+    "to": "/biersorten/"
+  },
+  {
+    "from": "/bestenlisten/beliebteste-biersorten-deutschland/",
+    "to": "/bestenlisten/beliebteste-biermarken-deutschland/"
+  },
+  {
+    "from": "/bestenlisten/beliebteste-biersorten-deutschland/",
+    "to": "/bestenlisten/"
+  },
+  {
+    "from": "/bestenlisten/beliebteste-biersorten-deutschland/",
+    "to": "/bestenlisten/meistgetrunkenes-bier-deutschland/"
+  },
+  {
+    "from": "/bestenlisten/beste-weizenbiere-deutschland/",
+    "to": "/biersorten/weizenbier/"
+  },
+  {
+    "from": "/bestenlisten/beste-weizenbiere-deutschland/",
+    "to": "/biervergleich/hefeweizen-oder-kristallweizen/"
+  },
+  {
+    "from": "/bestenlisten/beste-weizenbiere-deutschland/",
+    "to": "/bierregionen/bier-in-bayern/"
+  },
+  {
+    "from": "/bestenlisten/beste-weizenbiere-deutschland/",
+    "to": "/bestenlisten/"
+  },
+  {
+    "from": "/bestenlisten/beste-weizenbiere-deutschland/",
+    "to": "/bestenlisten/beste-helle-deutschland/"
+  },
+  {
+    "from": "/bestenlisten/beste-weizenbiere-deutschland/",
+    "to": "/bestenlisten/beste-alkoholfreie-biere-deutschland/"
+  },
+  {
+    "from": "/bestenlisten/beste-weizenbiere-deutschland/",
+    "to": "/bestenlisten/beste-pilsbiere-deutschland/"
+  },
+  {
+    "from": "/bestenlisten/beliebteste-biermarken-deutschland/",
+    "to": "/bestenlisten/meistgetrunkenes-bier-deutschland/"
+  },
+  {
+    "from": "/bestenlisten/beliebteste-biermarken-deutschland/",
+    "to": "/bestenlisten/bestes-bier-deutschland/"
+  },
+  {
+    "from": "/bestenlisten/beliebteste-biermarken-deutschland/",
+    "to": "/bierwissen/wie-viele-biermarken-gibt-es/"
+  },
+  {
+    "from": "/bestenlisten/beliebteste-biermarken-deutschland/",
+    "to": "/bestenlisten/"
+  },
+  {
+    "from": "/bestenlisten/beliebteste-biermarken-deutschland/",
+    "to": "/bestenlisten/beliebteste-biersorten-deutschland/"
+  },
+  {
+    "from": "/bestenlisten/beste-helle-deutschland/",
+    "to": "/biersorten/helles/"
+  },
+  {
+    "from": "/bestenlisten/beste-helle-deutschland/",
+    "to": "/biervergleich/pils-oder-helles/"
+  },
+  {
+    "from": "/bestenlisten/beste-helle-deutschland/",
+    "to": "/bierregionen/bier-in-bayern/"
+  },
+  {
+    "from": "/bestenlisten/beste-helle-deutschland/",
+    "to": "/bestenlisten/"
+  },
+  {
+    "from": "/bestenlisten/beste-helle-deutschland/",
+    "to": "/bestenlisten/beste-pilsbiere-deutschland/"
+  },
+  {
+    "from": "/bestenlisten/beste-helle-deutschland/",
+    "to": "/bestenlisten/beste-weizenbiere-deutschland/"
+  },
+  {
+    "from": "/bestenlisten/beste-helle-deutschland/",
+    "to": "/bestenlisten/bestes-bier-deutschland/"
+  },
+  {
+    "from": "/bestenlisten/was-kostet-bier-in-deutschland/",
+    "to": "/oktoberfest/bierpreise/"
+  },
+  {
+    "from": "/bestenlisten/was-kostet-bier-in-deutschland/",
+    "to": "/bestenlisten/wie-viel-bier-wird-getrunken/"
+  },
+  {
+    "from": "/bestenlisten/was-kostet-bier-in-deutschland/",
+    "to": "/bestenlisten/beliebteste-biermarken-deutschland/"
+  },
+  {
+    "from": "/bestenlisten/was-kostet-bier-in-deutschland/",
+    "to": "/bestenlisten/"
+  },
+  {
+    "from": "/bestenlisten/was-kostet-bier-in-deutschland/",
+    "to": "/bestenlisten/aelteste-brauereien-deutschland/"
+  },
+  {
+    "from": "/bestenlisten/aelteste-brauereien-deutschland/",
+    "to": "/bestenlisten/groesste-brauereien-deutschland/"
+  },
+  {
+    "from": "/bestenlisten/aelteste-brauereien-deutschland/",
+    "to": "/bierregionen/bier-in-bayern/"
+  },
+  {
+    "from": "/bestenlisten/aelteste-brauereien-deutschland/",
+    "to": "/oktoberfest/sechs-oktoberfestbrauereien/"
+  },
+  {
+    "from": "/bestenlisten/aelteste-brauereien-deutschland/",
+    "to": "/bestenlisten/"
+  },
+  {
+    "from": "/bestenlisten/aelteste-brauereien-deutschland/",
+    "to": "/bestenlisten/wie-viel-bier-wird-getrunken/"
+  },
+  {
+    "from": "/bestenlisten/aelteste-brauereien-deutschland/",
+    "to": "/bestenlisten/beste-alkoholfreie-biere-deutschland/"
+  },
+  {
+    "from": "/bestenlisten/aelteste-brauereien-deutschland/",
+    "to": "/bestenlisten/was-kostet-bier-in-deutschland/"
+  },
+  {
+    "from": "/bestenlisten/groesste-brauereien-deutschland/",
+    "to": "/bierwissen/wie-viele-brauereien-gibt-es/"
+  },
+  {
+    "from": "/bestenlisten/groesste-brauereien-deutschland/",
+    "to": "/bestenlisten/beliebteste-biermarken-deutschland/"
+  },
+  {
+    "from": "/bestenlisten/groesste-brauereien-deutschland/",
+    "to": "/bestenlisten/wie-viel-bier-wird-getrunken/"
+  },
+  {
+    "from": "/bestenlisten/groesste-brauereien-deutschland/",
+    "to": "/bestenlisten/"
+  },
+  {
+    "from": "/bestenlisten/groesste-brauereien-deutschland/",
+    "to": "/bestenlisten/beste-alkoholfreie-biere-deutschland/"
+  },
+  {
+    "from": "/bestenlisten/groesste-brauereien-deutschland/",
+    "to": "/bestenlisten/aelteste-brauereien-deutschland/"
+  },
+  {
+    "from": "/bestenlisten/groesste-brauereien-deutschland/",
+    "to": "/bestenlisten/beste-weizenbiere-deutschland/"
+  },
+  {
+    "from": "/bierregionen/bier-in-baden-wuerttemberg/",
+    "to": "/biersorten/exportbier/"
+  },
+  {
+    "from": "/bierregionen/bier-in-baden-wuerttemberg/",
+    "to": "/biersorten/kristallweizen/"
+  },
+  {
+    "from": "/bierregionen/bier-in-baden-wuerttemberg/",
+    "to": "/biervergleich/helles-oder-export/"
+  },
+  {
+    "from": "/bierregionen/bier-in-baden-wuerttemberg/",
+    "to": "/bierregionen/"
+  },
+  {
+    "from": "/bierregionen/bier-in-baden-wuerttemberg/",
+    "to": "/bierregionen/bier-in-berlin/"
+  },
+  {
+    "from": "/bierregionen/bier-in-baden-wuerttemberg/",
+    "to": "/bierregionen/bier-in-sachsen-und-thueringen/"
+  },
+  {
+    "from": "/bierregionen/bier-in-baden-wuerttemberg/",
+    "to": "/bierregionen/bier-in-duesseldorf/"
+  },
+  {
+    "from": "/bierregionen/bier-in-bayern/",
+    "to": "/biersorten/helles/"
+  },
+  {
+    "from": "/bierregionen/bier-in-bayern/",
+    "to": "/biersorten/weizenbier/"
+  },
+  {
+    "from": "/bierregionen/bier-in-bayern/",
+    "to": "/biersorten/dunkelbier/"
+  },
+  {
+    "from": "/bierregionen/bier-in-bayern/",
+    "to": "/biersorten/bockbier/"
+  },
+  {
+    "from": "/bierregionen/bier-in-bayern/",
+    "to": "/biersorten/kellerbier-zwickelbier/"
+  },
+  {
+    "from": "/bierregionen/bier-in-bayern/",
+    "to": "/biersorten/festbier-oktoberfestbier/"
+  },
+  {
+    "from": "/bierregionen/bier-in-bayern/",
+    "to": "/biersorten/zoiglbier/"
+  },
+  {
+    "from": "/bierregionen/bier-in-bayern/",
+    "to": "/biersorten/rauchbier/"
+  },
+  {
+    "from": "/bierregionen/bier-in-bayern/",
+    "to": "/bierregionen/bier-in-muenchen/"
+  },
+  {
+    "from": "/bierregionen/bier-in-bayern/",
+    "to": "/bierregionen/bier-in-franken/"
+  },
+  {
+    "from": "/bierregionen/bier-in-bayern/",
+    "to": "/oktoberfest/welches-bier-gibt-es/"
+  },
+  {
+    "from": "/bierregionen/bier-in-bayern/",
+    "to": "/bierregionen/"
+  },
+  {
+    "from": "/bierregionen/bier-in-franken/",
+    "to": "/biersorten/kellerbier-zwickelbier/"
+  },
+  {
+    "from": "/bierregionen/bier-in-franken/",
+    "to": "/biersorten/rauchbier/"
+  },
+  {
+    "from": "/bierregionen/bier-in-franken/",
+    "to": "/bierregionen/bier-in-bayern/"
+  },
+  {
+    "from": "/bierregionen/bier-in-franken/",
+    "to": "/bierregionen/"
+  },
+  {
+    "from": "/bierregionen/bier-in-franken/",
+    "to": "/bierregionen/bier-in-muenchen/"
+  },
+  {
+    "from": "/bierregionen/bier-in-franken/",
+    "to": "/bierregionen/bier-in-koeln/"
+  },
+  {
+    "from": "/bierregionen/bier-in-franken/",
+    "to": "/bierregionen/bier-in-duesseldorf/"
+  },
+  {
+    "from": "/bierregionen/bier-in-muenchen/",
+    "to": "/oktoberfest/sechs-oktoberfestbrauereien/"
+  },
+  {
+    "from": "/bierregionen/bier-in-muenchen/",
+    "to": "/oktoberfest/bier-in-welchem-festzelt/"
+  },
+  {
+    "from": "/bierregionen/bier-in-muenchen/",
+    "to": "/biersorten/helles/"
+  },
+  {
+    "from": "/bierregionen/bier-in-muenchen/",
+    "to": "/bierregionen/"
+  },
+  {
+    "from": "/bierregionen/bier-in-muenchen/",
+    "to": "/bierregionen/bier-in-bayern/"
+  },
+  {
+    "from": "/bierregionen/bier-in-muenchen/",
+    "to": "/bierregionen/bier-in-franken/"
+  },
+  {
+    "from": "/bierregionen/bier-in-muenchen/",
+    "to": "/bierregionen/bier-in-koeln/"
+  },
+  {
+    "from": "/bierregionen/bier-in-duesseldorf/",
+    "to": "/biersorten/altbier/"
+  },
+  {
+    "from": "/bierregionen/bier-in-duesseldorf/",
+    "to": "/biervergleich/koelsch-oder-altbier/"
+  },
+  {
+    "from": "/bierregionen/bier-in-duesseldorf/",
+    "to": "/biervergleich/altbier-oder-pils/"
+  },
+  {
+    "from": "/bierregionen/bier-in-duesseldorf/",
+    "to": "/bierregionen/"
+  },
+  {
+    "from": "/bierregionen/bier-in-duesseldorf/",
+    "to": "/bierregionen/bier-in-koeln/"
+  },
+  {
+    "from": "/bierregionen/bier-in-duesseldorf/",
+    "to": "/bierregionen/bier-in-berlin/"
+  },
+  {
+    "from": "/bierregionen/bier-in-duesseldorf/",
+    "to": "/bierregionen/bier-in-franken/"
+  },
+  {
+    "from": "/bierregionen/bier-in-berlin/",
+    "to": "/biersorten/berliner-weisse/"
+  },
+  {
+    "from": "/bierregionen/bier-in-berlin/",
+    "to": "/biersorten/gose/"
+  },
+  {
+    "from": "/bierregionen/bier-in-berlin/",
+    "to": "/biersorten/ipa-und-pale-ale/"
+  },
+  {
+    "from": "/bierregionen/bier-in-berlin/",
+    "to": "/bierregionen/"
+  },
+  {
+    "from": "/bierregionen/bier-in-berlin/",
+    "to": "/bierregionen/bier-in-duesseldorf/"
+  },
+  {
+    "from": "/bierregionen/bier-in-berlin/",
+    "to": "/bierregionen/bier-in-baden-wuerttemberg/"
+  },
+  {
+    "from": "/bierregionen/bier-in-berlin/",
+    "to": "/bierregionen/bier-in-koeln/"
+  },
+  {
+    "from": "/bierregionen/bier-in-sachsen-und-thueringen/",
+    "to": "/biersorten/schwarzbier/"
+  },
+  {
+    "from": "/bierregionen/bier-in-sachsen-und-thueringen/",
+    "to": "/biersorten/gose/"
+  },
+  {
+    "from": "/bierregionen/bier-in-sachsen-und-thueringen/",
+    "to": "/biervergleich/dunkelbier-oder-schwarzbier/"
+  },
+  {
+    "from": "/bierregionen/bier-in-sachsen-und-thueringen/",
+    "to": "/bierregionen/"
+  },
+  {
+    "from": "/bierregionen/bier-in-sachsen-und-thueringen/",
+    "to": "/bierregionen/bier-in-baden-wuerttemberg/"
+  },
+  {
+    "from": "/bierregionen/bier-in-sachsen-und-thueringen/",
+    "to": "/bierregionen/bier-in-berlin/"
+  },
+  {
+    "from": "/bierregionen/bier-in-koeln/",
+    "to": "/biersorten/koelsch/"
+  },
+  {
+    "from": "/bierregionen/bier-in-koeln/",
+    "to": "/biervergleich/koelsch-oder-altbier/"
+  },
+  {
+    "from": "/bierregionen/bier-in-koeln/",
+    "to": "/biervergleich/koelsch-oder-pils/"
+  },
+  {
+    "from": "/bierregionen/bier-in-koeln/",
+    "to": "/bierregionen/"
+  },
+  {
+    "from": "/bierregionen/bier-in-koeln/",
+    "to": "/bierregionen/bier-in-franken/"
+  },
+  {
+    "from": "/bierregionen/bier-in-koeln/",
+    "to": "/bierregionen/bier-in-duesseldorf/"
+  },
+  {
+    "from": "/bierregionen/bier-in-koeln/",
+    "to": "/bierregionen/bier-in-muenchen/"
+  }
+]

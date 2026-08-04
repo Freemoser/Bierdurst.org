@@ -1,0 +1,8 @@
+---
+interface Heading { depth: number; slug: string; text: string }
+const { headings } = Astro.props as { headings: Heading[] };
+---
+{headings.length > 1 && <aside class="toc" aria-label="Inhaltsverzeichnis">
+  <p>Auf dieser Seite</p>
+  <ol>{headings.map((heading) => <li class={`depth-${heading.depth}`}><a href={`#${heading.slug}`}>{heading.text}</a></li>)}</ol>
+</aside>}

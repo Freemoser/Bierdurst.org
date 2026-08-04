@@ -1,0 +1,8 @@
+---
+import { getCollection } from 'astro:content';
+import PageView from '../components/PageView.astro';
+
+const [entry] = await getCollection('pages', ({ data }) => data.slug === '/');
+if (!entry) throw new Error('Startseite fehlt.');
+---
+<PageView entry={entry} />

@@ -1,0 +1,14 @@
+---
+const cards = [
+  ['/biersorten/', 'Biersorten', 'Von Pils bis Weizen: Stile, Geschmack und typische Unterschiede.', '01'],
+  ['/biervergleich/', 'Biervergleich', 'Ähnliche Bierstile direkt und verständlich gegenübergestellt.', '02'],
+  ['/bierwissen/', 'Bierwissen', 'Lagerung, Zutaten, Kalorien und praktische Alltagsfragen.', '03'],
+  ['/bier-rechner/', 'Bierrechner', 'Mengen, Fassgläser, Literpreise und Kühlzeiten berechnen.', '04'],
+  ['/bierregionen/', 'Bierregionen', 'Bayerische, rheinische und weitere Bierkulturen entdecken.', '05'],
+  ['/oktoberfest/', 'Oktoberfest', 'Festzelte, Biere, Anreise und aktuelle Wiesn-Grundlagen.', '06']
+];
+---
+<section class="home-features" aria-labelledby="themen-heading">
+  <div class="section-heading"><p class="eyebrow">Wissen, das weiterhilft</p><h2 id="themen-heading">Finde dein Thema</h2></div>
+  <div class="feature-grid">{cards.map(([href, title, text, number]) => <a href={href} class="feature-card"><span>{number}</span><h3>{title}</h3><p>{text}</p><b aria-hidden="true">→</b></a>)}</div>
+</section>
