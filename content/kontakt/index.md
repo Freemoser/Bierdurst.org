@@ -9,11 +9,20 @@ priority: low
 index: true
 canonical: https://bier-durst.de/kontakt/
 language: de
-last_updated: '2026-08-03'
+last_updated: '2026-08-04'
 launch_status: publish
 review_cycle: 12 months
 ---
 
 # Kontakt
 
-Hier werden vor dem Start eine geschäftliche E-Mail-Adresse und die verantwortliche Stelle eingetragen. Für Korrekturen sollte jede Nachricht die betroffene URL und eine nachvollziehbare Quelle enthalten.
+Verantwortlich für Bier-Durst.de ist:
+
+Serdar Freimoser<br>
+Schinkelstraße 15<br>
+80805 München<br>
+Deutschland
+
+**E-Mail: [Geschäftliche E-Mail-Adresse noch ergänzen]**
+
+Für Korrekturhinweise sollte jede Nachricht die betroffene URL und möglichst eine nachvollziehbare Quelle enthalten.
