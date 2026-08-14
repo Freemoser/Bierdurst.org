@@ -1,0 +1,26 @@
+---
+interface Point { year: number; value: number }
+const { series, unit = '', title } = Astro.props as { series: Point[]; unit?: string; title: string };
+const values = series.map((point) => point.value);
+const min = Math.min(...values);
+const max = Math.max(...values);
+const range = max - min || 1;
+const format = (value: number) => unit === 'Mio. hl'
+  ? value.toLocaleString('de-DE', { minimumFractionDigits: 1, maximumFractionDigits: 1 })
+  : value.toLocaleString('de-DE');
+---
+<figure class="stat-chart" aria-labelledby="chart-title">
+  <figcaption id="chart-title">{title}</figcaption>
+  <div class="chart-plot" role="img" aria-label={`${title}: ${series.map((point) => `${point.year} ${format(point.value)} ${unit}`).join(', ')}`}>
+    {series.map((point, index) => {
+      const height = 28 + ((point.value - min) / range) * 72;
+      return <div class="chart-column">
+        <span class="chart-value">{format(point.value)}</span>
+        <span class="chart-bar" style={`--bar-height:${height}%`}><i></i></span>
+        <span class="chart-year">{point.year}</span>
+        {index < series.length - 1 && <span class="chart-change" aria-hidden="true"></span>}
+      </div>;
+    })}
+  </div>
+  {unit && <p class="chart-unit">Einheit: {unit}</p>}
+</figure>

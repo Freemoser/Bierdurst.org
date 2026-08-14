@@ -1,0 +1,20 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import ExperienceHero from '../../components/ExperienceHero.astro';
+const games = [
+  { href: '/bierspiele/blind-ranking/', label: 'Blind Ranking', icon: '1–10', text: 'Vergib feste Plätze, bevor du weißt, welches Bier als Nächstes kommt.' },
+  { href: '/bierspiele/tier-list/', label: 'Tier List', icon: 'S–D', text: 'Ordne zwölf zufällige echte Biermarken in deine persönlichen Tiers ein.' },
+  { href: '/bierspiele/hit-oder-shit/', label: 'Hit oder Shit', icon: '♥ / ✕', text: 'Wische dich schnell durch 15 echte Biermarken und entscheide aus dem Bauch.' }
+];
+---
+<BaseLayout title="Bierspiele: Blind Ranking, Tier List und Hit oder Shit | Bier-Durst.de" description="Drei kostenlose Bierspiele ohne Anmeldung: Blind Ranking, Tier List und Hit oder Shit mit echten deutschen Biermarken." canonical="https://bier-durst.de/bierspiele/">
+  <main id="inhalt">
+    <div class="page-width"><Breadcrumbs items={[{ href: '/', label: 'Startseite' }, { href: '/bierspiele/', label: 'Bierspiele' }]} /></div>
+    <ExperienceHero eyebrow="Spielen statt nur lesen" title="Bierspiele" description="Drei schnelle Spiele mit echten Biermarken aus unserem Kompendium – kostenlos, ohne Login und ohne erfundene Community-Wertungen." />
+    <section class="experience-wrap">
+      <div class="game-hub-grid">{games.map((game) => <a href={game.href}><span>{game.icon}</span><h2>{game.label}</h2><p>{game.text}</p><b>Spiel starten →</b></a>)}</div>
+      <div class="compendium-callout"><div><p class="eyebrow">Die Daten hinter den Karten</p><h2>Bierkompendium</h2><p>Alle Spiele verwenden echte Markenprofile mit Brauerei, Standort, Bundesland und zugeordnetem Bierstil.</p></div><a class="button" href="/bierkompendium/">Kompendium öffnen</a></div>
+    </section>
+  </main>
+</BaseLayout>

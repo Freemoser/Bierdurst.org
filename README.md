@@ -55,6 +55,16 @@ Empfohlene Einstellungen bei einer GitHub-Verknüpfung:
 
 `wrangler.toml`, `_headers` und `_redirects` sind vorbereitet. Die kanonische Domain ist `https://bier-durst.de`; `www` wird auf die Hauptdomain umgeleitet. Nach dem ersten Deployment die Custom Domains in Cloudflare Pages hinterlegen und HTTPS/Redirect im Dashboard kontrollieren.
 
+## Temporäre Vorschau auf GitHub Pages
+
+Der Workflow `.github/workflows/deploy-pages-preview.yml` veröffentlicht eine Testversion unter dem Repository-Pfad auf GitHub Pages. Der Preview-Build setzt auf jeder HTML-Seite `noindex, nofollow, noarchive`, sperrt zusätzlich die mitgelieferte `robots.txt` und deaktiviert Anzeigen. Interne Links und Assets erhalten erst nach der regulären Build-Validierung den Präfix `/Bier-durst.de/`.
+
+```bash
+npm run build:pages
+```
+
+Die Vorschau ist nur für Tests gedacht und wird weder bei Google eingereicht noch als Produktionshosting dokumentiert. Vor dem echten Go-live muss der Preview-Workflow entfernt oder auf die finale Hosting-Konfiguration umgestellt werden.
+
 ## Werbung und Consent
 
 Anzeigenflächen reservieren stabilen Platz, sind aber standardmäßig deaktiviert. AdSense wird nur vorbereitet, wenn beide Werte gesetzt sind und die Publisher-ID dem echten AdSense-Format entspricht:
