@@ -20,6 +20,8 @@ const adsConfigured = !isGitHubPagesPreview && /^ca-pub-\d{16}$/.test(publisherI
     <title>{title}</title>
     <meta name="description" content={description} />
     <meta name="robots" content={effectiveRobots} />
+    <meta name="referrer" content="strict-origin-when-cross-origin" />
+    {isGitHubPagesPreview && <meta http-equiv="Content-Security-Policy" content="default-src 'self'; base-uri 'none'; object-src 'none'; form-action 'self'; img-src 'self' data:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline'; connect-src 'self'; upgrade-insecure-requests" />}
     <link rel="canonical" href={canonical} />
     <meta property="og:type" content={pageType === 'home' ? 'website' : 'article'} />
     <meta property="og:locale" content="de_DE" />

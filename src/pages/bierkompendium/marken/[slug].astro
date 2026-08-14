@@ -16,7 +16,7 @@ const schemas = [
   { '@context': 'https://schema.org', '@type': 'Organization', name: brand.brewery, address: { '@type': 'PostalAddress', addressLocality: brand.city, addressRegion: brand.state, addressCountry: 'DE' } }
 ];
 ---
-<BaseLayout title={`${brand.name}: Brauerei, Herkunft und Biersorte | Bier-Durst.de`} description={`${brand.name} im Bierkompendium: Brauerei ${brand.brewery}, Standort ${brand.city}, Hauptstil ${style.name} und belegte Unternehmenskennzahlen.`} canonical={canonical} structuredData={schemas}>
+<BaseLayout title={`${brand.name}: Brauerei, Herkunft & Biersorte`} description={`${brand.name}: Brauerei, Herkunft, Standort und Biersorte im kompakten Markenprofil mit offiziellen Quellen.`} canonical={canonical} structuredData={schemas}>
   <main id="inhalt">
     <div class="page-width"><Breadcrumbs items={[{ href: '/', label: 'Startseite' }, { href: '/bierkompendium/', label: 'Bierkompendium' }, { href: canonical.replace('https://bier-durst.de', ''), label: brand.name }]} /></div>
     <header class="beer-profile-hero brand-profile-hero">

@@ -1,4 +1,4 @@
-import { readdir, readFile, writeFile } from 'node:fs/promises';
+import { readdir, readFile, rm, writeFile } from 'node:fs/promises';
 import { join } from 'node:path';
 
 const repositoryPath = '/Bier-durst.de';
@@ -28,4 +28,5 @@ for (const file of htmlFiles) {
 }
 
 await writeFile('dist/robots.txt', 'User-agent: *\nDisallow: /\n');
+await rm('dist/sitemap.xml', { force: true });
 console.log(`${htmlFiles.length} HTML-Dateien fuer die GitHub-Pages-Test-URL vorbereitet (noindex).`);

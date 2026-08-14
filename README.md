@@ -34,7 +34,7 @@ Der fertige Build liegt in `dist/`.
 
 ## Launch- und Preview-Builds
 
-Der normale Produktionsbuild erzeugt ausschließlich die 76 URLs aus dem Launch-Manifest beziehungsweise der bereitgestellten `public/sitemap.xml`. Queue-Inhalte werden nicht veröffentlicht.
+Der normale Produktionsbuild erzeugt die 76 redaktionellen Launch-URLs aus dem Manifest sowie die freigegebenen Kompendium-, Statistik- und Spieleseiten. Aktuell umfasst die generierte `public/sitemap.xml` insgesamt 205 URLs. Queue-Inhalte werden nicht veröffentlicht.
 
 Für eine private redaktionelle Vorschau aller Queue-Seiten:
 

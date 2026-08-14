@@ -12,7 +12,7 @@ const delta = first && last ? ((last.value - first.value) / first.value) * 100 :
 const faqSchema = { '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: stat.faq.map(([question, answer]) => ({ '@type': 'Question', name: question, acceptedAnswer: { '@type': 'Answer', text: answer } })) };
 const datasetSchema = { '@context': 'https://schema.org', '@type': 'Dataset', name: `${stat.label}: Zeitreihe`, description: stat.definition, url: canonical, temporalCoverage: first && last ? `${first.year}/${last.year}` : '2026', creator: { '@type': 'Organization', name: stat.sourceName, url: stat.sourceUrl }, variableMeasured: stat.label };
 ---
-<BaseLayout title={`${stat.label}: aktuelle Zahlen & Entwicklung`} description={`${stat.summary} Zeitreihe, Definition, Einordnung und belastbare Quellen zur deutschen Bierwirtschaft.`} canonical={canonical} structuredData={[datasetSchema, faqSchema]}>
+<BaseLayout title={`${stat.shortLabel}: Zahlen & Entwicklung`} description={`Aktuelle Zahlen zu ${stat.shortLabel}: Zeitreihe, Definition, Einordnung und Primärquellen zur deutschen Bierwirtschaft.`} canonical={canonical} structuredData={[datasetSchema, faqSchema]}>
   <main id="inhalt">
     <div class="page-width"><Breadcrumbs items={[{ href: '/', label: 'Startseite' }, { href: '/bierkompendium/', label: 'Bierkompendium' }, { href: '/bierkompendium/statistik/', label: 'Statistik' }, { href: canonical.replace('https://bier-durst.de', ''), label: stat.shortLabel }]} /></div>
     <header class="stat-detail-hero">
