@@ -29,9 +29,9 @@ Deutschland
 
 ## 2. Bereitstellung der Website und Hosting
 
-Diese Website wird über **Cloudflare Pages** bereitgestellt. Anbieter ist Cloudflare, Inc., 101 Townsend St, San Francisco, CA 94107, USA. Beim Aufruf der Website verarbeitet Cloudflare technisch notwendige Verbindungsdaten. Dazu können insbesondere IP-Adresse, Zeitpunkt des Zugriffs, aufgerufene URL, Referrer, Geräte-, Browser- und Systeminformationen sowie Daten zur Erkennung und Abwehr missbräuchlicher Zugriffe gehören.
+Die derzeitige technische Vorschau dieser Website wird über **GitHub Pages** bereitgestellt. Anbieter ist GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, USA. Für den späteren Produktivbetrieb ist Cloudflare Pages vorgesehen. Beim Aufruf der Website verarbeitet der jeweils eingesetzte Hostinganbieter technisch notwendige Verbindungsdaten. Dazu können insbesondere IP-Adresse, Zeitpunkt des Zugriffs, aufgerufene URL, Referrer, Geräte-, Browser- und Systeminformationen sowie Daten zur Erkennung und Abwehr missbräuchlicher Zugriffe gehören.
 
-Die Verarbeitung ist erforderlich, um die Website sicher, stabil und performant auszuliefern. Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO. Unser berechtigtes Interesse liegt im sicheren und zuverlässigen Betrieb dieses Online-Angebots. Cloudflare verarbeitet Daten auch außerhalb der Europäischen Union. Weitere Informationen stellt Cloudflare in seiner [Datenschutzrichtlinie](https://www.cloudflare.com/de-de/privacypolicy/) und in den [Informationen zur DSGVO](https://www.cloudflare.com/de-de/trust-hub/gdpr/) bereit.
+Die Verarbeitung ist erforderlich, um die Website sicher, stabil und performant auszuliefern. Rechtsgrundlage ist Art. 6 Abs. 1 lit. f DSGVO. Unser berechtigtes Interesse liegt im sicheren und zuverlässigen Betrieb dieses Online-Angebots. GitHub beziehungsweise Cloudflare können Daten auch außerhalb der Europäischen Union verarbeiten. Weitere Informationen stellen GitHub in seiner [Datenschutzerklärung](https://docs.github.com/de/site-policy/privacy-policies/github-general-privacy-statement) sowie Cloudflare in seiner [Datenschutzrichtlinie](https://www.cloudflare.com/de-de/privacypolicy/) und den [Informationen zur DSGVO](https://www.cloudflare.com/de-de/trust-hub/gdpr/) bereit.
 
 ## 3. Cookies, lokale Speicherung und Einwilligungen
 

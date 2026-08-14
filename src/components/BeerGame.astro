@@ -1,0 +1,129 @@
+---
+import beerStyles from '../../data/beer-styles.json';
+import beerBrands from '../../data/beer-brands.json';
+const { mode } = Astro.props as { mode: 'blind' | 'tier' | 'swipe' };
+const basePath = import.meta.env.GITHUB_PAGES_PREVIEW === 'true' ? '/Bier-durst.de' : '';
+const gameCards = beerBrands.map((brand) => {
+  const style = beerStyles.find((item) => item.slug === brand.style)!;
+  return { ...brand, styleName: style.name, family: style.family, fermentation: style.fermentation, ebc: style.ebc };
+});
+---
+<div class="beer-game" data-beer-game={mode}>
+  <div class="game-toolbar"><span data-progress>Bereit</span><button type="button" class="game-reset" data-reset>Neue Runde</button></div>
+  <div data-game-stage aria-live="polite"></div>
+</div>
+
+<script is:inline define:vars={{ gameCards, mode, basePath }}>
+  const root = document.querySelector(`[data-beer-game="${mode}"]`);
+  const stage = root.querySelector('[data-game-stage]');
+  const progress = root.querySelector('[data-progress]');
+  const storageKey = `bierdurst-game-${mode}-v2`;
+  const escapeHtml = (value) => String(value).replace(/[&<>"]/g, (character) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' })[character]);
+  const shuffle = (items) => {
+    const copy = [...items];
+    for (let index = copy.length - 1; index > 0; index -= 1) {
+      const random = Math.floor(Math.random() * (index + 1));
+      [copy[index], copy[random]] = [copy[random], copy[index]];
+    }
+    return copy;
+  };
+  const findBeer = (slug) => gameCards.find((beer) => beer.slug === slug);
+  const color = (beer) => {
+    const ebc = (beer.ebc[0] + beer.ebc[1]) / 2;
+    if (ebc < 8) return '#f8c64b';
+    if (ebc < 16) return '#eaa21d';
+    if (ebc < 30) return '#b86722';
+    if (ebc < 50) return '#71371f';
+    return '#2b211f';
+  };
+  const beerCard = (beer, compact = false) => `<article class="play-card${compact ? ' compact' : ''}" style="--card-beer:${color(beer)}">
+    <div class="play-card-top"><span>${escapeHtml(beer.styleName)}</span><b>${escapeHtml(beer.state)}</b></div>
+    <div class="beer-disc" aria-hidden="true"><i></i></div>
+    <h2>${escapeHtml(beer.name)}</h2>
+    <p>${escapeHtml(beer.brewery)} · ${escapeHtml(beer.city)}</p>
+    <div class="card-stats"><span><small>Sorte</small>${escapeHtml(beer.styleName)}</span><span><small>Ort</small>${escapeHtml(beer.city)}</span><span><small>${beer.founded ? 'Seit' : 'Gruppe'}</small>${beer.founded ? beer.founded : escapeHtml(beer.group)}</span></div>
+    <a data-beer-profile="${beer.slug}">Im Kompendium ansehen</a>
+  </article>`;
+  const hydrateProfileLinks = () => stage.querySelectorAll('[data-beer-profile]').forEach((link) => { link.href = basePath + '/bierkompendium/marken/' + link.dataset.beerProfile + '/'; });
+
+  let state;
+  const save = () => localStorage.setItem(storageKey, JSON.stringify(state));
+  const load = () => {
+    try { return JSON.parse(localStorage.getItem(storageKey)); } catch { return null; }
+  };
+
+  const newBlind = () => ({ beers: shuffle(gameCards).slice(0, 10).map((beer) => beer.slug), index: 0, ranking: Array(10).fill(null) });
+  const renderBlind = () => {
+    const done = state.index >= state.beers.length;
+    progress.textContent = done ? 'Ranking abgeschlossen' : `Bier ${state.index + 1} von 10`;
+    if (done) {
+      stage.innerHTML = `<div class="game-finish"><p class="eyebrow">Dein Blind Ranking</p><h2>So ist es ausgegangen</h2><ol class="ranking-result">${state.ranking.map((slug, index) => `<li><b>${index + 1}</b>${escapeHtml(findBeer(slug).name)}</li>`).join('')}</ol></div>`;
+      return;
+    }
+    const current = findBeer(state.beers[state.index]);
+    stage.innerHTML = `<div class="blind-layout">${beerCard(current)}<div class="rank-picker"><p>Setze dieses Bier auf einen freien Platz. Die nächsten Karten kennst du noch nicht.</p><div class="rank-buttons">${state.ranking.map((slug, index) => `<button type="button" data-rank="${index}" ${slug ? 'disabled' : ''}><b>${index + 1}</b><span>${slug ? escapeHtml(findBeer(slug).name) : 'frei'}</span></button>`).join('')}</div></div></div>`;
+    hydrateProfileLinks();
+  };
+
+  const newTier = () => ({ beers: shuffle(gameCards).slice(0, 12).map((beer) => beer.slug), index: 0, tiers: { S: [], A: [], B: [], C: [], D: [] } });
+  const renderTier = () => {
+    const done = state.index >= state.beers.length;
+    progress.textContent = done ? 'Tier List abgeschlossen' : `Bier ${state.index + 1} von ${state.beers.length}`;
+    const lanes = ['S','A','B','C','D'].map((tier) => `<div class="tier-row"><b>${tier}</b><div>${state.tiers[tier].map((slug) => `<span>${escapeHtml(findBeer(slug).name)}</span>`).join('') || '<small>noch leer</small>'}</div></div>`).join('');
+    if (done) {
+      stage.innerHTML = `<div class="game-finish"><p class="eyebrow">Deine Tier List</p><h2>Von S bis D</h2><div class="tier-board">${lanes}</div></div>`;
+      return;
+    }
+    const current = findBeer(state.beers[state.index]);
+    stage.innerHTML = `<div class="tier-layout">${beerCard(current)}<div><p>In welches Tier gehört ${escapeHtml(current.name)}?</p><div class="tier-actions">${['S','A','B','C','D'].map((tier) => `<button type="button" data-tier="${tier}">${tier}</button>`).join('')}</div><div class="tier-board compact-board">${lanes}</div></div></div>`;
+    hydrateProfileLinks();
+  };
+
+  const newSwipe = () => ({ beers: shuffle(gameCards).slice(0, 15).map((beer) => beer.slug), index: 0, hit: [], shit: [] });
+  const renderSwipe = () => {
+    const done = state.index >= state.beers.length;
+    progress.textContent = done ? 'Runde abgeschlossen' : `Karte ${state.index + 1} von ${state.beers.length}`;
+    if (done) {
+      stage.innerHTML = `<div class="game-finish swipe-finish"><p class="eyebrow">Dein Ergebnis</p><h2>${state.hit.length} Hit · ${state.shit.length} Shit</h2><div class="swipe-columns"><div><h3>Hit</h3>${state.hit.map((slug) => `<span>${escapeHtml(findBeer(slug).name)}</span>`).join('') || '<small>keins</small>'}</div><div><h3>Shit</h3>${state.shit.map((slug) => `<span>${escapeHtml(findBeer(slug).name)}</span>`).join('') || '<small>keins</small>'}</div></div></div>`;
+      return;
+    }
+    const current = findBeer(state.beers[state.index]);
+    stage.innerHTML = `<div class="swipe-layout"><div class="swipe-stack" data-swipe-card>${beerCard(current)}</div><div class="swipe-actions"><button type="button" class="shit-button" data-vote="shit" aria-label="Shit">✕ <span>Shit</span></button><button type="button" class="hit-button" data-vote="hit" aria-label="Hit">♥ <span>Hit</span></button></div><p>Du kannst auch nach links oder rechts wischen.</p></div>`;
+    hydrateProfileLinks();
+    bindSwipe();
+  };
+
+  const vote = (choice) => {
+    const slug = state.beers[state.index];
+    state[choice].push(slug);
+    state.index += 1;
+    save();
+    renderSwipe();
+  };
+  const bindSwipe = () => {
+    const card = stage.querySelector('[data-swipe-card]');
+    if (!card) return;
+    let startX = 0;
+    let deltaX = 0;
+    card.addEventListener('pointerdown', (event) => { startX = event.clientX; deltaX = 0; card.setPointerCapture(event.pointerId); card.classList.add('dragging'); });
+    card.addEventListener('pointermove', (event) => { if (!startX) return; deltaX = event.clientX - startX; card.style.transform = `translateX(${deltaX}px) rotate(${deltaX / 18}deg)`; });
+    card.addEventListener('pointerup', () => { card.classList.remove('dragging'); if (Math.abs(deltaX) > 85) vote(deltaX > 0 ? 'hit' : 'shit'); else card.style.transform = ''; startX = 0; });
+    card.addEventListener('pointercancel', () => { card.style.transform = ''; startX = 0; });
+  };
+
+  const render = () => mode === 'blind' ? renderBlind() : mode === 'tier' ? renderTier() : renderSwipe();
+  const fresh = () => { state = mode === 'blind' ? newBlind() : mode === 'tier' ? newTier() : newSwipe(); save(); render(); };
+  root.addEventListener('click', (event) => {
+    const reset = event.target.closest('[data-reset]');
+    if (reset) { fresh(); return; }
+    const rank = event.target.closest('[data-rank]');
+    if (rank) { state.ranking[Number(rank.dataset.rank)] = state.beers[state.index]; state.index += 1; save(); renderBlind(); return; }
+    const tier = event.target.closest('[data-tier]');
+    if (tier) { state.tiers[tier.dataset.tier].push(state.beers[state.index]); state.index += 1; save(); renderTier(); return; }
+    const voteButton = event.target.closest('[data-vote]');
+    if (voteButton) vote(voteButton.dataset.vote);
+  });
+  state = load();
+  const valid = state && Array.isArray(state.beers) && state.beers.every((slug) => findBeer(slug));
+  if (!valid) fresh(); else render();
+</script>

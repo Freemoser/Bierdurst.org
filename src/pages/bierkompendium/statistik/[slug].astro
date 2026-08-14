@@ -1,0 +1,34 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../../components/Breadcrumbs.astro';
+import StatisticChart from '../../../components/StatisticChart.astro';
+import stats from '../../../../data/beer-market-statistics.json';
+export function getStaticPaths() { return stats.map((stat) => ({ params: { slug: stat.slug }, props: { stat } })); }
+const { stat } = Astro.props;
+const canonical = `https://bier-durst.de/bierkompendium/statistik/${stat.slug}/`;
+const first = stat.series[0];
+const last = stat.series.at(-1);
+const delta = first && last ? ((last.value - first.value) / first.value) * 100 : null;
+const faqSchema = { '@context': 'https://schema.org', '@type': 'FAQPage', mainEntity: stat.faq.map(([question, answer]) => ({ '@type': 'Question', name: question, acceptedAnswer: { '@type': 'Answer', text: answer } })) };
+const datasetSchema = { '@context': 'https://schema.org', '@type': 'Dataset', name: `${stat.label}: Zeitreihe`, description: stat.definition, url: canonical, temporalCoverage: first && last ? `${first.year}/${last.year}` : '2026', creator: { '@type': 'Organization', name: stat.sourceName, url: stat.sourceUrl }, variableMeasured: stat.label };
+---
+<BaseLayout title={`${stat.shortLabel}: Zahlen & Entwicklung`} description={`Aktuelle Zahlen zu ${stat.shortLabel}: Zeitreihe, Definition, Einordnung und Primärquellen zur deutschen Bierwirtschaft.`} canonical={canonical} structuredData={[datasetSchema, faqSchema]}>
+  <main id="inhalt">
+    <div class="page-width"><Breadcrumbs items={[{ href: '/', label: 'Startseite' }, { href: '/bierkompendium/', label: 'Bierkompendium' }, { href: '/bierkompendium/statistik/', label: 'Statistik' }, { href: canonical.replace('https://bier-durst.de', ''), label: stat.shortLabel }]} /></div>
+    <header class="stat-detail-hero">
+      <div><p class="eyebrow">Bierstatistik Deutschland</p><h1>{stat.label}</h1><p>{stat.summary}</p></div>
+      <div class="stat-current"><span>Aktueller Wert</span><strong>{stat.value}</strong><b>{stat.unit}</b></div>
+    </header>
+    <div class="stat-detail-layout">
+      <article>
+        <section class="stat-definition"><p class="eyebrow">Was wird gezählt?</p><h2>Definition der Kennzahl</h2><p>{stat.definition}</p></section>
+        {stat.series.length > 0 ? <section><p class="eyebrow">Entwicklung 2015–2025</p><h2>{stat.shortLabel} im Zeitverlauf</h2><StatisticChart series={stat.series} unit={stat.seriesUnit || ''} title={`${stat.label} von ${first!.year} bis ${last!.year}`} /><p class="chart-note">{stat.chartNote}</p></section> : <section class="missing-series"><p class="eyebrow">Datentransparenz</p><h2>Keine belastbare Jahresreihe veröffentlicht</h2><p>{stat.chartNote}</p><div class="single-value-graphic"><span>veröffentlichter Orientierungswert</span><strong>{stat.value}</strong><b>{stat.unit}</b></div></section>}
+        <section><p class="eyebrow">Auf einen Blick</p><h2>Wichtige Werte</h2><div class="stat-highlights">{stat.highlights.map(([value, label]) => <div><strong>{value}</strong><span>{label}</span></div>)}</div>{delta !== null && <p class="stat-reading">Über die dargestellte Reihe hat sich die Kennzahl um <strong>{delta.toLocaleString('de-DE', { minimumFractionDigits: 1, maximumFractionDigits: 1 })} %</strong> verändert.</p>}</section>
+        <section><p class="eyebrow">Einordnung</p><h2>Was die Entwicklung bedeutet</h2><p>{stat.slug === 'bierabsatz-deutschland' ? 'Die Zeitreihe zeigt einen klaren langfristigen Rückgang. Einzelne Zwischenjahre können durch Wetter, Großereignisse, Pandemieeffekte und Exportbewegungen beeinflusst sein. Aus dem Absatz allein lässt sich kein individueller Konsum ableiten.' : stat.slug === 'brauereien-deutschland' ? 'Nach einem Anstieg bis 2019 sinkt die Zahl der betriebenen Braustätten. Die Kennzahl sagt jedoch nichts über Produktionsmenge, wirtschaftliche Größe oder Markenanzahl eines einzelnen Standorts aus.' : stat.slug === 'beschaeftigte-brauindustrie-deutschland' ? 'Die Beschäftigung schwankt deutlich weniger als der Bierabsatz. Wegen der Erfassungsgrenze von mehr als 20 Beschäftigten beschreibt die Reihe vor allem größere Braubetriebe.' : 'Die veröffentlichte Zahl ist ein Orientierungswert für Vielfalt. Sie eignet sich nicht als exakte Inventur oder jährlicher Wachstumsindikator.'}</p></section>
+        <section class="stat-sources"><p class="eyebrow">Primärquellen</p><h2>Datenherkunft</h2><ol><li><a href={stat.sourceUrl} rel="noopener noreferrer">{stat.sourceName}</a><span>{stat.sourceDate}</span></li>{stat.secondarySourceUrl && <li><a href={stat.secondarySourceUrl} rel="noopener noreferrer">{stat.secondarySourceName}</a><span>ergänzende amtliche beziehungsweise Branchenquelle</span></li>}</ol><p>Alle Werte wurden redaktionell übertragen und auf eine gemeinsame Einheit gebracht. Rundungsdifferenzen sind möglich.</p></section>
+        <section><p class="eyebrow">Häufige Fragen</p><h2>FAQ zu {stat.shortLabel}</h2><div class="stat-faq">{stat.faq.map(([question, answer]) => <details><summary>{question}</summary><p>{answer}</p></details>)}</div></section>
+      </article>
+      <aside class="profile-aside"><a class="button" href="/bierkompendium/statistik/">Alle Bierstatistiken</a><a href="/bierkompendium/">Zum Bierkompendium</a></aside>
+    </div>
+  </main>
+</BaseLayout>

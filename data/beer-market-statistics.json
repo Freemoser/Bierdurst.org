@@ -1,0 +1,130 @@
+[
+  {
+    "slug": "biermarken-deutschland",
+    "label": "Biermarken in Deutschland",
+    "shortLabel": "Biermarken",
+    "value": "rund 7.000",
+    "unit": "Marken",
+    "summary": "Der Deutsche Brauer-Bund schätzt die Markenvielfalt in Deutschland auf rund 7.000 Biermarken.",
+    "definition": "Die Zahl ist eine Branchenschätzung des Deutschen Brauer-Bundes. Eine amtliche, laufend gepflegte Produktdatenbank aller Marken und Varianten existiert nicht.",
+    "sourceName": "Deutscher Brauer-Bund: Fragen und Antworten",
+    "sourceUrl": "https://brauer-bund.de/reinheitsgebot/fragen-und-antworten/",
+    "sourceDate": "Abruf 4. August 2026",
+    "series": [],
+    "chartNote": "Für die geschätzte Markenanzahl veröffentlicht der Brauer-Bund keine konsistente jährliche Zeitreihe. Deshalb zeigen wir bewusst keine erfundene Entwicklungskurve.",
+    "highlights": [
+      ["rund 7.000", "geschätzte Biermarken"],
+      ["85", "einzeln geprüfte Markenprofile"],
+      ["keine", "amtliche Vollerhebung"]
+    ],
+    "faq": [
+      ["Gibt es wirklich genau 7.000 Biermarken?", "Nein. Rund 7.000 ist eine Branchenschätzung und keine exakte Bestandszählung."],
+      ["Warum gibt es keine vollständige Liste?", "Marken, Produktvarianten und Eigentümerzuordnungen ändern sich fortlaufend. Ein öffentliches amtliches Markenregister für Bierprodukte gibt es nicht."],
+      ["Was zählt Bier-Durst.de?", "Wir zählen nur einzeln recherchierte Markenprofile. Die redaktionelle Abdeckung ist daher nicht mit der geschätzten Gesamtzahl gleichzusetzen."]
+    ]
+  },
+  {
+    "slug": "biersorten-deutschland",
+    "label": "Biersorten in Deutschland",
+    "shortLabel": "Biersorten",
+    "value": "mehr als 40",
+    "unit": "Sorten",
+    "summary": "Mehr als 40 verschiedene Biersorten stehen laut Deutschem Brauer-Bund für die deutsche Biervielfalt.",
+    "definition": "Biersorte, Bierstil, Produkt und Marke sind nicht dasselbe. Die Zahl hängt von der verwendeten Stil-Systematik und der Abgrenzung regionaler Spezialitäten ab.",
+    "sourceName": "Deutscher Brauer-Bund: Fragen und Antworten",
+    "sourceUrl": "https://brauer-bund.de/reinheitsgebot/fragen-und-antworten/",
+    "sourceDate": "Abruf 4. August 2026",
+    "series": [],
+    "chartNote": "Für die Zahl der Biersorten gibt es keine amtliche Jahresreihe. Stildefinitionen verändern sich außerdem nicht wie eine Absatzkennzahl von Jahr zu Jahr.",
+    "highlights": [
+      ["mehr als 40", "Sorten laut Brauer-Bund"],
+      ["33", "ausgearbeitete Stilprofile"],
+      ["2", "grundlegende Gärungsarten"]
+    ],
+    "faq": [
+      ["Was ist der Unterschied zwischen Biersorte und Biermarke?", "Eine Sorte beschreibt einen Bierstil wie Pils oder Helles. Eine Marke ist der geschützte Marktauftritt eines Herstellers."],
+      ["Warum nennt Bier-Durst.de 33 Stilprofile?", "Unser Kompendium bildet derzeit 33 einzeln ausgearbeitete Stile ab. Das ist eine redaktionelle Abdeckung, keine Behauptung über die Gesamtzahl."],
+      ["Kann eine Marke mehrere Biersorten anbieten?", "Ja. Eine Biermarke kann Pils, Weizen, alkoholfreies Bier und weitere Produktvarianten führen."]
+    ]
+  },
+  {
+    "slug": "brauereien-deutschland",
+    "label": "Brauereien und Braustätten in Deutschland",
+    "shortLabel": "Braustätten",
+    "value": "1.415",
+    "unit": "Braustätten 2025",
+    "summary": "2025 wurden in Deutschland 1.415 betriebene Braustätten erfasst – 137 weniger als beim Hoch 2019.",
+    "definition": "Gezählt werden betriebene Braustätten in der Biersteuerstatistik. Eine Braustätte ist ein Produktionsstandort und nicht automatisch mit Marke, Unternehmen oder Konzern gleichzusetzen.",
+    "sourceName": "Deutscher Brauer-Bund: Deutsche Brauwirtschaft in Zahlen 2025",
+    "sourceUrl": "https://brauer-bund.de/wp-content/uploads/2026/04/STATIST-2025.pdf",
+    "secondarySourceName": "Destatis GENESIS, Tabelle 73421-0001",
+    "secondarySourceUrl": "https://genesis.destatis.de/datenbank/online/statistic/73421/table/73421-0001",
+    "sourceDate": "Datenstand April 2026",
+    "series": [
+      {"year": 2015, "value": 1392}, {"year": 2016, "value": 1411}, {"year": 2017, "value": 1500},
+      {"year": 2018, "value": 1542}, {"year": 2019, "value": 1552}, {"year": 2020, "value": 1536},
+      {"year": 2021, "value": 1521}, {"year": 2022, "value": 1521}, {"year": 2023, "value": 1511},
+      {"year": 2024, "value": 1468}, {"year": 2025, "value": 1415}
+    ],
+    "chartNote": "Jahreswerte 2015 bis 2025. Neuere Veröffentlichungen können vorläufige Vorjahreswerte nachträglich korrigieren.",
+    "highlights": [["1.552", "Höchststand 2019"], ["1.415", "Braustätten 2025"], ["−8,8 %", "seit 2019"]],
+    "faq": [
+      ["Wie viele Brauereien gibt es 2025 in Deutschland?", "Die Biersteuerstatistik weist für 2025 insgesamt 1.415 betriebene Braustätten aus."],
+      ["Ist eine Braustätte dasselbe wie eine Brauerei?", "Nicht zwingend. Die Statistik zählt Produktionsstandorte; Unternehmen und Gruppen können mehrere Standorte betreiben."],
+      ["Warum unterscheiden sich ältere Veröffentlichungen?", "Vorläufige Werte können in späteren Branchenstatistiken korrigiert werden. Wir verwenden bei Überschneidungen den jüngsten verfügbaren Datenstand."]
+    ]
+  },
+  {
+    "slug": "bierabsatz-deutschland",
+    "label": "Bierabsatz in Deutschland",
+    "shortLabel": "Bierabsatz",
+    "value": "77,7 Mio. hl",
+    "unit": "2025",
+    "summary": "Der steuerlich erfasste Bierabsatz sank 2025 auf 77,7 Millionen Hektoliter – den niedrigsten Wert der dargestellten Reihe.",
+    "definition": "Der Bierabsatz umfasst den steuerpflichtigen und steuerfreien Absatz deutscher Brauereien und Bierlager. Alkoholfreies Bier, Malztrunk und Importe aus Nicht-EU-Staaten sind nicht enthalten.",
+    "sourceName": "Destatis: Bierabsatz 2025",
+    "sourceUrl": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/02/PD26_037_73.html",
+    "secondarySourceName": "Deutscher Brauer-Bund: Deutsche Brauwirtschaft in Zahlen 2025",
+    "secondarySourceUrl": "https://brauer-bund.de/wp-content/uploads/2026/04/STATIST-2025.pdf",
+    "sourceDate": "Datenstand Februar/April 2026",
+    "series": [
+      {"year": 2015, "value": 95.772}, {"year": 2016, "value": 95.880}, {"year": 2017, "value": 93.547},
+      {"year": 2018, "value": 94.008}, {"year": 2019, "value": 92.195}, {"year": 2020, "value": 87.168},
+      {"year": 2021, "value": 85.318}, {"year": 2022, "value": 87.703}, {"year": 2023, "value": 83.762},
+      {"year": 2024, "value": 82.678}, {"year": 2025, "value": 77.707}
+    ],
+    "seriesUnit": "Mio. hl",
+    "chartNote": "Jahreswerte in Millionen Hektolitern. Die Reihe folgt der steuerlichen Absatzdefinition und enthält kein alkoholfreies Bier.",
+    "highlights": [["77,7 Mio. hl", "Bierabsatz 2025"], ["−6,0 %", "gegenüber 2024"], ["−19,0 %", "gegenüber 2015"]],
+    "faq": [
+      ["Wie hoch war der Bierabsatz 2025?", "Deutsche Brauereien und Bierlager setzten 2025 rund 77,7 Millionen Hektoliter steuerlich erfasstes Bier ab."],
+      ["Ist alkoholfreies Bier enthalten?", "Nein. Alkoholfreie Biere und Malztrunk werden in dieser Biersteuerstatistik nicht mitgezählt."],
+      ["Ist Bierabsatz dasselbe wie Bierkonsum?", "Nein. Absatz misst gemeldete Mengen der Brauereien und Bierlager. Konsum beziehungsweise Verbrauch wird methodisch anders berechnet."]
+    ]
+  },
+  {
+    "slug": "beschaeftigte-brauindustrie-deutschland",
+    "label": "Beschäftigte in der deutschen Brauwirtschaft",
+    "shortLabel": "Beschäftigte",
+    "value": "27.380",
+    "unit": "Beschäftigte 2025",
+    "summary": "2025 arbeiteten 27.380 Menschen in deutschen Braubetrieben mit mehr als 20 Beschäftigten.",
+    "definition": "Die Reihe erfasst Beschäftigte in Betrieben der Brauwirtschaft mit mehr als 20 Beschäftigten. Kleine Brauereien und weitere Arbeitsplätze entlang der Wertschöpfungskette sind nicht vollständig enthalten.",
+    "sourceName": "Deutscher Brauer-Bund: Deutsche Brauwirtschaft in Zahlen 2025",
+    "sourceUrl": "https://brauer-bund.de/wp-content/uploads/2026/04/STATIST-2025.pdf",
+    "sourceDate": "Datenstand April 2026",
+    "series": [
+      {"year": 2015, "value": 26861}, {"year": 2016, "value": 27195}, {"year": 2017, "value": 27233},
+      {"year": 2018, "value": 27561}, {"year": 2019, "value": 28133}, {"year": 2020, "value": 27295},
+      {"year": 2021, "value": 27242}, {"year": 2022, "value": 27916}, {"year": 2023, "value": 27524},
+      {"year": 2024, "value": 27303}, {"year": 2025, "value": 27380}
+    ],
+    "chartNote": "Jahreswerte für Betriebe mit mehr als 20 Beschäftigten. Die Grafik bildet nicht sämtliche Arbeitsplätze bei Kleinstbrauereien, Handel oder Gastronomie ab.",
+    "highlights": [["27.380", "Beschäftigte 2025"], ["28.133", "Höchstwert 2019"], ["+0,3 %", "gegenüber 2024"]],
+    "faq": [
+      ["Wie viele Menschen arbeiten in deutschen Brauereien?", "Für 2025 weist die Branchenstatistik 27.380 Beschäftigte in Braubetrieben mit mehr als 20 Beschäftigten aus."],
+      ["Sind Beschäftigte kleiner Brauereien enthalten?", "Betriebe mit 20 oder weniger Beschäftigten sind in dieser Kennzahl nicht enthalten."],
+      ["Kann man die Zahl mit einzelnen Marken addieren?", "Nein. Unternehmens- und Gruppenwerte können mehrere Marken und Standorte umfassen. Eine Addition würde Doppelzählungen erzeugen."]
+    ]
+  }
+]

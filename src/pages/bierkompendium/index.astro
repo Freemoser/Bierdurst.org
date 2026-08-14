@@ -1,0 +1,76 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Breadcrumbs from '../../components/Breadcrumbs.astro';
+import ExperienceHero from '../../components/ExperienceHero.astro';
+import beerStyles from '../../../data/beer-styles.json';
+import beerBrands from '../../../data/beer-brands.json';
+import marketStatistics from '../../../data/beer-market-statistics.json';
+const families = [...new Set(beerStyles.map((beer) => beer.family))].sort((a, b) => a.localeCompare(b, 'de'));
+const brandProfiles = beerBrands.map((brand) => ({ ...brand, styleData: beerStyles.find((style) => style.slug === brand.style)! }));
+---
+<BaseLayout title="Bierkompendium: echte Biermarken und Bierstile | Bier-Durst.de" description={`${beerBrands.length} verifizierte Biermarken und ${beerStyles.length} Bierstile mit Brauerei, Herkunft, Stilwerten und belegten Unternehmenskennzahlen.`} canonical="https://bier-durst.de/bierkompendium/">
+  <main id="inhalt">
+    <div class="page-width"><Breadcrumbs items={[{ href: '/', label: 'Startseite' }, { href: '/bierkompendium/', label: 'Bierkompendium' }]} /></div>
+    <ExperienceHero eyebrow="Echte Marken · echte Quellen" title="Bierkompendium" description={`${beerBrands.length} einzeln verifizierte deutsche Biermarken und ${beerStyles.length} Bierstile – als gemeinsamer Datenbestand für Vergleiche, Spiele und das geplante Bierquartett.`} />
+    <section class="compendium-wrap">
+      <div class="market-facts">{marketStatistics.map((stat) => <a href={`/bierkompendium/statistik/${stat.slug}/`}><b>{stat.value}</b><span>{stat.unit}</span><strong>{stat.shortLabel} →</strong></a>)}</div>
+      <p class="market-source">*Beschäftigte in Braubetrieben mit mehr als 20 Beschäftigten. Marktstand 2025 laut <a href="https://brauer-bund.de/wp-content/uploads/2026/04/STATIST-2025.pdf" rel="noopener noreferrer">Deutschem Brauer-Bund</a>. Die Zahl von rund 7.000 Marken ist eine Branchenschätzung, keine amtliche Produktdatenbank.</p>
+      <a class="statistics-cta" href="/bierkompendium/statistik/"><span><b>Alle Zahlen im Zeitverlauf</b><small>Bierabsatz, Braustätten, Beschäftigte, Marken und Sorten mit Methodik und Primärquellen</small></span><strong>Gesamte Statistik ansehen →</strong></a>
+      <div class="compendium-explainer">
+        <div><p class="eyebrow">Zwei sauber getrennte Ebenen</p><h2>Marke ist nicht gleich Biersorte</h2></div>
+        <p>Markenkarten zeigen Brauerei, Standort, Bundesland, Hauptstil und belegte Unternehmenswerte. Stilprofile erklären Alkohol, IBU, EBC, Stammwürze, Gärung und Geschmack. Absatz und Mitarbeiter werden nur angezeigt, wenn eine Primärquelle einen konkreten Wert und Bezugszeitraum nennt.</p>
+      </div>
+      <form class="compendium-filters" data-compendium-filters>
+        <label><span>Marke oder Biersorte suchen</span><input type="search" name="query" placeholder="z. B. Krombacher, Kölsch oder Bayern" autocomplete="off" /></label>
+        <label><span>Eintragstyp</span><select name="type"><option value="">Marken und Sorten</option><option value="brand">Nur Biermarken</option><option value="style">Nur Bierstile</option></select></label>
+        <label><span>Bierfamilie</span><select name="family"><option value="">Alle Familien</option>{families.map((family) => <option value={family}>{family}</option>)}</select></label>
+      </form>
+      <p class="filter-count" data-filter-count>{beerBrands.length + beerStyles.length} Einträge</p>
+
+      <div class="compendium-section-heading"><p class="eyebrow">Verifiziert über Herstellerseiten</p><h2>Echte Biermarken</h2><span>{beerBrands.length} Profile</span></div>
+      <div class="compendium-grid" data-compendium-grid>
+        {brandProfiles.map((brand) => <a class="compendium-card brand-card" href={`/bierkompendium/marken/${brand.slug}/`} data-type="brand" data-family={brand.styleData.family} data-search={`${brand.name} ${brand.brewery} ${brand.city} ${brand.state} ${brand.styleData.name} ${brand.group}`.toLocaleLowerCase('de')}>
+          <div class="compendium-card-head"><span>Biermarke</span><b>{brand.state}</b></div>
+          <h2>{brand.name}</h2><p>{brand.brewery}<br />{brand.city}</p>
+          <div class="mini-stats"><span><small>Hauptstil</small>{brand.styleData.name}</span><span><small>Standort</small>{brand.city}</span><span><small>{brand.founded ? 'Seit' : 'Gruppe'}</small>{brand.founded ?? brand.group}</span></div>
+          <strong>Markenprofil öffnen →</strong>
+        </a>)}
+      </div>
+
+      <div class="compendium-section-heading"><p class="eyebrow">Typische Stilspannen</p><h2>Biersorten und Bierstile</h2><span>{beerStyles.length} Profile</span></div>
+      <div class="compendium-grid" data-compendium-grid>
+        {beerStyles.map((beer) => <a class="compendium-card" href={`/bierkompendium/${beer.slug}/`} data-type="style" data-family={beer.family} data-search={`${beer.name} ${beer.family} ${beer.region} ${beer.profile.join(' ')}`.toLocaleLowerCase('de')}>
+          <div class="compendium-card-head"><span>Bierstil · {beer.family}</span><b>{beer.fermentation}</b></div>
+          <h2>{beer.name}</h2><p>{beer.description}</p>
+          <div class="mini-stats"><span><small>Alkohol</small>{beer.alcohol[0]}–{beer.alcohol[1]} %</span><span><small>IBU</small>{beer.ibu[0]}–{beer.ibu[1]}</span><span><small>EBC</small>{beer.ebc[0]}–{beer.ebc[1]}</span></div>
+          <strong>Stilprofil öffnen →</strong>
+        </a>)}
+      </div>
+      <p class="empty-filter" data-empty-filter hidden>Keine Einträge passen zu dieser Auswahl.</p>
+      <section class="method-note"><h2>Was „alle“ bei Biermarken bedeutet</h2><p>Der Deutsche Brauer-Bund schätzt den deutschen Markt auf rund 7.000 Marken. Es gibt jedoch kein öffentliches amtliches Register mit allen Produkten, Varianten und aktuellen Herstellerzuordnungen. Dieses Kompendium veröffentlicht deshalb nur einzeln überprüfte Profile mit Herstellerquelle und wächst redaktionell weiter. Eine rechnerische Vollständigkeit wird nicht behauptet.</p><p>Stilwerte basieren unter anderem auf den <a href="https://styles.bjcp.org/bjcp-2021-beer" rel="noopener noreferrer">BJCP Style Guidelines</a>, den <a href="https://www.brewersassociation.org/edu/brewers-association-beer-style-guidelines/" rel="noopener noreferrer">Brewers Association Guidelines</a>, dem <a href="https://brauer-bund.de/biervielfalt/" rel="noopener noreferrer">Deutschen Brauer-Bund</a> und der <a href="https://www.gesetze-im-internet.de/bierv/" rel="noopener noreferrer">Bierverordnung</a>.</p></section>
+    </section>
+  </main>
+</BaseLayout>
+
+<script>
+  const form = document.querySelector<HTMLFormElement>('[data-compendium-filters]')!;
+  const cards = [...document.querySelectorAll<HTMLElement>('.compendium-card')];
+  const count = document.querySelector<HTMLElement>('[data-filter-count]')!;
+  const empty = document.querySelector<HTMLElement>('[data-empty-filter]')!;
+  const filter = () => {
+    const data = new FormData(form);
+    const query = String(data.get('query') || '').trim().toLocaleLowerCase('de');
+    const type = String(data.get('type') || '');
+    const family = String(data.get('family') || '');
+    let visible = 0;
+    cards.forEach((card) => {
+      const matches = (!query || card.dataset.search!.includes(query)) && (!type || card.dataset.type === type) && (!family || card.dataset.family === family);
+      card.hidden = !matches;
+      if (matches) visible += 1;
+    });
+    count.textContent = `${visible} ${visible === 1 ? 'Eintrag' : 'Einträge'}`;
+    empty.hidden = visible !== 0;
+  };
+  form.addEventListener('input', filter);
+  form.addEventListener('change', filter);
+</script>

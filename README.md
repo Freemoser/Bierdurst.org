@@ -34,7 +34,7 @@ Der fertige Build liegt in `dist/`.
 
 ## Launch- und Preview-Builds
 
-Der normale Produktionsbuild erzeugt ausschließlich die 76 URLs aus dem Launch-Manifest beziehungsweise der bereitgestellten `public/sitemap.xml`. Queue-Inhalte werden nicht veröffentlicht.
+Der normale Produktionsbuild erzeugt die 76 redaktionellen Launch-URLs aus dem Manifest sowie die freigegebenen Kompendium-, Statistik- und Spieleseiten. Aktuell umfasst die generierte `public/sitemap.xml` insgesamt 205 URLs. Queue-Inhalte werden nicht veröffentlicht.
 
 Für eine private redaktionelle Vorschau aller Queue-Seiten:
 
@@ -54,6 +54,16 @@ Empfohlene Einstellungen bei einer GitHub-Verknüpfung:
 - Root directory: Repository-Wurzel
 
 `wrangler.toml`, `_headers` und `_redirects` sind vorbereitet. Die kanonische Domain ist `https://bier-durst.de`; `www` wird auf die Hauptdomain umgeleitet. Nach dem ersten Deployment die Custom Domains in Cloudflare Pages hinterlegen und HTTPS/Redirect im Dashboard kontrollieren.
+
+## Temporäre Vorschau auf GitHub Pages
+
+Der Workflow `.github/workflows/deploy-pages-preview.yml` veröffentlicht eine Testversion unter dem Repository-Pfad auf GitHub Pages. Der Preview-Build setzt auf jeder HTML-Seite `noindex, nofollow, noarchive`, sperrt zusätzlich die mitgelieferte `robots.txt` und deaktiviert Anzeigen. Interne Links und Assets erhalten erst nach der regulären Build-Validierung den Präfix `/Bier-durst.de/`.
+
+```bash
+npm run build:pages
+```
+
+Die Vorschau ist nur für Tests gedacht und wird weder bei Google eingereicht noch als Produktionshosting dokumentiert. Vor dem echten Go-live muss der Preview-Workflow entfernt oder auf die finale Hosting-Konfiguration umgestellt werden.
 
 ## Werbung und Consent
 

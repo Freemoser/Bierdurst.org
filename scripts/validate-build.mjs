@@ -56,8 +56,6 @@ for (const [path, count] of incoming) {
 }
 
 if (allFiles.includes('dist/sitemap-full.xml') || allFiles.includes('dist/ads.txt.template')) errors.push('Roadmap- oder Template-Datei wurde versehentlich veröffentlicht.');
-if (sitemapPaths.size !== 76) errors.push(`Launch-Sitemap enthält ${sitemapPaths.size} statt 76 URLs.`);
-
 if (errors.length) {
   console.error(errors.slice(0, 80).join('\n'));
   process.exit(1);
