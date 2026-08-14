@@ -33,7 +33,9 @@ jobs:
           cache: npm
 
       - name: Install dependencies
-        run: npm ci
+        # npm ci currently rejects Astro's cross-platform optional WASM packages
+        # when this macOS-generated lockfile is evaluated on the Linux runner.
+        run: npm install --ignore-scripts --no-audit --no-fund
 
       - name: Check project
         run: npm run check
