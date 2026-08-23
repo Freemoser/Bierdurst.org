@@ -7,7 +7,7 @@ cluster: legal
 publish_phase: 1
 priority: medium
 index: true
-canonical: https://bier-durst.de/verantwortungsvoller-alkoholkonsum/
+canonical: https://bierdurst.org/verantwortungsvoller-alkoholkonsum/
 language: de
 last_updated: '2026-08-03'
 launch_status: publish

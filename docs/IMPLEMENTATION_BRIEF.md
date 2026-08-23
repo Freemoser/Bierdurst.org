@@ -2,7 +2,7 @@
 
 ## Ziel
 
-Baue `bier-durst.de` als sehr schnelle, vollständig statische deutschsprachige Website. Kein Login, kein Backend, keine Datenbank, keine Kommentare. Hosting auf Cloudflare Pages. Inhalte liegen als Markdown in diesem Paket.
+Baue `bierdurst.org` als sehr schnelle, vollständig statische deutschsprachige Website. Kein Login, kein Backend, keine Datenbank, keine Kommentare. Hosting auf GitHub Pages; Cloudflare dient als Registrar und DNS-Anbieter. Inhalte liegen als Markdown in diesem Paket.
 
 ## Empfohlener Stack
 
@@ -139,4 +139,4 @@ Keine Bilder oder Logos von Brauereiseiten kopieren. Nutze eigene Diagramme, liz
 
 ## Deployment
 
-Cloudflare Pages mit automatischem Build aus GitHub. Produktionsdomain `bier-durst.de`, HTTPS erzwingen, `www` auf die gewählte Hauptdomain weiterleiten und nur eine kanonische Hostvariante verwenden.
+GitHub Pages mit automatischem Build aus dem `main`-Branch. Produktionsdomain `bierdurst.org`, HTTPS erzwingen, `www` auf die Hauptdomain weiterleiten und Cloudflare zunächst im DNS-only-Modus verwenden.

@@ -1,8 +1,8 @@
 ---
 title: 'Weizenbier oder Weißbier: Ist das dasselbe?'
 slug: /biervergleich/weizenbier-oder-weissbier/
-canonical: https://bier-durst.de/biervergleich/weizenbier-oder-weissbier/
-meta_title: 'Weizenbier oder Weißbier: Ist das dasselbe? | Bier-Durst.de'
+canonical: https://bierdurst.org/biervergleich/weizenbier-oder-weissbier/
+meta_title: 'Weizenbier oder Weißbier: Ist das dasselbe? | BierDurst.org'
 meta_description: 'Weizenbier oder Weißbier: Ist das dasselbe? Geschmack, Alkohol, Gärung, Herkunft, Essen und eine einfache Entscheidungshilfe im direkten Vergleich.'
 category: Biervergleich
 language: de

@@ -1,8 +1,8 @@
 ---
 title: 'IPA oder Pils: Was ist der Unterschied?'
 slug: /biervergleich/ipa-oder-pils/
-canonical: https://bier-durst.de/biervergleich/ipa-oder-pils/
-meta_title: 'IPA oder Pils: Was ist der Unterschied? | Bier-Durst.de'
+canonical: https://bierdurst.org/biervergleich/ipa-oder-pils/
+meta_title: 'IPA oder Pils: Was ist der Unterschied? | BierDurst.org'
 meta_description: 'IPA oder Pils: Was ist der Unterschied? Geschmack, Alkohol, Gärung, Herkunft, Essen und eine einfache Entscheidungshilfe im direkten Vergleich.'
 category: Biervergleich
 language: de

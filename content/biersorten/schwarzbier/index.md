@@ -1,8 +1,8 @@
 ---
 title: Was ist Schwarzbier?
 slug: /biersorten/schwarzbier/
-canonical: https://bier-durst.de/biersorten/schwarzbier/
-meta_title: Was ist Schwarzbier? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/schwarzbier/
+meta_title: Was ist Schwarzbier? | BierDurst.org
 meta_description: 'Schwarzbier einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de

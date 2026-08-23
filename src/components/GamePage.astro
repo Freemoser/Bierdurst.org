@@ -5,10 +5,10 @@ import ExperienceHero from './ExperienceHero.astro';
 import BeerGame from './BeerGame.astro';
 
 const { mode, title, description, intro } = Astro.props as { mode: 'blind' | 'tier' | 'swipe'; title: string; description: string; intro: string };
-const canonical = `https://bier-durst.de/bierspiele/${mode === 'blind' ? 'blind-ranking' : mode === 'tier' ? 'tier-list' : 'hit-oder-shit'}/`;
-const breadcrumbs = [{ href: '/', label: 'Startseite' }, { href: '/bierspiele/', label: 'Bierspiele' }, { href: canonical.replace('https://bier-durst.de', ''), label: title }];
+const canonical = `https://bierdurst.org/bierspiele/${mode === 'blind' ? 'blind-ranking' : mode === 'tier' ? 'tier-list' : 'hit-oder-shit'}/`;
+const breadcrumbs = [{ href: '/', label: 'Startseite' }, { href: '/bierspiele/', label: 'Bierspiele' }, { href: canonical.replace('https://bierdurst.org', ''), label: title }];
 ---
-<BaseLayout title={`${title} | Bier-Durst.de`} description={description} canonical={canonical}>
+<BaseLayout title={`${title} | BierDurst.org`} description={description} canonical={canonical} robots="noindex, follow">
   <main id="inhalt">
     <div class="page-width"><Breadcrumbs items={breadcrumbs} /></div>
     <ExperienceHero eyebrow="Bierspiele" title={title} description={description} />

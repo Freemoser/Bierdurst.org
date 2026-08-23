@@ -1,8 +1,8 @@
 ---
 title: Wie viel ist eine Maß Bier?
 slug: /bierwissen/wie-viel-ist-eine-mass/
-canonical: https://bier-durst.de/bierwissen/wie-viel-ist-eine-mass/
-meta_title: Wie viel ist eine Maß Bier? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/wie-viel-ist-eine-mass/
+meta_title: Wie viel ist eine Maß Bier? | BierDurst.org
 meta_description: Eine Maß entspricht einem Liter. Umrechnung in Halbe, 0,33-Liter-Flaschen und Kalorien abhängig vom Bier.
 category: Bierwissen
 language: de

@@ -1,8 +1,8 @@
 ---
 title: Was bedeutet EBC beim Bier?
 slug: /bierwissen/ebc-beim-bier/
-canonical: https://bier-durst.de/bierwissen/ebc-beim-bier/
-meta_title: Was bedeutet EBC beim Bier? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/ebc-beim-bier/
+meta_title: Was bedeutet EBC beim Bier? | BierDurst.org
 meta_description: 'EBC-Farbwert beim Bier erklärt: Was die Zahl aussagt, typische Bereiche und warum Farbe nichts Sicheres über Stärke oder Geschmack verrät.'
 category: Bierwissen
 language: de

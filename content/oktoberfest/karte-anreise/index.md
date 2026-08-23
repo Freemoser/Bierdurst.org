@@ -1,8 +1,8 @@
 ---
 title: Oktoberfest-Karte, Anreise und Orientierung auf der Wiesn
 slug: /oktoberfest/karte-anreise/
-canonical: https://bier-durst.de/oktoberfest/karte-anreise/
-meta_title: Oktoberfest-Karte, Anreise und Orientierung… | Bier-Durst.de
+canonical: https://bierdurst.org/oktoberfest/karte-anreise/
+meta_title: Oktoberfest-Karte, Anreise und Orientierung… | BierDurst.org
 meta_description: 'Oktoberfest-Karte und Anreise: U-Bahn, S-Bahn, wichtige Eingänge, Festzelte, Oide Wiesn und Orientierung auf dem Gelände.'
 category: Oktoberfest
 language: de
@@ -36,7 +36,7 @@ index: true
 
 Die Stadt München veröffentlicht einen aktuellen offiziellen Geländeplan mit Festzelten, Fahrgeschäften, Eingängen, Servicepunkten, Toiletten und Sicherheitsangeboten. Dieser Plan ist die beste Quelle für den konkreten Besuch.
 
-Für Bier-Durst.de gilt: Der offizielle Lageplan sollte nicht einfach kopiert und kommerziell wiederverwendet werden. Sinnvoll sind entweder ein sauberer Link zur offiziellen Karte oder eine eigene, stark vereinfachte schematische Übersicht auf Basis selbst recherchierter Positionen und eigener Gestaltung.
+Für BierDurst.org gilt: Der offizielle Lageplan sollte nicht einfach kopiert und kommerziell wiederverwendet werden. Sinnvoll sind entweder ein sauberer Link zur offiziellen Karte oder eine eigene, stark vereinfachte schematische Übersicht auf Basis selbst recherchierter Positionen und eigener Gestaltung.
 
 ## Wichtige Bereiche des Geländes
 
@@ -117,7 +117,7 @@ Ja. Je nach Eingang dauert der Weg ungefähr 15 bis 25 Minuten.
 
 Im südlichen Bereich der Theresienwiese mit separatem Zugang.
 
-### Darf Bier-Durst.de die offizielle Karte einbinden?
+### Darf BierDurst.org die offizielle Karte einbinden?
 
 Nur im Rahmen der jeweils geltenden Nutzungsbedingungen. Sicherer ist ein Link oder eine eigene schematische Karte, die keine geschützte Gestaltung kopiert.
 

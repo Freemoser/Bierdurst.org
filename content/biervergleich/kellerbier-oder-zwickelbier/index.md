@@ -1,8 +1,8 @@
 ---
 title: 'Kellerbier oder Zwickelbier: Gibt es einen Unterschied?'
 slug: /biervergleich/kellerbier-oder-zwickelbier/
-canonical: https://bier-durst.de/biervergleich/kellerbier-oder-zwickelbier/
-meta_title: 'Kellerbier oder Zwickelbier: Gibt es einen… | Bier-Durst.de'
+canonical: https://bierdurst.org/biervergleich/kellerbier-oder-zwickelbier/
+meta_title: 'Kellerbier oder Zwickelbier: Gibt es einen… | BierDurst.org'
 meta_description: 'Kellerbier oder Zwickelbier: Gibt es einen Unterschied? Geschmack, Alkohol, Gärung, Herkunft, Essen und eine einfache Entscheidungshilfe im direkten Vergle'
 category: Biervergleich
 language: de

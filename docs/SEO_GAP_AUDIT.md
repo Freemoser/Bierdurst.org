@@ -1,6 +1,6 @@
 # SEO- und Inhaltslücken vor dem Produktivstart
 
-Stand: 14. August 2026. Grundlage ist der validierte Build mit 205 veröffentlichbaren URLs. Die GitHub-Pages-Vorschau bleibt vollständig auf `noindex, nofollow, noarchive` und enthält keine Sitemap.
+Stand: 23. August 2026. Grundlage ist der Produktionsbuild mit 76 indexierbaren redaktionellen URLs. Die datengetriebenen Kompendium-, Statistik- und Spieleseiten bleiben erreichbar, stehen bis zum redaktionellen Ausbau jedoch auf `noindex, follow` und fehlen bewusst in der Sitemap.
 
 ## Bereits technisch abgedeckt
 
@@ -9,7 +9,7 @@ Stand: 14. August 2026. Grundlage ist der validierte Build mit 205 veröffentlic
 - Meta-Description auf jeder Seite
 - keine internen Links auf Queue- oder Fehlerseiten
 - strukturierte Daten für Website, Bierstile, Marken und Statistiken
-- statische, schnelle Auslieferung ohne Tracking oder Anzeigen in der Vorschau
+- statische, schnelle Auslieferung ohne Tracking oder Anzeigen zum Launch
 
 ## Priorität 1: Inhalte vor der Indexierung ausbauen
 
@@ -63,8 +63,8 @@ Impressum und Datenschutz müssen nicht auf Suchmaschinen-Klickrate optimiert we
 
 ## Priorität 3: Pflichtangaben und Vertrauen
 
-- Geschäftliche E-Mail-Adresse in Impressum, Datenschutz und Kontakt ergänzen.
-- Hostingtext beim Wechsel von GitHub Pages auf das endgültige Hosting erneut anpassen.
+- Geschäftliche E-Mail-Adresse ist in Impressum, Datenschutz und Kontakt ergänzt.
+- Hostingtext ist auf GitHub Pages mit Cloudflare als Registrar/DNS-Anbieter angepasst.
 - Gesundheits-, Preis-, Markt- und Oktoberfestangaben vor der Indexierung redaktionell gegen aktuelle Primärquellen prüfen.
 - Autor- oder Redaktionsverantwortung und Aktualisierungsdatum auf wichtigen Informationsartikeln sichtbar ausspielen.
 
@@ -74,4 +74,4 @@ Impressum und Datenschutz müssen nicht auf Suchmaschinen-Klickrate optimiert we
 2. Die wichtigsten Bierstile inhaltlich ausbauen und einzeln freigeben.
 3. Die wichtigsten Markenprofile redaktionell erweitern und einzeln freigeben.
 4. Übrige programmgenerierte Profile erst nach eigenständiger inhaltlicher Bearbeitung indexieren.
-5. Erst dann Sitemap bei der Search Console einreichen.
+5. Die Sitemap mit den 76 geprüften redaktionellen URLs direkt nach dem Domain-Launch bei der Search Console einreichen; spätere Profile erst nach redaktioneller Freigabe ergänzen.

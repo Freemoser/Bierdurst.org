@@ -1,8 +1,8 @@
 ---
 title: Wie viele Brauereien gibt es in Deutschland?
 slug: /bierwissen/wie-viele-brauereien-gibt-es/
-canonical: https://bier-durst.de/bierwissen/wie-viele-brauereien-gibt-es/
-meta_title: Wie viele Brauereien gibt es in Deutschland? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/wie-viele-brauereien-gibt-es/
+meta_title: Wie viele Brauereien gibt es in Deutschland? | BierDurst.org
 meta_description: Aktuelle Zahl der Braustätten in Deutschland, regionale Verteilung und Unterschied zwischen Brauerei, Marke und Brauereigruppe.
 category: Bierwissen
 language: de

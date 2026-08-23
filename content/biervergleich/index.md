@@ -7,7 +7,7 @@ cluster: biervergleich
 publish_phase: 1
 priority: high
 index: true
-canonical: https://bier-durst.de/biervergleich/
+canonical: https://bierdurst.org/biervergleich/
 language: de
 last_updated: '2026-08-03'
 launch_status: publish

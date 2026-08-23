@@ -1,8 +1,8 @@
 ---
 title: Was ist Weizenbock?
 slug: /biersorten/weizenbock/
-canonical: https://bier-durst.de/biersorten/weizenbock/
-meta_title: Was ist Weizenbock? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/weizenbock/
+meta_title: Was ist Weizenbock? | BierDurst.org
 meta_description: 'Weizenbock einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de

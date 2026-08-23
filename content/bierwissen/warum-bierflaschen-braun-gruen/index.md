@@ -1,8 +1,8 @@
 ---
 title: Warum sind Bierflaschen braun oder grün?
 slug: /bierwissen/warum-bierflaschen-braun-gruen/
-canonical: https://bier-durst.de/bierwissen/warum-bierflaschen-braun-gruen/
-meta_title: Warum sind Bierflaschen braun oder grün? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/warum-bierflaschen-braun-gruen/
+meta_title: Warum sind Bierflaschen braun oder grün? | BierDurst.org
 meta_description: Braunes Glas schützt Bier besser vor Licht. Warum trotzdem grüne und klare Bierflaschen verwendet werden.
 category: Bierwissen
 language: de

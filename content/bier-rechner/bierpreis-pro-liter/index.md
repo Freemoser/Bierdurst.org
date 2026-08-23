@@ -1,8 +1,8 @@
 ---
 title: Bierpreis-pro-Liter-Rechner
 slug: /bier-rechner/bierpreis-pro-liter/
-canonical: https://bier-durst.de/bier-rechner/bierpreis-pro-liter/
-meta_title: Bierpreis-pro-Liter-Rechner | Bier-Durst.de
+canonical: https://bierdurst.org/bier-rechner/bierpreis-pro-liter/
+meta_title: Bierpreis-pro-Liter-Rechner | BierDurst.org
 meta_description: Vergleiche Bierpreise fair nach Litern – für Kasten, Sixpack, Einzelflasche oder Fass.
 category: Bierrechner
 language: de

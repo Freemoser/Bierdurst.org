@@ -1,13 +1,13 @@
 ---
 title: Redaktionsrichtlinien
 slug: /redaktionsrichtlinien/
-meta_description: 'Redaktionsgrundsätze von Bier-Durst.de: Quellen, Korrekturen, Interessenkonflikte und verantwortungsvoller Umgang mit Alkohol.'
+meta_description: 'Redaktionsgrundsätze von BierDurst.org: Quellen, Korrekturen, Interessenkonflikte und verantwortungsvoller Umgang mit Alkohol.'
 page_type: static
 cluster: legal
 publish_phase: 1
 priority: low
 index: true
-canonical: https://bier-durst.de/redaktionsrichtlinien/
+canonical: https://bierdurst.org/redaktionsrichtlinien/
 language: de
 last_updated: '2026-08-03'
 launch_status: publish

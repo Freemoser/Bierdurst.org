@@ -9,16 +9,16 @@ export function getStaticPaths() {
 }
 const { brand } = Astro.props;
 const style = beerStyles.find((item) => item.slug === brand.style)!;
-const canonical = `https://bier-durst.de/bierkompendium/marken/${brand.slug}/`;
+const canonical = `https://bierdurst.org/bierkompendium/marken/${brand.slug}/`;
 const formatHl = (value: number) => new Intl.NumberFormat('de-DE').format(value);
 const schemas = [
   { '@context': 'https://schema.org', '@type': 'Brand', name: brand.name, url: canonical },
   { '@context': 'https://schema.org', '@type': 'Organization', name: brand.brewery, address: { '@type': 'PostalAddress', addressLocality: brand.city, addressRegion: brand.state, addressCountry: 'DE' } }
 ];
 ---
-<BaseLayout title={`${brand.name}: Brauerei, Herkunft & Biersorte`} description={`${brand.name}: Brauerei, Herkunft, Standort und Biersorte im kompakten Markenprofil mit offiziellen Quellen.`} canonical={canonical} structuredData={schemas}>
+<BaseLayout title={`${brand.name}: Brauerei, Herkunft & Biersorte`} description={`${brand.name}: Brauerei, Herkunft, Standort und Biersorte im kompakten Markenprofil mit offiziellen Quellen.`} canonical={canonical} robots="noindex, follow" structuredData={schemas}>
   <main id="inhalt">
-    <div class="page-width"><Breadcrumbs items={[{ href: '/', label: 'Startseite' }, { href: '/bierkompendium/', label: 'Bierkompendium' }, { href: canonical.replace('https://bier-durst.de', ''), label: brand.name }]} /></div>
+    <div class="page-width"><Breadcrumbs items={[{ href: '/', label: 'Startseite' }, { href: '/bierkompendium/', label: 'Bierkompendium' }, { href: canonical.replace('https://bierdurst.org', ''), label: brand.name }]} /></div>
     <header class="beer-profile-hero brand-profile-hero">
       <div><p class="eyebrow">Echte Biermarke · {brand.state}</p><h1>{brand.name}</h1><p>{brand.brewery} aus {brand.city}. Im Kompendium ist die Marke dem Hauptstil {style.name} zugeordnet.</p><div class="profile-tags"><span>{style.name}</span><span>{style.fermentation}</span><span>{brand.group}</span></div></div>
       <div class="profile-scorecard brand-scorecard"><p>Markenprofil</p><span><small>Brauerei</small><b>{brand.brewery}</b></span><span><small>Standort</small><b>{brand.city}</b></span><span><small>Bundesland</small><b>{brand.state}</b></span>{brand.founded && <span><small>Gegründet</small><b>{brand.founded}</b></span>}</div>

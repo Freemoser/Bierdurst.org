@@ -1,8 +1,8 @@
 ---
 title: Wie lange ist geöffnetes Bier haltbar?
 slug: /bierwissen/geoeffnetes-bier-haltbar/
-canonical: https://bier-durst.de/bierwissen/geoeffnetes-bier-haltbar/
-meta_title: Wie lange ist geöffnetes Bier haltbar? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/geoeffnetes-bier-haltbar/
+meta_title: Wie lange ist geöffnetes Bier haltbar? | BierDurst.org
 meta_description: Geöffnetes Bier verliert schnell Kohlensäure und Aroma. So lange bleibt es im Kühlschrank noch brauchbar.
 category: Bierwissen
 language: de

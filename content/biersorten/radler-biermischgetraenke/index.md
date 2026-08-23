@@ -1,8 +1,8 @@
 ---
 title: Was sind Radler und Biermischgetränke?
 slug: /biersorten/radler-biermischgetraenke/
-canonical: https://bier-durst.de/biersorten/radler-biermischgetraenke/
-meta_title: Was sind Radler und Biermischgetränke? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/radler-biermischgetraenke/
+meta_title: Was sind Radler und Biermischgetränke? | BierDurst.org
 meta_description: 'Radler und Biermischgetränke einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de

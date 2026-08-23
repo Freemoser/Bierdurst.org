@@ -1,8 +1,8 @@
 ---
 title: Was ist Zoiglbier?
 slug: /biersorten/zoiglbier/
-canonical: https://bier-durst.de/biersorten/zoiglbier/
-meta_title: Was ist Zoiglbier? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/zoiglbier/
+meta_title: Was ist Zoiglbier? | BierDurst.org
 meta_description: 'Zoiglbier einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de

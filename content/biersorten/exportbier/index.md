@@ -1,8 +1,8 @@
 ---
 title: Was ist Exportbier?
 slug: /biersorten/exportbier/
-canonical: https://bier-durst.de/biersorten/exportbier/
-meta_title: Was ist Exportbier? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/exportbier/
+meta_title: Was ist Exportbier? | BierDurst.org
 meta_description: 'Exportbier einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de

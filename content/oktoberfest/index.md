@@ -1,8 +1,8 @@
 ---
 title: 'Oktoberfest 2026: Bier, Festzelte und die wichtigsten Informationen'
 slug: /oktoberfest/
-canonical: https://bier-durst.de/oktoberfest/
-meta_title: 'Oktoberfest 2026: Bier, Festzelte und die w… | Bier-Durst.de'
+canonical: https://bierdurst.org/oktoberfest/
+meta_title: 'Oktoberfest 2026: Bier, Festzelte und die w… | BierDurst.org'
 meta_description: 'Oktoberfest 2026 in München: Termine, Festzelte, Wiesnbier, Preise, Öffnungszeiten, Reservierung und Orientierung.'
 category: Oktoberfest
 language: de

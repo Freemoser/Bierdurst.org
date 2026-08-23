@@ -1,8 +1,8 @@
 ---
 title: Was ist Rauchbier?
 slug: /biersorten/rauchbier/
-canonical: https://bier-durst.de/biersorten/rauchbier/
-meta_title: Was ist Rauchbier? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/rauchbier/
+meta_title: Was ist Rauchbier? | BierDurst.org
 meta_description: 'Rauchbier einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de

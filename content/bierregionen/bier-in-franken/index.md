@@ -1,8 +1,8 @@
 ---
 title: 'Bier in Franken: Kellerbier, Rauchbier und Bierkeller'
 slug: /bierregionen/bier-in-franken/
-canonical: https://bier-durst.de/bierregionen/bier-in-franken/
-meta_title: 'Bier in Franken: Kellerbier, Rauchbier und… | Bier-Durst.de'
+canonical: https://bierdurst.org/bierregionen/bier-in-franken/
+meta_title: 'Bier in Franken: Kellerbier, Rauchbier und… | BierDurst.org'
 meta_description: 'Fränkische Bierkultur: Kellerbier, Rauchbier, Landbier, Bockbier, Bierkeller, Brauereigasthöfe und Bamberg.'
 category: Bierregionen
 language: de

@@ -7,7 +7,7 @@ cluster: bierwissen
 publish_phase: 1
 priority: high
 index: true
-canonical: https://bier-durst.de/bierwissen/
+canonical: https://bierdurst.org/bierwissen/
 language: de
 last_updated: '2026-08-03'
 launch_status: publish

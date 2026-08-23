@@ -1,8 +1,8 @@
 ---
 title: 'Bier in Köln: Kölsch, Brauhäuser und Köbes'
 slug: /bierregionen/bier-in-koeln/
-canonical: https://bier-durst.de/bierregionen/bier-in-koeln/
-meta_title: 'Bier in Köln: Kölsch, Brauhäuser und Köbes | Bier-Durst.de'
+canonical: https://bierdurst.org/bierregionen/bier-in-koeln/
+meta_title: 'Bier in Köln: Kölsch, Brauhäuser und Köbes | BierDurst.org'
 meta_description: 'Kölner Bierkultur: Was Kölsch ausmacht, wie es serviert wird, was ein Köbes tut und wie der Kranz funktioniert.'
 category: Bierregionen
 language: de

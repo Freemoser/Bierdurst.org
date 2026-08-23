@@ -1,8 +1,8 @@
 ---
 title: Wie viele Gläser bekommt man aus einem Bierfass?
 slug: /bierwissen/wie-viele-glaeser-aus-bierfass/
-canonical: https://bier-durst.de/bierwissen/wie-viele-glaeser-aus-bierfass/
-meta_title: Wie viele Gläser bekommt man aus einem Bierfass? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/wie-viele-glaeser-aus-bierfass/
+meta_title: Wie viele Gläser bekommt man aus einem Bierfass? | BierDurst.org
 meta_description: Gläser aus 5, 10, 20, 30 oder 50 Litern Fassbier berechnen – inklusive Ausschankverlust.
 category: Bierwissen
 language: de

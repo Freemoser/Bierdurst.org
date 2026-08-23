@@ -1,4 +1,4 @@
-# SEO- und Umsatzarchitektur für Bier-Durst.de
+# SEO- und Umsatzarchitektur für BierDurst.org
 
 ## Geschäftsziel
 
@@ -19,7 +19,7 @@ Da Bier ein alkoholbezogenes Thema ist und Werbeinventar eingeschränkt sein kan
 
 ## Positionierung
 
-Bier-Durst.de ist keine Bewertungscommunity und kein Bier-Shop. Die Seite ist ein deutschsprachiges Informations- und Werkzeugportal:
+BierDurst.org ist keine Bewertungscommunity und kein Bier-Shop. Die Seite ist ein deutschsprachiges Informations- und Werkzeugportal:
 
 1. Bierarten verstehen
 2. ähnliche Biere vergleichen

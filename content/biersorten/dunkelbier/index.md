@@ -1,8 +1,8 @@
 ---
 title: Was ist Dunkelbier?
 slug: /biersorten/dunkelbier/
-canonical: https://bier-durst.de/biersorten/dunkelbier/
-meta_title: Was ist Dunkelbier? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/dunkelbier/
+meta_title: Was ist Dunkelbier? | BierDurst.org
 meta_description: 'Dunkelbier einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de

@@ -1,8 +1,8 @@
 ---
 title: Bierkasten-Größen und typische Gebinde
 slug: /bierwissen/bierkasten-groessen/
-canonical: https://bier-durst.de/bierwissen/bierkasten-groessen/
-meta_title: Bierkasten-Größen und typische Gebinde | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/bierkasten-groessen/
+meta_title: Bierkasten-Größen und typische Gebinde | BierDurst.org
 meta_description: Typische Bierkästen, halbe Kästen, Probierkästen und die jeweilige Gesamtmenge.
 category: Bierwissen
 language: de

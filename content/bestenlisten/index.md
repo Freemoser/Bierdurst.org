@@ -7,7 +7,7 @@ cluster: bestenlisten
 publish_phase: 1
 priority: medium
 index: true
-canonical: https://bier-durst.de/bestenlisten/
+canonical: https://bierdurst.org/bestenlisten/
 language: de
 last_updated: '2026-08-03'
 launch_status: publish

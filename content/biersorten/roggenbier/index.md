@@ -1,8 +1,8 @@
 ---
 title: Was ist Roggenbier?
 slug: /biersorten/roggenbier/
-canonical: https://bier-durst.de/biersorten/roggenbier/
-meta_title: Was ist Roggenbier? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/roggenbier/
+meta_title: Was ist Roggenbier? | BierDurst.org
 meta_description: 'Roggenbier einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de

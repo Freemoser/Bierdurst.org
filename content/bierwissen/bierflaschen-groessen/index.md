@@ -1,8 +1,8 @@
 ---
 title: Bierflaschen-Größen in Deutschland
 slug: /bierwissen/bierflaschen-groessen/
-canonical: https://bier-durst.de/bierwissen/bierflaschen-groessen/
-meta_title: Bierflaschen-Größen in Deutschland | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/bierflaschen-groessen/
+meta_title: Bierflaschen-Größen in Deutschland | BierDurst.org
 meta_description: Übliche Bierflaschen mit 0,33, 0,5 und weiteren Größen sowie typische Flaschenformen.
 category: Bierwissen
 language: de

@@ -1,8 +1,8 @@
 ---
 title: Wie viel reiner Alkohol steckt in Bier?
 slug: /bierwissen/reiner-alkohol-im-bier/
-canonical: https://bier-durst.de/bierwissen/reiner-alkohol-im-bier/
-meta_title: Wie viel reiner Alkohol steckt in Bier? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/reiner-alkohol-im-bier/
+meta_title: Wie viel reiner Alkohol steckt in Bier? | BierDurst.org
 meta_description: Reinen Alkohol in Gramm aus Biermenge und Volumenprozent berechnen – mit Formel und Beispielen.
 category: Bierwissen
 language: de

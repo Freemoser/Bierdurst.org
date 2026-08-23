@@ -1,8 +1,8 @@
 ---
 title: 'Kölsch oder Altbier: der große Vergleich'
 slug: /biervergleich/koelsch-oder-altbier/
-canonical: https://bier-durst.de/biervergleich/koelsch-oder-altbier/
-meta_title: 'Kölsch oder Altbier: der große Vergleich | Bier-Durst.de'
+canonical: https://bierdurst.org/biervergleich/koelsch-oder-altbier/
+meta_title: 'Kölsch oder Altbier: der große Vergleich | BierDurst.org'
 meta_description: 'Kölsch oder Altbier: der große Vergleich Geschmack, Alkohol, Gärung, Herkunft, Essen und eine einfache Entscheidungshilfe im direkten Vergleich.'
 category: Biervergleich
 language: de

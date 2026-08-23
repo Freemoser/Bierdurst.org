@@ -1,8 +1,8 @@
 ---
 title: 'Fassbier-Rechner: Gläser und Maß pro Fass'
 slug: /bier-rechner/fassbier/
-canonical: https://bier-durst.de/bier-rechner/fassbier/
-meta_title: 'Fassbier-Rechner: Gläser und Maß pro Fass | Bier-Durst.de'
+canonical: https://bierdurst.org/bier-rechner/fassbier/
+meta_title: 'Fassbier-Rechner: Gläser und Maß pro Fass | BierDurst.org'
 meta_description: Berechne die Zahl der Gläser aus einem Bierfass nach Fassgröße, Glasgröße und Ausschankverlust.
 category: Bierrechner
 language: de

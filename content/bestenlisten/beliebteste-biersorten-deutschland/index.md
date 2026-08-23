@@ -1,8 +1,8 @@
 ---
 title: Was ist die beliebteste Biersorte Deutschlands?
 slug: /bestenlisten/beliebteste-biersorten-deutschland/
-canonical: https://bier-durst.de/bestenlisten/beliebteste-biersorten-deutschland/
-meta_title: Was ist die beliebteste Biersorte Deutschla… | Bier-Durst.de
+canonical: https://bierdurst.org/bestenlisten/beliebteste-biersorten-deutschland/
+meta_title: Was ist die beliebteste Biersorte Deutschla… | BierDurst.org
 meta_description: 'Pils, Helles und alkoholfreies Bier: die beliebtesten Biersorten Deutschlands mit aktuellen Marktanteilen und regionalen Unterschieden.'
 category: Bestenlisten und Zahlen
 language: de

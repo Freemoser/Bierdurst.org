@@ -1,8 +1,8 @@
 ---
 title: Was ist dunkles Weizenbier?
 slug: /biersorten/dunkles-weizenbier/
-canonical: https://bier-durst.de/biersorten/dunkles-weizenbier/
-meta_title: Was ist dunkles Weizenbier? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/dunkles-weizenbier/
+meta_title: Was ist dunkles Weizenbier? | BierDurst.org
 meta_description: 'Dunkles Weizenbier einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de

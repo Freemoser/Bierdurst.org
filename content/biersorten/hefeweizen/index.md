@@ -1,8 +1,8 @@
 ---
 title: Was ist Hefeweizen?
 slug: /biersorten/hefeweizen/
-canonical: https://bier-durst.de/biersorten/hefeweizen/
-meta_title: Was ist Hefeweizen? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/hefeweizen/
+meta_title: Was ist Hefeweizen? | BierDurst.org
 meta_description: 'Hefeweizen einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de

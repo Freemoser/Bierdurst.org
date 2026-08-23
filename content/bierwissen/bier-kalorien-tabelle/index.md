@@ -1,8 +1,8 @@
 ---
 title: 'Bier-Kalorien-Tabelle: Pils, Helles, Weizen und alkoholfrei'
 slug: /bierwissen/bier-kalorien-tabelle/
-canonical: https://bier-durst.de/bierwissen/bier-kalorien-tabelle/
-meta_title: 'Bier-Kalorien-Tabelle: Pils, Helles, Weizen und… | Bier-Durst.de'
+canonical: https://bierdurst.org/bierwissen/bier-kalorien-tabelle/
+meta_title: 'Bier-Kalorien-Tabelle: Pils, Helles, Weizen und… | BierDurst.org'
 meta_description: Typische Kalorienbereiche je 100 ml, 0,33 l und 0,5 l. Konkrete Werte unterscheiden sich nach Produkt.
 category: Bierwissen
 language: de

@@ -1,8 +1,8 @@
 ---
 title: Was bedeutet naturtrüb oder unfiltriert beim Bier?
 slug: /bierwissen/naturtrueb-unfiltriert/
-canonical: https://bier-durst.de/bierwissen/naturtrueb-unfiltriert/
-meta_title: Was bedeutet naturtrüb oder unfiltriert beim Bi… | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/naturtrueb-unfiltriert/
+meta_title: Was bedeutet naturtrüb oder unfiltriert beim Bi… | BierDurst.org
 meta_description: Naturtrübes und unfiltriertes Bier enthält sichtbare Hefe- und Trubstoffe. Bedeutung, Geschmack und Lagerung.
 category: Bierwissen
 language: de

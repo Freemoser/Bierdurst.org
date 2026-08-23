@@ -1,8 +1,8 @@
 ---
 title: 'Helles oder Weizenbier: Was passt besser?'
 slug: /biervergleich/helles-oder-weizenbier/
-canonical: https://bier-durst.de/biervergleich/helles-oder-weizenbier/
-meta_title: 'Helles oder Weizenbier: Was passt besser? | Bier-Durst.de'
+canonical: https://bierdurst.org/biervergleich/helles-oder-weizenbier/
+meta_title: 'Helles oder Weizenbier: Was passt besser? | BierDurst.org'
 meta_description: 'Helles oder Weizenbier: Was passt besser? Geschmack, Alkohol, Gärung, Herkunft, Essen und eine einfache Entscheidungshilfe im direkten Vergleich.'
 category: Biervergleich
 language: de

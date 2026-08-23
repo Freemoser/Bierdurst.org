@@ -1,8 +1,8 @@
 ---
 title: 'Bier abgelaufen: Kann man es noch trinken?'
 slug: /bierwissen/abgelaufenes-bier-trinken/
-canonical: https://bier-durst.de/bierwissen/abgelaufenes-bier-trinken/
-meta_title: 'Bier abgelaufen: Kann man es noch trinken? | Bier-Durst.de'
+canonical: https://bierdurst.org/bierwissen/abgelaufenes-bier-trinken/
+meta_title: 'Bier abgelaufen: Kann man es noch trinken? | BierDurst.org'
 meta_description: 'Abgelaufenes Bier prüfen: Mindesthaltbarkeitsdatum, Geruch, Geschmack, Flaschendruck und klare Warnzeichen.'
 category: Bierwissen
 language: de

@@ -1,8 +1,8 @@
 ---
 title: Wie viele Liter hat ein Kasten Bier?
 slug: /bierwissen/wie-viele-liter-bierkasten/
-canonical: https://bier-durst.de/bierwissen/wie-viele-liter-bierkasten/
-meta_title: Wie viele Liter hat ein Kasten Bier? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/wie-viele-liter-bierkasten/
+meta_title: Wie viele Liter hat ein Kasten Bier? | BierDurst.org
 meta_description: Ein Bierkasten enthält je nach Flaschenzahl und Flaschengröße meist zwischen rund 6 und 10 Litern.
 category: Bierwissen
 language: de

@@ -1,8 +1,8 @@
 ---
 title: Was kostet Bier in Deutschland?
 slug: /bestenlisten/was-kostet-bier-in-deutschland/
-canonical: https://bier-durst.de/bestenlisten/was-kostet-bier-in-deutschland/
-meta_title: Was kostet Bier in Deutschland? | Bier-Durst.de
+canonical: https://bierdurst.org/bestenlisten/was-kostet-bier-in-deutschland/
+meta_title: Was kostet Bier in Deutschland? | BierDurst.org
 meta_description: Bierpreise in Supermarkt, Getränkemarkt, Kneipe, Biergarten und Oktoberfest – mit Literpreis-Rechnung und Preisfaktoren.
 category: Bestenlisten und Zahlen
 language: de

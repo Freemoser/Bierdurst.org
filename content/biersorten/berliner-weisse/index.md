@@ -1,8 +1,8 @@
 ---
 title: Was ist Berliner Weisse?
 slug: /biersorten/berliner-weisse/
-canonical: https://bier-durst.de/biersorten/berliner-weisse/
-meta_title: Was ist Berliner Weisse? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/berliner-weisse/
+meta_title: Was ist Berliner Weisse? | BierDurst.org
 meta_description: 'Berliner Weisse einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de

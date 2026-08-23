@@ -1,8 +1,8 @@
 ---
 title: Was ist alkoholfreies Bier?
 slug: /biersorten/alkoholfreies-bier/
-canonical: https://bier-durst.de/biersorten/alkoholfreies-bier/
-meta_title: Was ist alkoholfreies Bier? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/alkoholfreies-bier/
+meta_title: Was ist alkoholfreies Bier? | BierDurst.org
 meta_description: 'Alkoholfreies Bier einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de

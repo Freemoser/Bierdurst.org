@@ -1,8 +1,8 @@
 ---
 title: 'Die besten Hellen Deutschlands: 10 bekannte Vertreter'
 slug: /bestenlisten/beste-helle-deutschland/
-canonical: https://bier-durst.de/bestenlisten/beste-helle-deutschland/
-meta_title: 'Die besten Hellen Deutschlands: 10 bekannte… | Bier-Durst.de'
+canonical: https://bierdurst.org/bestenlisten/beste-helle-deutschland/
+meta_title: 'Die besten Hellen Deutschlands: 10 bekannte… | BierDurst.org'
 meta_description: Zehn bekannte Helle aus Deutschland als redaktionelle Orientierung mit bayerischen Klassikern und bundesweit erhältlichen Beispielen.
 category: Bestenlisten und Zahlen
 language: de

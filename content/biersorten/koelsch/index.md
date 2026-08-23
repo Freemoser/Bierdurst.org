@@ -1,8 +1,8 @@
 ---
 title: Was ist Kölsch?
 slug: /biersorten/koelsch/
-canonical: https://bier-durst.de/biersorten/koelsch/
-meta_title: Was ist Kölsch? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/koelsch/
+meta_title: Was ist Kölsch? | BierDurst.org
 meta_description: 'Kölsch einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de

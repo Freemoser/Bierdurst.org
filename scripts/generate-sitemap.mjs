@@ -17,9 +17,6 @@ function field(frontmatter, name) {
 
 const pages = [];
 const manifest = JSON.parse(await readFile('data/url-manifest.json', 'utf8'));
-const beerStyles = JSON.parse(await readFile('data/beer-styles.json', 'utf8'));
-const beerBrands = JSON.parse(await readFile('data/beer-brands.json', 'utf8'));
-const marketStatistics = JSON.parse(await readFile('data/beer-market-statistics.json', 'utf8'));
 const launchSlugs = new Set(manifest.filter((page) => page.launch_status === 'publish').map((page) => page.slug));
 for (const file of await markdownFiles('content')) {
   const source = await readFile(file, 'utf8');
@@ -28,20 +25,8 @@ for (const file of await markdownFiles('content')) {
   if (!launchSlugs.has(slug) || field(frontmatter, 'index') !== 'true') continue;
   pages.push({ slug, lastmod: field(frontmatter, 'last_updated') });
 }
-const experiencePages = [
-  '/bierkompendium/',
-  '/bierkompendium/statistik/',
-  '/bierspiele/',
-  '/bierspiele/blind-ranking/',
-  '/bierspiele/tier-list/',
-  '/bierspiele/hit-oder-shit/',
-  ...beerStyles.map((beer) => `/bierkompendium/${beer.slug}/`),
-  ...beerBrands.map((brand) => `/bierkompendium/marken/${brand.slug}/`)
-  ,...marketStatistics.map((stat) => `/bierkompendium/statistik/${stat.slug}/`)
-];
-for (const slug of experiencePages) pages.push({ slug, lastmod: '2026-08-04' });
 pages.sort((a, b) => a.slug.localeCompare(b.slug, 'de'));
-const rows = pages.map(({ slug, lastmod }) => `  <url>\n    <loc>https://bier-durst.de${slug === '/' ? '/' : slug}</loc>\n    <lastmod>${lastmod}</lastmod>\n  </url>`).join('\n');
+const rows = pages.map(({ slug, lastmod }) => `  <url>\n    <loc>https://bierdurst.org${slug === '/' ? '/' : slug}</loc>\n    <lastmod>${lastmod}</lastmod>\n  </url>`).join('\n');
 const xml = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${rows}\n</urlset>\n`;
 await writeFile('public/sitemap.xml', xml);
 console.log(`Launch-Sitemap mit ${pages.length} URLs erzeugt.`);

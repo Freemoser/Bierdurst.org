@@ -1,8 +1,8 @@
 ---
 title: Was sind IPA und Pale Ale?
 slug: /biersorten/ipa-und-pale-ale/
-canonical: https://bier-durst.de/biersorten/ipa-und-pale-ale/
-meta_title: Was sind IPA und Pale Ale? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/ipa-und-pale-ale/
+meta_title: Was sind IPA und Pale Ale? | BierDurst.org
 meta_description: 'IPA und Pale Ale einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de

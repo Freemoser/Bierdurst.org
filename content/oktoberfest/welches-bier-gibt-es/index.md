@@ -1,8 +1,8 @@
 ---
 title: Welches Bier gibt es auf dem Oktoberfest?
 slug: /oktoberfest/welches-bier-gibt-es/
-canonical: https://bier-durst.de/oktoberfest/welches-bier-gibt-es/
-meta_title: Welches Bier gibt es auf dem Oktoberfest? | Bier-Durst.de
+canonical: https://bierdurst.org/oktoberfest/welches-bier-gibt-es/
+meta_title: Welches Bier gibt es auf dem Oktoberfest? | BierDurst.org
 meta_description: Welches Bier wird auf dem Oktoberfest ausgeschenkt? Alle sechs Wiesnbier-Brauereien, Bierstil, Alkoholgehalt und Unterschiede.
 category: Oktoberfest
 language: de
@@ -79,7 +79,7 @@ In verschiedenen Zelten und kleineren Betrieben wird zusätzlich Weißbier angeb
 
 ## Welches Wiesnbier schmeckt am besten?
 
-Das ist Geschmackssache. Wer mildes, rundes Bier mag, kann andere Favoriten haben als jemand, der ein trockeneres oder würzigeres Festbier bevorzugt. Für Bier-Durst.de sollte eine spätere Vergleichsseite deshalb nicht behaupten, es gebe ein objektiv bestes Wiesnbier. Sinnvoller sind transparente Kriterien wie Malzigkeit, Bittere, Alkoholgehalt, Ausschankart und persönliche Verkostungsnotizen.
+Das ist Geschmackssache. Wer mildes, rundes Bier mag, kann andere Favoriten haben als jemand, der ein trockeneres oder würzigeres Festbier bevorzugt. Für BierDurst.org sollte eine spätere Vergleichsseite deshalb nicht behaupten, es gebe ein objektiv bestes Wiesnbier. Sinnvoller sind transparente Kriterien wie Malzigkeit, Bittere, Alkoholgehalt, Ausschankart und persönliche Verkostungsnotizen.
 
 ## Häufige Fragen
 

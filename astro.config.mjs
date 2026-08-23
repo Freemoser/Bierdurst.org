@@ -37,7 +37,7 @@ function removeMarkdownH1() {
 }
 
 export default defineConfig({
-  site: 'https://bier-durst.de',
+  site: 'https://bierdurst.org',
   output: 'static',
   trailingSlash: 'always',
   markdown: {

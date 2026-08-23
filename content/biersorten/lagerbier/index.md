@@ -1,8 +1,8 @@
 ---
 title: Was ist Lagerbier?
 slug: /biersorten/lagerbier/
-canonical: https://bier-durst.de/biersorten/lagerbier/
-meta_title: Was ist Lagerbier? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/lagerbier/
+meta_title: Was ist Lagerbier? | BierDurst.org
 meta_description: 'Lagerbier einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de

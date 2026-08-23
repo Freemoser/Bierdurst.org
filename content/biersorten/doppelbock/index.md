@@ -1,8 +1,8 @@
 ---
 title: Was ist Doppelbock?
 slug: /biersorten/doppelbock/
-canonical: https://bier-durst.de/biersorten/doppelbock/
-meta_title: Was ist Doppelbock? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/doppelbock/
+meta_title: Was ist Doppelbock? | BierDurst.org
 meta_description: 'Doppelbock einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de

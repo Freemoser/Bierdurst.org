@@ -1,8 +1,8 @@
 ---
 title: Welche Trinktemperatur ist für Bier ideal?
 slug: /bierwissen/optimale-trinktemperatur-bier/
-canonical: https://bier-durst.de/bierwissen/optimale-trinktemperatur-bier/
-meta_title: Welche Trinktemperatur ist für Bier ideal? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/optimale-trinktemperatur-bier/
+meta_title: Welche Trinktemperatur ist für Bier ideal? | BierDurst.org
 meta_description: Ideale Trinktemperatur für Pils, Helles, Weizen, Bock, Stout und alkoholfreies Bier mit praktischer Kühlschrank-Regel.
 category: Bierwissen
 language: de

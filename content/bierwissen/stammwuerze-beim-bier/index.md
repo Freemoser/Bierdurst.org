@@ -1,8 +1,8 @@
 ---
 title: Was bedeutet Stammwürze beim Bier?
 slug: /bierwissen/stammwuerze-beim-bier/
-canonical: https://bier-durst.de/bierwissen/stammwuerze-beim-bier/
-meta_title: Was bedeutet Stammwürze beim Bier? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/stammwuerze-beim-bier/
+meta_title: Was bedeutet Stammwürze beim Bier? | BierDurst.org
 meta_description: 'Stammwürze einfach erklärt: Was der Wert misst, wie er mit Alkohol zusammenhängt und warum er nicht mit Restzucker identisch ist.'
 category: Bierwissen
 language: de

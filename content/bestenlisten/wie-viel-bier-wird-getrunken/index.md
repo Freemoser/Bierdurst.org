@@ -1,8 +1,8 @@
 ---
 title: Wie viel Bier wird in Deutschland getrunken?
 slug: /bestenlisten/wie-viel-bier-wird-getrunken/
-canonical: https://bier-durst.de/bestenlisten/wie-viel-bier-wird-getrunken/
-meta_title: Wie viel Bier wird in Deutschland getrunken? | Bier-Durst.de
+canonical: https://bierdurst.org/bestenlisten/wie-viel-bier-wird-getrunken/
+meta_title: Wie viel Bier wird in Deutschland getrunken? | BierDurst.org
 meta_description: 'Bierverbrauch und Bierabsatz in Deutschland 2025: 76,9 Liter pro Kopf, 7,8 Milliarden Liter Absatz und wichtige Statistik-Hinweise.'
 category: Bestenlisten und Zahlen
 language: de

@@ -1,8 +1,8 @@
 ---
 title: Welche Biermarken sind in Deutschland am beliebtesten?
 slug: /bestenlisten/beliebteste-biermarken-deutschland/
-canonical: https://bier-durst.de/bestenlisten/beliebteste-biermarken-deutschland/
-meta_title: Welche Biermarken sind in Deutschland am be… | Bier-Durst.de
+canonical: https://bierdurst.org/bestenlisten/beliebteste-biermarken-deutschland/
+meta_title: Welche Biermarken sind in Deutschland am be… | BierDurst.org
 meta_description: Beliebte Biermarken in Deutschland nach Bekanntheit, Kaufbereitschaft und Absatz – mit Erklärung, warum Rankings voneinander abweichen.
 category: Bestenlisten und Zahlen
 language: de
@@ -69,7 +69,7 @@ Krombacher bezeichnete sich auch für 2025 als Deutschlands beliebteste Biermark
 
 In Bayern haben Augustiner, Tegernseer, Paulaner, Erdinger oder regionale Helle eine andere Bedeutung als in Norddeutschland. In Köln dominieren Kölschmarken, in Düsseldorf Altbiermarken. Ein gutes Ranking sollte daher immer auch regionale Unterlisten anbieten.
 
-## So bewertet Bier-Durst.de Marken
+## So bewertet BierDurst.org Marken
 
 Solange keine eigene Nutzerabstimmung existiert, trennen wir klar zwischen:
 

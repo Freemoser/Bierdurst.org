@@ -1,8 +1,8 @@
 ---
 title: Biermengen-Rechner für Party und Feier
 slug: /bier-rechner/biermenge-party/
-canonical: https://bier-durst.de/bier-rechner/biermenge-party/
-meta_title: Biermengen-Rechner für Party und Feier | Bier-Durst.de
+canonical: https://bierdurst.org/bier-rechner/biermenge-party/
+meta_title: Biermengen-Rechner für Party und Feier | BierDurst.org
 meta_description: Berechne Liter, Flaschen und Kästen für eine Feier – nach Gästezahl, Biertrinkern, Dauer und Flaschengröße.
 category: Bierrechner
 language: de

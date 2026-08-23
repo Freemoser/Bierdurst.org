@@ -1,8 +1,8 @@
 ---
 title: Wie viele Kohlenhydrate hat Bier?
 slug: /bierwissen/kohlenhydrate-bier/
-canonical: https://bier-durst.de/bierwissen/kohlenhydrate-bier/
-meta_title: Wie viele Kohlenhydrate hat Bier? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/kohlenhydrate-bier/
+meta_title: Wie viele Kohlenhydrate hat Bier? | BierDurst.org
 meta_description: Kohlenhydrate in Bier unterscheiden sich stark. So liest und berechnest du den Wert für Flasche oder Glas.
 category: Bierwissen
 language: de

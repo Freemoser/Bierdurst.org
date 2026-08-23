@@ -3,9 +3,9 @@ import BaseLayout from '../../../layouts/BaseLayout.astro';
 import Breadcrumbs from '../../../components/Breadcrumbs.astro';
 import ExperienceHero from '../../../components/ExperienceHero.astro';
 import stats from '../../../../data/beer-market-statistics.json';
-const schemas = [{ '@context': 'https://schema.org', '@type': 'CollectionPage', name: 'Bierstatistik Deutschland', url: 'https://bier-durst.de/bierkompendium/statistik/', description: 'Zeitreihen und Quellen zu Bierabsatz, Braustätten, Beschäftigten, Biermarken und Biersorten in Deutschland.' }];
+const schemas = [{ '@context': 'https://schema.org', '@type': 'CollectionPage', name: 'Bierstatistik Deutschland', url: 'https://bierdurst.org/bierkompendium/statistik/', description: 'Zeitreihen und Quellen zu Bierabsatz, Braustätten, Beschäftigten, Biermarken und Biersorten in Deutschland.' }];
 ---
-<BaseLayout title="Bierstatistik Deutschland: Absatz, Brauereien & Marken" description="Aktuelle Bierstatistiken für Deutschland: Bierabsatz, Braustätten, Beschäftigte, Biermarken und Biersorten mit Zeitreihen, Methodik und Primärquellen." canonical="https://bier-durst.de/bierkompendium/statistik/" structuredData={schemas}>
+<BaseLayout title="Bierstatistik Deutschland: Absatz, Brauereien & Marken" description="Aktuelle Bierstatistiken für Deutschland: Bierabsatz, Braustätten, Beschäftigte, Biermarken und Biersorten mit Zeitreihen, Methodik und Primärquellen." canonical="https://bierdurst.org/bierkompendium/statistik/" robots="noindex, follow" structuredData={schemas}>
   <main id="inhalt">
     <div class="page-width"><Breadcrumbs items={[{ href: '/', label: 'Startseite' }, { href: '/bierkompendium/', label: 'Bierkompendium' }, { href: '/bierkompendium/statistik/', label: 'Statistik' }]} /></div>
     <ExperienceHero eyebrow="Daten · Zeitreihen · Primärquellen" title="Bierstatistik Deutschland" description="Wie entwickelt sich der deutsche Biermarkt? Hier findest du jede Kennzahl einzeln erklärt, mit vergleichbaren Jahreswerten und nachvollziehbaren Quellen." />

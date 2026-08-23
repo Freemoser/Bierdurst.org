@@ -1,8 +1,8 @@
 ---
 title: Bei welcher Temperatur gefriert Bier?
 slug: /bierwissen/gefriertemperatur-bier/
-canonical: https://bier-durst.de/bierwissen/gefriertemperatur-bier/
-meta_title: Bei welcher Temperatur gefriert Bier? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/gefriertemperatur-bier/
+meta_title: Bei welcher Temperatur gefriert Bier? | BierDurst.org
 meta_description: Normales Bier gefriert unter null Grad; der genaue Gefrierpunkt hängt vor allem vom Alkohol- und Extraktgehalt ab.
 category: Bierwissen
 language: de

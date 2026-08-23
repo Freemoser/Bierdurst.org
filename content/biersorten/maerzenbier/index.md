@@ -1,8 +1,8 @@
 ---
 title: Was ist Märzenbier?
 slug: /biersorten/maerzenbier/
-canonical: https://bier-durst.de/biersorten/maerzenbier/
-meta_title: Was ist Märzenbier? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/maerzenbier/
+meta_title: Was ist Märzenbier? | BierDurst.org
 meta_description: 'Märzenbier einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de

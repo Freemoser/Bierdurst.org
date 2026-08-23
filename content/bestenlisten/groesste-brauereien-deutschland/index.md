@@ -1,8 +1,8 @@
 ---
 title: Die größten Brauereien Deutschlands 2026
 slug: /bestenlisten/groesste-brauereien-deutschland/
-canonical: https://bier-durst.de/bestenlisten/groesste-brauereien-deutschland/
-meta_title: Die größten Brauereien Deutschlands 2026 | Bier-Durst.de
+canonical: https://bierdurst.org/bestenlisten/groesste-brauereien-deutschland/
+meta_title: Die größten Brauereien Deutschlands 2026 | BierDurst.org
 meta_description: 'Die größten deutschen Brauereigruppen nach Bierausstoß 2025: Radeberger, Paulaner, TCB, Oettinger, Krombacher und Bitburger.'
 category: Bestenlisten und Zahlen
 language: de

@@ -1,8 +1,8 @@
 ---
 title: Was ist Gose?
 slug: /biersorten/gose/
-canonical: https://bier-durst.de/biersorten/gose/
-meta_title: Was ist Gose? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/gose/
+meta_title: Was ist Gose? | BierDurst.org
 meta_description: 'Gose einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de

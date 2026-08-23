@@ -1,8 +1,8 @@
 ---
 title: Wie lange ist Bier haltbar?
 slug: /bierwissen/wie-lange-ist-bier-haltbar/
-canonical: https://bier-durst.de/bierwissen/wie-lange-ist-bier-haltbar/
-meta_title: Wie lange ist Bier haltbar? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/wie-lange-ist-bier-haltbar/
+meta_title: Wie lange ist Bier haltbar? | BierDurst.org
 meta_description: Wie lange Bier haltbar ist, was das Mindesthaltbarkeitsdatum bedeutet und welche Stile frisch oder gereift besser schmecken.
 category: Bierwissen
 language: de

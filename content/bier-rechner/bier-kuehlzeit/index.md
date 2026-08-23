@@ -1,8 +1,8 @@
 ---
 title: Bier-Kühlzeit-Rechner
 slug: /bier-rechner/bier-kuehlzeit/
-canonical: https://bier-durst.de/bier-rechner/bier-kuehlzeit/
-meta_title: Bier-Kühlzeit-Rechner | Bier-Durst.de
+canonical: https://bierdurst.org/bier-rechner/bier-kuehlzeit/
+meta_title: Bier-Kühlzeit-Rechner | BierDurst.org
 meta_description: Schätze die Kühlzeit für Flasche oder Dose nach Starttemperatur, Zieltemperatur und Kühlmethode.
 category: Bierrechner
 language: de

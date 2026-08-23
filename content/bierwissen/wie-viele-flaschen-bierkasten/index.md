@@ -1,8 +1,8 @@
 ---
 title: Wie viele Flaschen sind in einem Kasten Bier?
 slug: /bierwissen/wie-viele-flaschen-bierkasten/
-canonical: https://bier-durst.de/bierwissen/wie-viele-flaschen-bierkasten/
-meta_title: Wie viele Flaschen sind in einem Kasten Bier? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/wie-viele-flaschen-bierkasten/
+meta_title: Wie viele Flaschen sind in einem Kasten Bier? | BierDurst.org
 meta_description: Übliche Bierkästen mit 20, 24 oder anderen Flaschenzahlen – abhängig von Flaschengröße und Gebinde.
 category: Bierwissen
 language: de

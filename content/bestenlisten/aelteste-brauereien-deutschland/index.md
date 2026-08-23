@@ -1,8 +1,8 @@
 ---
 title: Die ältesten Brauereien Deutschlands
 slug: /bestenlisten/aelteste-brauereien-deutschland/
-canonical: https://bier-durst.de/bestenlisten/aelteste-brauereien-deutschland/
-meta_title: Die ältesten Brauereien Deutschlands | Bier-Durst.de
+canonical: https://bierdurst.org/bestenlisten/aelteste-brauereien-deutschland/
+meta_title: Die ältesten Brauereien Deutschlands | BierDurst.org
 meta_description: 'Weihenstephan, Weltenburg, Bolten und Augustiner: alte deutsche Brauereien, Gründungsdaten und warum der Vergleich schwierig ist.'
 category: Bestenlisten und Zahlen
 language: de

@@ -1,4 +1,4 @@
-# Content-Audit Bier-Durst.de
+# Content-Audit BierDurst.org
 
 Stand: 2026-08-03
 

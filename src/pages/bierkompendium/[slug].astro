@@ -7,11 +7,11 @@ export function getStaticPaths() {
   return beerStyles.map((beer) => ({ params: { slug: beer.slug }, props: { beer } }));
 }
 const { beer } = Astro.props;
-const canonical = `https://bier-durst.de/bierkompendium/${beer.slug}/`;
+const canonical = `https://bierdurst.org/bierkompendium/${beer.slug}/`;
 const midpoint = (range: number[]) => Math.round(((range[0] + range[1]) / 2) * 10) / 10;
-const schemas = [{ '@context': 'https://schema.org', '@type': 'DefinedTerm', name: beer.name, description: beer.description, inDefinedTermSet: 'https://bier-durst.de/bierkompendium/', url: canonical }];
+const schemas = [{ '@context': 'https://schema.org', '@type': 'DefinedTerm', name: beer.name, description: beer.description, inDefinedTermSet: 'https://bierdurst.org/bierkompendium/', url: canonical }];
 ---
-<BaseLayout title={`${beer.name}: Geschmack, Werte & Herkunft`} description={`${beer.name} im Bierkompendium: typische Werte für Alkohol, IBU, EBC und Stammwürze sowie Geschmack, Gärung, Herkunft und passende Speisen.`} canonical={canonical} structuredData={schemas}>
+<BaseLayout title={`${beer.name}: Geschmack, Werte & Herkunft`} description={`${beer.name} im Bierkompendium: typische Werte für Alkohol, IBU, EBC und Stammwürze sowie Geschmack, Gärung, Herkunft und passende Speisen.`} canonical={canonical} robots="noindex, follow" structuredData={schemas}>
   <main id="inhalt">
     <div class="page-width"><Breadcrumbs items={[{ href: '/', label: 'Startseite' }, { href: '/bierkompendium/', label: 'Bierkompendium' }, { href: `/bierkompendium/${beer.slug}/`, label: beer.name }]} /></div>
     <header class="beer-profile-hero">

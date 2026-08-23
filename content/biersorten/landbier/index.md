@@ -1,8 +1,8 @@
 ---
 title: Was ist Landbier?
 slug: /biersorten/landbier/
-canonical: https://bier-durst.de/biersorten/landbier/
-meta_title: Was ist Landbier? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/landbier/
+meta_title: Was ist Landbier? | BierDurst.org
 meta_description: 'Landbier einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de

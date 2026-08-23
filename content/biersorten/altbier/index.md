@@ -1,8 +1,8 @@
 ---
 title: Was ist Altbier?
 slug: /biersorten/altbier/
-canonical: https://bier-durst.de/biersorten/altbier/
-meta_title: Was ist Altbier? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/altbier/
+meta_title: Was ist Altbier? | BierDurst.org
 meta_description: 'Altbier einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de

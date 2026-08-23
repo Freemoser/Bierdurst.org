@@ -1,8 +1,8 @@
 ---
 title: Was sind Kellerbier und Zwickelbier?
 slug: /biersorten/kellerbier-zwickelbier/
-canonical: https://bier-durst.de/biersorten/kellerbier-zwickelbier/
-meta_title: Was sind Kellerbier und Zwickelbier? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/kellerbier-zwickelbier/
+meta_title: Was sind Kellerbier und Zwickelbier? | BierDurst.org
 meta_description: 'Kellerbier und Zwickelbier einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de

@@ -1,8 +1,8 @@
 ---
 title: 'Kölsch oder Pils: Was ist der Unterschied?'
 slug: /biervergleich/koelsch-oder-pils/
-canonical: https://bier-durst.de/biervergleich/koelsch-oder-pils/
-meta_title: 'Kölsch oder Pils: Was ist der Unterschied? | Bier-Durst.de'
+canonical: https://bierdurst.org/biervergleich/koelsch-oder-pils/
+meta_title: 'Kölsch oder Pils: Was ist der Unterschied? | BierDurst.org'
 meta_description: 'Kölsch oder Pils: Was ist der Unterschied? Geschmack, Alkohol, Gärung, Herkunft, Essen und eine einfache Entscheidungshilfe im direkten Vergleich.'
 category: Biervergleich
 language: de

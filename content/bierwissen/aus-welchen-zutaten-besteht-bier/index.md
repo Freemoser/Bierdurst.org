@@ -1,8 +1,8 @@
 ---
 title: Aus welchen Zutaten besteht Bier?
 slug: /bierwissen/aus-welchen-zutaten-besteht-bier/
-canonical: https://bier-durst.de/bierwissen/aus-welchen-zutaten-besteht-bier/
-meta_title: Aus welchen Zutaten besteht Bier? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/aus-welchen-zutaten-besteht-bier/
+meta_title: Aus welchen Zutaten besteht Bier? | BierDurst.org
 meta_description: 'Wasser, Malz, Hopfen und Hefe: Welche Aufgabe jede Zutat im Bier hat und wie sie Geschmack, Farbe und Alkohol beeinflusst.'
 category: Bierwissen
 language: de

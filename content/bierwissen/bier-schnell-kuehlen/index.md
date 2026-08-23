@@ -1,8 +1,8 @@
 ---
 title: 'Bier schnell kühlen: sichere Methoden'
 slug: /bierwissen/bier-schnell-kuehlen/
-canonical: https://bier-durst.de/bierwissen/bier-schnell-kuehlen/
-meta_title: 'Bier schnell kühlen: sichere Methoden | Bier-Durst.de'
+canonical: https://bierdurst.org/bierwissen/bier-schnell-kuehlen/
+meta_title: 'Bier schnell kühlen: sichere Methoden | BierDurst.org'
 meta_description: Bier schnell kalt bekommen mit Eiswasser, Salz und nassem Tuch – ohne geplatzte Flaschen.
 category: Bierwissen
 language: de

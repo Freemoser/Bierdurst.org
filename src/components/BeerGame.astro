@@ -2,7 +2,6 @@
 import beerStyles from '../../data/beer-styles.json';
 import beerBrands from '../../data/beer-brands.json';
 const { mode } = Astro.props as { mode: 'blind' | 'tier' | 'swipe' };
-const basePath = import.meta.env.GITHUB_PAGES_PREVIEW === 'true' ? '/Bier-durst.de' : '';
 const gameCards = beerBrands.map((brand) => {
   const style = beerStyles.find((item) => item.slug === brand.style)!;
   return { ...brand, styleName: style.name, family: style.family, fermentation: style.fermentation, ebc: style.ebc };
@@ -13,7 +12,7 @@ const gameCards = beerBrands.map((brand) => {
   <div data-game-stage aria-live="polite"></div>
 </div>
 
-<script is:inline define:vars={{ gameCards, mode, basePath }}>
+<script is:inline define:vars={{ gameCards, mode }}>
   const root = document.querySelector(`[data-beer-game="${mode}"]`);
   const stage = root.querySelector('[data-game-stage]');
   const progress = root.querySelector('[data-progress]');
@@ -44,7 +43,7 @@ const gameCards = beerBrands.map((brand) => {
     <div class="card-stats"><span><small>Sorte</small>${escapeHtml(beer.styleName)}</span><span><small>Ort</small>${escapeHtml(beer.city)}</span><span><small>${beer.founded ? 'Seit' : 'Gruppe'}</small>${beer.founded ? beer.founded : escapeHtml(beer.group)}</span></div>
     <a data-beer-profile="${beer.slug}">Im Kompendium ansehen</a>
   </article>`;
-  const hydrateProfileLinks = () => stage.querySelectorAll('[data-beer-profile]').forEach((link) => { link.href = basePath + '/bierkompendium/marken/' + link.dataset.beerProfile + '/'; });
+  const hydrateProfileLinks = () => stage.querySelectorAll('[data-beer-profile]').forEach((link) => { link.href = '/bierkompendium/marken/' + link.dataset.beerProfile + '/'; });
 
   let state;
   const save = () => localStorage.setItem(storageKey, JSON.stringify(state));

@@ -1,8 +1,8 @@
 ---
 title: Welches Bier gibt es in welchem Festzelt?
 slug: /oktoberfest/bier-in-welchem-festzelt/
-canonical: https://bier-durst.de/oktoberfest/bier-in-welchem-festzelt/
-meta_title: Welches Bier gibt es in welchem Festzelt? | Bier-Durst.de
+canonical: https://bierdurst.org/oktoberfest/bier-in-welchem-festzelt/
+meta_title: Welches Bier gibt es in welchem Festzelt? | BierDurst.org
 meta_description: Welches Bier gibt es in welchem Oktoberfestzelt? Tabelle aller 14 großen Festzelte und ihrer Münchner Brauereien.
 category: Oktoberfest
 language: de

@@ -1,8 +1,8 @@
 ---
 title: Wie schwer ist ein Kasten Bier?
 slug: /bierwissen/wie-schwer-ist-bierkasten/
-canonical: https://bier-durst.de/bierwissen/wie-schwer-ist-bierkasten/
-meta_title: Wie schwer ist ein Kasten Bier? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/wie-schwer-ist-bierkasten/
+meta_title: Wie schwer ist ein Kasten Bier? | BierDurst.org
 meta_description: 'Gewicht eines Bierkastens mit Inhalt: Rechenbeispiele für 20 × 0,5 Liter und 24 × 0,33 Liter.'
 category: Bierwissen
 language: de

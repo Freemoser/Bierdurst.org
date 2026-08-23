@@ -1,8 +1,8 @@
 ---
 title: Was ist Kristallweizen?
 slug: /biersorten/kristallweizen/
-canonical: https://bier-durst.de/biersorten/kristallweizen/
-meta_title: Was ist Kristallweizen? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/kristallweizen/
+meta_title: Was ist Kristallweizen? | BierDurst.org
 meta_description: 'Kristallweizen einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de

@@ -1,5 +1,5 @@
 {
-  "name": "bier-durst-de",
+  "name": "bierdurst-org",
   "version": "1.0.0",
   "private": true,
   "type": "module",
@@ -7,7 +7,6 @@
     "dev": "ASTRO_TELEMETRY_DISABLED=1 astro dev",
     "prebuild": "node scripts/generate-sitemap.mjs",
     "build": "ASTRO_TELEMETRY_DISABLED=1 astro build && node scripts/prepare-dist.mjs && node scripts/validate-build.mjs",
-    "build:pages": "GITHUB_PAGES_PREVIEW=true npm run build && node scripts/prepare-github-pages-preview.mjs",
     "preview": "ASTRO_TELEMETRY_DISABLED=1 astro preview",
     "check": "ASTRO_TELEMETRY_DISABLED=1 astro check && node scripts/test-calculators.mjs && node scripts/test-beer-data.mjs",
     "test": "node scripts/test-calculators.mjs && node scripts/test-beer-data.mjs"

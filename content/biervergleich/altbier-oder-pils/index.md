@@ -1,8 +1,8 @@
 ---
 title: 'Altbier oder Pils: Was ist der Unterschied?'
 slug: /biervergleich/altbier-oder-pils/
-canonical: https://bier-durst.de/biervergleich/altbier-oder-pils/
-meta_title: 'Altbier oder Pils: Was ist der Unterschied? | Bier-Durst.de'
+canonical: https://bierdurst.org/biervergleich/altbier-oder-pils/
+meta_title: 'Altbier oder Pils: Was ist der Unterschied? | BierDurst.org'
 meta_description: 'Altbier oder Pils: Was ist der Unterschied? Geschmack, Alkohol, Gärung, Herkunft, Essen und eine einfache Entscheidungshilfe im direkten Vergleich.'
 category: Biervergleich
 language: de

@@ -1,8 +1,8 @@
 ---
 title: Wie lange hält ein geöffnetes 5-Liter-Partyfass?
 slug: /bierwissen/partyfass-haltbarkeit/
-canonical: https://bier-durst.de/bierwissen/partyfass-haltbarkeit/
-meta_title: Wie lange hält ein geöffnetes 5-Liter-Partyfass? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/partyfass-haltbarkeit/
+meta_title: Wie lange hält ein geöffnetes 5-Liter-Partyfass? | BierDurst.org
 meta_description: Haltbarkeit eines geöffneten Partyfasses hängt von Zapfsystem, Sauerstoffkontakt und Kühlung ab.
 category: Bierwissen
 language: de

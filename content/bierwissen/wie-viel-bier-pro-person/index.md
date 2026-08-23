@@ -1,8 +1,8 @@
 ---
 title: Wie viel Bier pro Person für eine Feier?
 slug: /bierwissen/wie-viel-bier-pro-person/
-canonical: https://bier-durst.de/bierwissen/wie-viel-bier-pro-person/
-meta_title: Wie viel Bier pro Person für eine Feier? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/wie-viel-bier-pro-person/
+meta_title: Wie viel Bier pro Person für eine Feier? | BierDurst.org
 meta_description: Biermenge für Party, Grillabend oder Hochzeit realistisch planen – mit Sicherheitsreserve und alkoholfreien Alternativen.
 category: Bierwissen
 language: de

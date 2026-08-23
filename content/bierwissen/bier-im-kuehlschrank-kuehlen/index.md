@@ -1,8 +1,8 @@
 ---
 title: Wie lange braucht Bier im Kühlschrank zum Kühlen?
 slug: /bierwissen/bier-im-kuehlschrank-kuehlen/
-canonical: https://bier-durst.de/bierwissen/bier-im-kuehlschrank-kuehlen/
-meta_title: Wie lange braucht Bier im Kühlschrank zum Kühle… | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/bier-im-kuehlschrank-kuehlen/
+meta_title: Wie lange braucht Bier im Kühlschrank zum Kühle… | BierDurst.org
 meta_description: 'Kühlzeit für Bier im Kühlschrank: grobe Richtwerte und Faktoren wie Flaschengröße, Starttemperatur und Kühlschrank.'
 category: Bierwissen
 language: de

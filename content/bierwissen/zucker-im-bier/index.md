@@ -1,8 +1,8 @@
 ---
 title: Wie viel Zucker ist im Bier?
 slug: /bierwissen/zucker-im-bier/
-canonical: https://bier-durst.de/bierwissen/zucker-im-bier/
-meta_title: Wie viel Zucker ist im Bier? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/zucker-im-bier/
+meta_title: Wie viel Zucker ist im Bier? | BierDurst.org
 meta_description: Zucker im Bier ist produktabhängig. Nährwertangabe richtig lesen und von Gesamtkohlenhydraten unterscheiden.
 category: Bierwissen
 language: de

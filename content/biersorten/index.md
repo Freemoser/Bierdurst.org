@@ -1,8 +1,8 @@
 ---
 title: 'Biersorten in Deutschland: die große Übersicht'
 slug: /biersorten/
-canonical: https://bier-durst.de/biersorten/
-meta_title: 'Biersorten in Deutschland: die große Übersi… | Bier-Durst.de'
+canonical: https://bierdurst.org/biersorten/
+meta_title: 'Biersorten in Deutschland: die große Übersi… | BierDurst.org'
 meta_description: Alle wichtigen Biersorten Deutschlands mit Gärung, Geschmack, Alkoholgehalt, Regionen und passenden Detailartikeln.
 category: Biersorten
 language: de

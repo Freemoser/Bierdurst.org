@@ -1,8 +1,8 @@
 ---
 title: 'Bier einfrieren: Was passiert im Gefrierschrank?'
 slug: /bierwissen/bier-einfrieren/
-canonical: https://bier-durst.de/bierwissen/bier-einfrieren/
-meta_title: 'Bier einfrieren: Was passiert im Gefriersch… | Bier-Durst.de'
+canonical: https://bierdurst.org/bierwissen/bier-einfrieren/
+meta_title: 'Bier einfrieren: Was passiert im Gefriersch… | BierDurst.org'
 meta_description: Warum Bier im Gefrierschrank platzen kann, wie lange schnelles Kühlen dauern darf und was nach dem Einfrieren mit Geschmack passiert.
 category: Bierwissen
 language: de

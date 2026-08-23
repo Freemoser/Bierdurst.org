@@ -9,7 +9,7 @@ async function files(dir) {
 const allFiles = await files('dist');
 const htmlFiles = allFiles.filter((file) => file.endsWith('.html'));
 const sitemap = await readFile('dist/sitemap.xml', 'utf8');
-const sitemapPaths = new Set([...sitemap.matchAll(/<loc>https:\/\/bier-durst\.de([^<]*)<\/loc>/g)].map((match) => match[1] || '/'));
+const sitemapPaths = new Set([...sitemap.matchAll(/<loc>https:\/\/bierdurst\.org([^<]*)<\/loc>/g)].map((match) => match[1] || '/'));
 const expectedFiles = new Map([...sitemapPaths].map((path) => [path, path === '/' ? 'dist/index.html' : `dist${path}index.html`]));
 const errors = [];
 const incoming = new Map([...sitemapPaths].map((path) => [path, 0]));
@@ -24,13 +24,16 @@ for (const file of htmlFiles) {
   const html = await readFile(file, 'utf8');
   const rel = relative('dist', file).split(sep).join('/');
   const path = rel === 'index.html' ? '/' : rel === '404.html' ? '/404/' : `/${rel.replace(/index\.html$/, '')}`;
-  if (path !== '/404/' && !sitemapPaths.has(path)) errors.push(`HTML außerhalb der Launch-Sitemap: ${path}`);
+  const robots = html.match(/<meta name="robots" content="([^"]+)"/)?.[1] ?? '';
+  const isNoIndex = /\bnoindex\b/i.test(robots);
+  if (path !== '/404/' && !sitemapPaths.has(path) && !isNoIndex) errors.push(`Indexierbares HTML außerhalb der Launch-Sitemap: ${path}`);
+  if (sitemapPaths.has(path) && isNoIndex) errors.push(`Noindex-URL in der Launch-Sitemap: ${path}`);
   const title = html.match(/<title>([^<]+)<\/title>/)?.[1];
   const canonical = html.match(/<link rel="canonical" href="([^"]+)"/)?.[1];
   const descriptions = [...html.matchAll(/<meta name="description" content="([^"]+)"/g)];
   const h1s = [...html.matchAll(/<h1(?:\s|>)/g)];
   if (!title || descriptions.length !== 1 || !canonical || h1s.length !== 1) errors.push(`SEO-Grunddaten unvollständig in ${path}`);
-  if (path !== '/404/' && canonical !== `https://bier-durst.de${path}`) errors.push(`Falscher Canonical in ${path}: ${canonical}`);
+  if (path !== '/404/' && canonical !== `https://bierdurst.org${path}`) errors.push(`Falscher Canonical in ${path}: ${canonical}`);
   if (/lorem ipsum/i.test(html)) errors.push(`Lorem Ipsum in ${path}`);
   if (path !== '/404/') {
     if (titles.has(title)) errors.push(`Doppelter Titel: ${title}`); else titles.set(title, path);
@@ -43,9 +46,9 @@ for (const file of htmlFiles) {
     if (!target || target === '/') continue;
     if (target.includes('.')) {
       if (!allFiles.includes(`dist${target}`)) errors.push(`Fehlende Datei ${target} in ${path}`);
-    } else if (!sitemapPaths.has(target)) {
-      errors.push(`Interner Link außerhalb der Launch-Sitemap: ${path} → ${target}`);
-    } else if (target !== path) {
+    } else if (!htmlFiles.includes(target === '/' ? 'dist/index.html' : `dist${target}index.html`)) {
+      errors.push(`Interner Link ohne HTML-Ziel: ${path} → ${target}`);
+    } else if (sitemapPaths.has(target) && target !== path) {
       incoming.set(target, (incoming.get(target) ?? 0) + 1);
     }
   }

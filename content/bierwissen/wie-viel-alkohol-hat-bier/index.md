@@ -1,8 +1,8 @@
 ---
 title: Wie viel Alkohol hat Bier?
 slug: /bierwissen/wie-viel-alkohol-hat-bier/
-canonical: https://bier-durst.de/bierwissen/wie-viel-alkohol-hat-bier/
-meta_title: Wie viel Alkohol hat Bier? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/wie-viel-alkohol-hat-bier/
+meta_title: Wie viel Alkohol hat Bier? | BierDurst.org
 meta_description: Typischer Alkoholgehalt von Pils, Hellem, Weizen, Bock, Radler und alkoholfreiem Bier mit verständlicher Einordnung.
 category: Bierwissen
 language: de

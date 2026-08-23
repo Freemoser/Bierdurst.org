@@ -1,8 +1,8 @@
 ---
 title: 'Bockbier oder Doppelbock: der Unterschied'
 slug: /biervergleich/bockbier-oder-doppelbock/
-canonical: https://bier-durst.de/biervergleich/bockbier-oder-doppelbock/
-meta_title: 'Bockbier oder Doppelbock: der Unterschied | Bier-Durst.de'
+canonical: https://bierdurst.org/biervergleich/bockbier-oder-doppelbock/
+meta_title: 'Bockbier oder Doppelbock: der Unterschied | BierDurst.org'
 meta_description: 'Bockbier oder Doppelbock: der Unterschied Geschmack, Alkohol, Gärung, Herkunft, Essen und eine einfache Entscheidungshilfe im direkten Vergleich.'
 category: Biervergleich
 language: de

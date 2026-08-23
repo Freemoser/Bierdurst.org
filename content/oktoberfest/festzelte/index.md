@@ -1,8 +1,8 @@
 ---
 title: Alle großen und kleinen Oktoberfestzelte im Überblick
 slug: /oktoberfest/festzelte/
-canonical: https://bier-durst.de/oktoberfest/festzelte/
-meta_title: Alle großen und kleinen Oktoberfestzelte im… | Bier-Durst.de
+canonical: https://bierdurst.org/oktoberfest/festzelte/
+meta_title: Alle großen und kleinen Oktoberfestzelte im… | BierDurst.org
 meta_description: 'Alle Oktoberfestzelte im Überblick: 14 große Zelte, kleine Zelte, Schwerpunkte, Bier, Größe und Entscheidungshilfe.'
 category: Oktoberfest
 language: de

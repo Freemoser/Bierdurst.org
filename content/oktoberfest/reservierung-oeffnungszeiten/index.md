@@ -1,8 +1,8 @@
 ---
 title: 'Oktoberfest-Festzelt reservieren: Regeln und Öffnungszeiten 2026'
 slug: /oktoberfest/reservierung-oeffnungszeiten/
-canonical: https://bier-durst.de/oktoberfest/reservierung-oeffnungszeiten/
-meta_title: 'Oktoberfest-Festzelt reservieren: Regeln un… | Bier-Durst.de'
+canonical: https://bierdurst.org/oktoberfest/reservierung-oeffnungszeiten/
+meta_title: 'Oktoberfest-Festzelt reservieren: Regeln un… | BierDurst.org'
 meta_description: 'Festzelt auf dem Oktoberfest reservieren: offizielle Buchung, Gutscheine, Plätze ohne Reservierung und Öffnungszeiten 2026.'
 category: Oktoberfest
 language: de

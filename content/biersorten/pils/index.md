@@ -1,8 +1,8 @@
 ---
 title: Was ist Pils?
 slug: /biersorten/pils/
-canonical: https://bier-durst.de/biersorten/pils/
-meta_title: Was ist Pils? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/pils/
+meta_title: Was ist Pils? | BierDurst.org
 meta_description: 'Pils einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de

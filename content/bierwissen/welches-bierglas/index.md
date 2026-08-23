@@ -1,8 +1,8 @@
 ---
 title: Welches Bierglas gehört zu welchem Bier?
 slug: /bierwissen/welches-bierglas/
-canonical: https://bier-durst.de/bierwissen/welches-bierglas/
-meta_title: Welches Bierglas gehört zu welchem Bier? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/welches-bierglas/
+meta_title: Welches Bierglas gehört zu welchem Bier? | BierDurst.org
 meta_description: 'Biergläser im Überblick: Pilstulpe, Weizenglas, Kölschstange, Seidel, Pint und Kelch mit passenden Bierstilen.'
 category: Bierwissen
 language: de

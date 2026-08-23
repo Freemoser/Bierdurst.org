@@ -1,8 +1,8 @@
 ---
 title: 'Porter oder Stout: Was ist der Unterschied?'
 slug: /biervergleich/porter-oder-stout/
-canonical: https://bier-durst.de/biervergleich/porter-oder-stout/
-meta_title: 'Porter oder Stout: Was ist der Unterschied? | Bier-Durst.de'
+canonical: https://bierdurst.org/biervergleich/porter-oder-stout/
+meta_title: 'Porter oder Stout: Was ist der Unterschied? | BierDurst.org'
 meta_description: 'Porter oder Stout: Was ist der Unterschied? Geschmack, Alkohol, Gärung, Herkunft, Essen und eine einfache Entscheidungshilfe im direkten Vergleich.'
 category: Biervergleich
 language: de

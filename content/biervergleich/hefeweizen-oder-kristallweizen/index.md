@@ -1,8 +1,8 @@
 ---
 title: 'Hefeweizen oder Kristallweizen: der Unterschied'
 slug: /biervergleich/hefeweizen-oder-kristallweizen/
-canonical: https://bier-durst.de/biervergleich/hefeweizen-oder-kristallweizen/
-meta_title: 'Hefeweizen oder Kristallweizen: der Untersc… | Bier-Durst.de'
+canonical: https://bierdurst.org/biervergleich/hefeweizen-oder-kristallweizen/
+meta_title: 'Hefeweizen oder Kristallweizen: der Untersc… | BierDurst.org'
 meta_description: 'Hefeweizen oder Kristallweizen: der Unterschied Geschmack, Alkohol, Gärung, Herkunft, Essen und eine einfache Entscheidungshilfe im direkten Vergleich.'
 category: Biervergleich
 language: de

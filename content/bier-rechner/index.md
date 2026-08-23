@@ -7,7 +7,7 @@ cluster: bier-rechner
 publish_phase: 1
 priority: high
 index: true
-canonical: https://bier-durst.de/bier-rechner/
+canonical: https://bierdurst.org/bier-rechner/
 language: de
 last_updated: '2026-08-03'
 launch_status: publish

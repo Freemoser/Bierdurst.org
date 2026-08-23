@@ -1,13 +1,13 @@
 ---
 title: Quellen und Methodik
 slug: /quellen-methodik/
-meta_description: So recherchiert Bier-Durst.de Marktwerte, Bestenlisten, Oktoberfestdaten und praktische Angaben.
+meta_description: So recherchiert BierDurst.org Marktwerte, Bestenlisten, Oktoberfestdaten und praktische Angaben.
 page_type: static
 cluster: legal
 publish_phase: 1
 priority: medium
 index: true
-canonical: https://bier-durst.de/quellen-methodik/
+canonical: https://bierdurst.org/quellen-methodik/
 language: de
 last_updated: '2026-08-03'
 launch_status: publish

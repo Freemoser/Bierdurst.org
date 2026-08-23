@@ -1,8 +1,8 @@
 ---
 title: Alkoholmengen-Rechner für Bier
 slug: /bier-rechner/alkoholmenge/
-canonical: https://bier-durst.de/bier-rechner/alkoholmenge/
-meta_title: Alkoholmengen-Rechner für Bier | Bier-Durst.de
+canonical: https://bierdurst.org/bier-rechner/alkoholmenge/
+meta_title: Alkoholmengen-Rechner für Bier | BierDurst.org
 meta_description: Berechne die ungefähre Grammmenge reinen Alkohols aus Biermenge und Volumenprozent. Kein Promillerechner.
 category: Bierrechner
 language: de

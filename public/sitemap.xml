@@ -1,823 +1,307 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://bier-durst.de/</loc>
+    <loc>https://bierdurst.org/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/bestenlisten/</loc>
+    <loc>https://bierdurst.org/bestenlisten/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/bestenlisten/beliebteste-biersorten-deutschland/</loc>
+    <loc>https://bierdurst.org/bestenlisten/beliebteste-biersorten-deutschland/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/bestenlisten/was-kostet-bier-in-deutschland/</loc>
+    <loc>https://bierdurst.org/bestenlisten/was-kostet-bier-in-deutschland/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/bestenlisten/wie-viel-bier-wird-getrunken/</loc>
+    <loc>https://bierdurst.org/bestenlisten/wie-viel-bier-wird-getrunken/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/bier-rechner/</loc>
+    <loc>https://bierdurst.org/bier-rechner/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/bier-rechner/bier-kuehlzeit/</loc>
+    <loc>https://bierdurst.org/bier-rechner/bier-kuehlzeit/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/bier-rechner/biermenge-party/</loc>
+    <loc>https://bierdurst.org/bier-rechner/biermenge-party/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/bier-rechner/bierpreis-pro-liter/</loc>
+    <loc>https://bierdurst.org/bier-rechner/bierpreis-pro-liter/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/bier-rechner/fassbier/</loc>
+    <loc>https://bierdurst.org/bier-rechner/fassbier/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/bierkompendium/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/alkoholfreies-bier/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/altbier/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/berliner-weisse/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/bockbier/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/doppelbock/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/dortmunder-export/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/dunkelbier/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/dunkelweizen/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/eisbock/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/festbier/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/gose/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/helles/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/india-pale-ale/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/kellerbier/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/koelsch/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/kristallweizen/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/landbier/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/leichtbier/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/maerzen/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/maibock/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/allgaeuer-brauhaus/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/allgaeuer-bueble/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/altenmuenster/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/andechser/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/auerbraeu/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/augustiner/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/ayinger/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/bayreuther-hell/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/becks/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/benediktiner/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/berliner-kindl-weisse/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/berliner-kindl/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/berliner-pilsner/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/binding/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/bitburger/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/brinkhoffs/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/chiemseer/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/clausthaler/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/crew-republic/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/dab/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/diebels/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/dom-koelsch/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/dortmunder-kronen/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/erdinger/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/flensburger/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/frankenheim-alt/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/franziskaner/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/freiberger/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/frueh-koelsch/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/fuenf-null-original/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/fuerstenberg/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/gaffel-koelsch/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/gilden-koelsch/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/gruener-bier/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/haake-beck/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/hacker-pschorr/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/hasen-braeu/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/hasseroeder/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/henninger/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/herforder/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/hoepfner/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/hoevels/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/hofbraeu-muenchen/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/isenbeck/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/jever/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/koenig-ludwig-dunkel/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/koenig-ludwig-hell/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/koenig-ludwig-weissbier/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/koenig-pilsener/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/koenigsbacher/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/koestritzer/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/krombacher/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/kulmbacher/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/licher/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/loewenbraeu/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/maisels-weisse/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/nette-edel-pils/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/oberdorfer-helles/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/oettinger/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/paderborner/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/paulaner/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/peters-koelsch/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/radeberger-pilsner/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/reissdorf-koelsch/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/rostocker/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/rothaus/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/schlenkerla/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/schloesser-alt/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/schmucker/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/schneider-weisse/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/schoefferhofer/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/schultheiss/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/sion-koelsch/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/spaten/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/sternburg/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/stoertebeker/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/stuttgarter-hofbraeu/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/tucher/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/ur-krostitzer/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/veltins/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/warsteiner/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/weihenstephaner/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/weltenburger/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/wickueler/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/marken/zirndorfer/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/pale-ale/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/pils/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/porter/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/rauchbier/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/roggenbier/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/rotbier/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/schwarzbier/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/session-ipa/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/statistik/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/statistik/beschaeftigte-brauindustrie-deutschland/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/statistik/bierabsatz-deutschland/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/statistik/biermarken-deutschland/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/statistik/biersorten-deutschland/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/statistik/brauereien-deutschland/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/stout/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/weissbier/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/weizenbock/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/zoigl/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierkompendium/zwickelbier/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierregionen/</loc>
+    <loc>https://bierdurst.org/bierregionen/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/bierregionen/bier-in-bayern/</loc>
+    <loc>https://bierdurst.org/bierregionen/bier-in-bayern/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/bierregionen/bier-in-muenchen/</loc>
+    <loc>https://bierdurst.org/bierregionen/bier-in-muenchen/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/biersorten/</loc>
+    <loc>https://bierdurst.org/biersorten/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/biersorten/alkoholfreies-bier/</loc>
+    <loc>https://bierdurst.org/biersorten/alkoholfreies-bier/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/biersorten/altbier/</loc>
+    <loc>https://bierdurst.org/biersorten/altbier/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/biersorten/dunkelbier/</loc>
+    <loc>https://bierdurst.org/biersorten/dunkelbier/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/biersorten/festbier-oktoberfestbier/</loc>
+    <loc>https://bierdurst.org/biersorten/festbier-oktoberfestbier/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/biersorten/helles/</loc>
+    <loc>https://bierdurst.org/biersorten/helles/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/biersorten/kellerbier-zwickelbier/</loc>
+    <loc>https://bierdurst.org/biersorten/kellerbier-zwickelbier/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/biersorten/koelsch/</loc>
+    <loc>https://bierdurst.org/biersorten/koelsch/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/biersorten/lagerbier/</loc>
+    <loc>https://bierdurst.org/biersorten/lagerbier/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/biersorten/pils/</loc>
+    <loc>https://bierdurst.org/biersorten/pils/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/biersorten/schwarzbier/</loc>
+    <loc>https://bierdurst.org/biersorten/schwarzbier/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/biersorten/weizenbier/</loc>
+    <loc>https://bierdurst.org/biersorten/weizenbier/</loc>
     <lastmod>2026-08-03</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierspiele/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierspiele/blind-ranking/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierspiele/hit-oder-shit/</loc>
-    <lastmod>2026-08-04</lastmod>
-  </url>
-  <url>
-    <loc>https://bier-durst.de/bierspiele/tier-list/</loc>
-    <lastmod>2026-08-04</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/biervergleich/</loc>
+    <loc>https://bierdurst.org/biervergleich/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/biervergleich/alkoholfrei-oder-null-komma-null/</loc>
+    <loc>https://bierdurst.org/biervergleich/alkoholfrei-oder-null-komma-null/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/biervergleich/dunkelbier-oder-schwarzbier/</loc>
+    <loc>https://bierdurst.org/biervergleich/dunkelbier-oder-schwarzbier/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/biervergleich/koelsch-oder-altbier/</loc>
+    <loc>https://bierdurst.org/biervergleich/koelsch-oder-altbier/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/biervergleich/lager-oder-helles/</loc>
+    <loc>https://bierdurst.org/biervergleich/lager-oder-helles/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/biervergleich/pils-oder-helles/</loc>
+    <loc>https://bierdurst.org/biervergleich/pils-oder-helles/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/biervergleich/pils-oder-lager/</loc>
+    <loc>https://bierdurst.org/biervergleich/pils-oder-lager/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/biervergleich/radler-oder-alsterwasser/</loc>
+    <loc>https://bierdurst.org/biervergleich/radler-oder-alsterwasser/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/bierwissen/</loc>
+    <loc>https://bierdurst.org/bierwissen/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/bierwissen/abgelaufenes-bier-trinken/</loc>
+    <loc>https://bierdurst.org/bierwissen/abgelaufenes-bier-trinken/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/bierwissen/bier-einfrieren/</loc>
+    <loc>https://bierdurst.org/bierwissen/bier-einfrieren/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/bierwissen/bier-im-kuehlschrank-kuehlen/</loc>
+    <loc>https://bierdurst.org/bierwissen/bier-im-kuehlschrank-kuehlen/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/bierwissen/bier-kalorien-tabelle/</loc>
+    <loc>https://bierdurst.org/bierwissen/bier-kalorien-tabelle/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/bierwissen/bier-richtig-einschenken/</loc>
+    <loc>https://bierdurst.org/bierwissen/bier-richtig-einschenken/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/bierwissen/bier-richtig-lagern/</loc>
+    <loc>https://bierdurst.org/bierwissen/bier-richtig-lagern/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/bierwissen/deutsches-reinheitsgebot/</loc>
+    <loc>https://bierdurst.org/bierwissen/deutsches-reinheitsgebot/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/bierwissen/ebc-beim-bier/</loc>
+    <loc>https://bierdurst.org/bierwissen/ebc-beim-bier/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/bierwissen/ibu-beim-bier/</loc>
+    <loc>https://bierdurst.org/bierwissen/ibu-beim-bier/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/bierwissen/obergaerig-oder-untergaerig/</loc>
+    <loc>https://bierdurst.org/bierwissen/obergaerig-oder-untergaerig/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/bierwissen/optimale-trinktemperatur-bier/</loc>
+    <loc>https://bierdurst.org/bierwissen/optimale-trinktemperatur-bier/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/bierwissen/stammwuerze-beim-bier/</loc>
+    <loc>https://bierdurst.org/bierwissen/stammwuerze-beim-bier/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/bierwissen/was-ist-bier/</loc>
+    <loc>https://bierdurst.org/bierwissen/was-ist-bier/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/bierwissen/welches-bierglas/</loc>
+    <loc>https://bierdurst.org/bierwissen/welches-bierglas/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/bierwissen/wie-lange-ist-bier-haltbar/</loc>
+    <loc>https://bierdurst.org/bierwissen/wie-lange-ist-bier-haltbar/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/bierwissen/wie-schwer-ist-bierkasten/</loc>
+    <loc>https://bierdurst.org/bierwissen/wie-schwer-ist-bierkasten/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/bierwissen/wie-viel-alkohol-hat-bier/</loc>
+    <loc>https://bierdurst.org/bierwissen/wie-viel-alkohol-hat-bier/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/bierwissen/wie-viel-bier-pro-person/</loc>
+    <loc>https://bierdurst.org/bierwissen/wie-viel-bier-pro-person/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/bierwissen/wie-viele-biermarken-gibt-es/</loc>
+    <loc>https://bierdurst.org/bierwissen/wie-viele-biermarken-gibt-es/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/bierwissen/wie-viele-biersorten-gibt-es/</loc>
+    <loc>https://bierdurst.org/bierwissen/wie-viele-biersorten-gibt-es/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/bierwissen/wie-viele-brauereien-gibt-es/</loc>
+    <loc>https://bierdurst.org/bierwissen/wie-viele-brauereien-gibt-es/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/bierwissen/wie-viele-flaschen-bierkasten/</loc>
+    <loc>https://bierdurst.org/bierwissen/wie-viele-flaschen-bierkasten/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/bierwissen/wie-viele-glaeser-aus-bierfass/</loc>
+    <loc>https://bierdurst.org/bierwissen/wie-viele-glaeser-aus-bierfass/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/bierwissen/wie-viele-kalorien-hat-bier/</loc>
+    <loc>https://bierdurst.org/bierwissen/wie-viele-kalorien-hat-bier/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/bierwissen/wie-viele-liter-bierkasten/</loc>
+    <loc>https://bierdurst.org/bierwissen/wie-viele-liter-bierkasten/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/bierwissen/wie-wird-bier-gebraut/</loc>
+    <loc>https://bierdurst.org/bierwissen/wie-wird-bier-gebraut/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/datenschutz/</loc>
-    <lastmod>2026-08-04</lastmod>
+    <loc>https://bierdurst.org/datenschutz/</loc>
+    <lastmod>2026-08-23</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/impressum/</loc>
-    <lastmod>2026-08-04</lastmod>
+    <loc>https://bierdurst.org/impressum/</loc>
+    <lastmod>2026-08-23</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/kontakt/</loc>
-    <lastmod>2026-08-04</lastmod>
+    <loc>https://bierdurst.org/kontakt/</loc>
+    <lastmod>2026-08-23</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/oktoberfest/</loc>
+    <loc>https://bierdurst.org/oktoberfest/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/oktoberfest/bands-musik/</loc>
+    <loc>https://bierdurst.org/oktoberfest/bands-musik/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/oktoberfest/bier-in-welchem-festzelt/</loc>
+    <loc>https://bierdurst.org/oktoberfest/bier-in-welchem-festzelt/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/oktoberfest/bierpreise/</loc>
+    <loc>https://bierdurst.org/oktoberfest/bierpreise/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/oktoberfest/festzelte/</loc>
+    <loc>https://bierdurst.org/oktoberfest/festzelte/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/oktoberfest/karte-anreise/</loc>
+    <loc>https://bierdurst.org/oktoberfest/karte-anreise/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/oktoberfest/reservierung-oeffnungszeiten/</loc>
+    <loc>https://bierdurst.org/oktoberfest/reservierung-oeffnungszeiten/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/oktoberfest/sechs-oktoberfestbrauereien/</loc>
+    <loc>https://bierdurst.org/oktoberfest/sechs-oktoberfestbrauereien/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/oktoberfest/welches-bier-gibt-es/</loc>
+    <loc>https://bierdurst.org/oktoberfest/welches-bier-gibt-es/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/quellen-methodik/</loc>
+    <loc>https://bierdurst.org/quellen-methodik/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/redaktionsrichtlinien/</loc>
+    <loc>https://bierdurst.org/redaktionsrichtlinien/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/ueber-uns/</loc>
+    <loc>https://bierdurst.org/ueber-uns/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
   <url>
-    <loc>https://bier-durst.de/verantwortungsvoller-alkoholkonsum/</loc>
+    <loc>https://bierdurst.org/verantwortungsvoller-alkoholkonsum/</loc>
     <lastmod>2026-08-03</lastmod>
   </url>
 </urlset>

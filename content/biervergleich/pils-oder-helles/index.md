@@ -1,8 +1,8 @@
 ---
 title: 'Pils oder Helles: Was ist der Unterschied?'
 slug: /biervergleich/pils-oder-helles/
-canonical: https://bier-durst.de/biervergleich/pils-oder-helles/
-meta_title: 'Pils oder Helles: Was ist der Unterschied? | Bier-Durst.de'
+canonical: https://bierdurst.org/biervergleich/pils-oder-helles/
+meta_title: 'Pils oder Helles: Was ist der Unterschied? | BierDurst.org'
 meta_description: 'Pils oder Helles: Was ist der Unterschied? Geschmack, Alkohol, Gärung, Herkunft, Essen und eine einfache Entscheidungshilfe im direkten Vergleich.'
 category: Biervergleich
 language: de

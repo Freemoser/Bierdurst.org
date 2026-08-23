@@ -1,8 +1,8 @@
 ---
 title: "Sitemap"
 slug: "/sitemap/"
-canonical: "https://bier-durst.de/sitemap/"
-meta_description: "Alle Inhalte von Bier-Durst.de nach Themen sortiert."
+canonical: "https://bierdurst.org/sitemap/"
+meta_description: "Alle Inhalte von BierDurst.org nach Themen sortiert."
 page_type: "static"
 cluster: "legal"
 last_updated: "2026-08-03"
@@ -155,7 +155,7 @@ index: true
 
 ## Home
 
-- [Bier-Durst.de – alles über Bier in Deutschland](/)
+- [BierDurst.org – alles über Bier in Deutschland](/)
 
 ## Legal
 
@@ -165,7 +165,7 @@ index: true
 - [Quellen und Methodik](/quellen-methodik/)
 - [Redaktionsrichtlinien](/redaktionsrichtlinien/)
 - [Verantwortungsvoller Umgang mit Alkohol](/verantwortungsvoller-alkoholkonsum/)
-- [Über Bier-Durst.de](/ueber-uns/)
+- [Über BierDurst.org](/ueber-uns/)
 
 ## Oktoberfest
 

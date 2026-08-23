@@ -1,15 +1,15 @@
 ---
 title: Impressum
 slug: /impressum/
-meta_description: Impressum von Bier-Durst.de.
+meta_description: Impressum von BierDurst.org.
 page_type: legal
 cluster: legal
 publish_phase: 1
 priority: low
 index: true
-canonical: https://bier-durst.de/impressum/
+canonical: https://bierdurst.org/impressum/
 language: de
-last_updated: '2026-08-04'
+last_updated: '2026-08-23'
 launch_status: publish
 review_cycle: 12 months
 ---
@@ -25,7 +25,7 @@ Deutschland
 
 ## Kontakt
 
-**E-Mail: [Geschäftliche E-Mail-Adresse noch ergänzen]**
+**E-Mail: [91Serdar@gmail.com](mailto:91Serdar@gmail.com)**
 
 ## Redaktionell verantwortlich
 

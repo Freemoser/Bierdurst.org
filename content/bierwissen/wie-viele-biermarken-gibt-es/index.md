@@ -1,8 +1,8 @@
 ---
 title: Wie viele Biermarken gibt es in Deutschland?
 slug: /bierwissen/wie-viele-biermarken-gibt-es/
-canonical: https://bier-durst.de/bierwissen/wie-viele-biermarken-gibt-es/
-meta_title: Wie viele Biermarken gibt es in Deutschland? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/wie-viele-biermarken-gibt-es/
+meta_title: Wie viele Biermarken gibt es in Deutschland? | BierDurst.org
 meta_description: 'Mehr als 7.500 Biermarken in Deutschland: Was die Zahl bedeutet und warum Marken, Brauereien und Biersorten nicht dasselbe sind.'
 category: Bierwissen
 language: de

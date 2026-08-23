@@ -1,8 +1,8 @@
 ---
 title: 'Dunkelbier oder Schwarzbier: der Unterschied'
 slug: /biervergleich/dunkelbier-oder-schwarzbier/
-canonical: https://bier-durst.de/biervergleich/dunkelbier-oder-schwarzbier/
-meta_title: 'Dunkelbier oder Schwarzbier: der Unterschied | Bier-Durst.de'
+canonical: https://bierdurst.org/biervergleich/dunkelbier-oder-schwarzbier/
+meta_title: 'Dunkelbier oder Schwarzbier: der Unterschied | BierDurst.org'
 meta_description: 'Dunkelbier oder Schwarzbier: der Unterschied Geschmack, Alkohol, Gärung, Herkunft, Essen und eine einfache Entscheidungshilfe im direkten Vergleich.'
 category: Biervergleich
 language: de

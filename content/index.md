@@ -1,5 +1,5 @@
 ---
-title: Bier-Durst.de – alles über Bier in Deutschland
+title: BierDurst.org – alles über Bier in Deutschland
 slug: /
 meta_description: Biersorten, Vergleiche, Rechner, Bierwissen, Regionen und Oktoberfest-Informationen verständlich erklärt.
 page_type: home
@@ -7,7 +7,7 @@ cluster: home
 publish_phase: 1
 priority: high
 index: true
-canonical: https://bier-durst.de/
+canonical: https://bierdurst.org/
 language: de
 last_updated: '2026-08-03'
 launch_status: publish
@@ -16,7 +16,7 @@ review_cycle: 12 months
 
 # Alles über Bier in Deutschland
 
-Bier-Durst.de beantwortet verständlich und nachvollziehbar Fragen zu Biersorten, Unterschieden, Mengen, Lagerung, deutschen Bierregionen und dem Oktoberfest.
+BierDurst.org beantwortet verständlich und nachvollziehbar Fragen zu Biersorten, Unterschieden, Mengen, Lagerung, deutschen Bierregionen und dem Oktoberfest.
 
 ## Direkt einsteigen
 

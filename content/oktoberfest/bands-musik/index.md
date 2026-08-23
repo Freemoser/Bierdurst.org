@@ -1,8 +1,8 @@
 ---
 title: Welche Bands spielen auf dem Oktoberfest 2026?
 slug: /oktoberfest/bands-musik/
-canonical: https://bier-durst.de/oktoberfest/bands-musik/
-meta_title: Welche Bands spielen auf dem Oktoberfest 20… | Bier-Durst.de
+canonical: https://bierdurst.org/oktoberfest/bands-musik/
+meta_title: Welche Bands spielen auf dem Oktoberfest 20… | BierDurst.org
 meta_description: 'Bands und Musik auf dem Oktoberfest 2026: Festzeltkapellen, Musikzeiten, bekannte Bands und aktuelle Programmquellen.'
 category: Oktoberfest
 language: de
@@ -78,7 +78,7 @@ Für eine verlässliche Suche empfiehlt sich diese Reihenfolge:
 4. dort nach „Musik“, „Programm“ oder „Kapelle“ suchen
 5. am Veranstaltungstag nochmals auf kurzfristige Änderungen prüfen
 
-Bier-Durst.de kann daraus jährlich eine redaktionelle Übersicht erstellen. Sie sollte jedoch niemals alte Termine automatisch als aktuelle Auftritte ausgeben.
+BierDurst.org kann daraus jährlich eine redaktionelle Übersicht erstellen. Sie sollte jedoch niemals alte Termine automatisch als aktuelle Auftritte ausgeben.
 
 ## Welche Musik darf man erwarten?
 

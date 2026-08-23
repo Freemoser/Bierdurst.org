@@ -1,8 +1,8 @@
 ---
 title: Was ist das beste Bier Deutschlands?
 slug: /bestenlisten/bestes-bier-deutschland/
-canonical: https://bier-durst.de/bestenlisten/bestes-bier-deutschland/
-meta_title: Was ist das beste Bier Deutschlands? | Bier-Durst.de
+canonical: https://bierdurst.org/bestenlisten/bestes-bier-deutschland/
+meta_title: Was ist das beste Bier Deutschlands? | BierDurst.org
 meta_description: Das beste Bier Deutschlands gibt es nicht objektiv. So findest du deinen Favoriten nach Stil, Anlass, Frische und Geschmack.
 category: Bestenlisten und Zahlen
 language: de

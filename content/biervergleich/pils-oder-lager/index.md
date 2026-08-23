@@ -1,8 +1,8 @@
 ---
 title: 'Pils oder Lager: Was ist der Unterschied?'
 slug: /biervergleich/pils-oder-lager/
-canonical: https://bier-durst.de/biervergleich/pils-oder-lager/
-meta_title: 'Pils oder Lager: Was ist der Unterschied? | Bier-Durst.de'
+canonical: https://bierdurst.org/biervergleich/pils-oder-lager/
+meta_title: 'Pils oder Lager: Was ist der Unterschied? | BierDurst.org'
 meta_description: 'Pils oder Lager: Was ist der Unterschied? Geschmack, Alkohol, Gärung, Herkunft, Essen und eine einfache Entscheidungshilfe im direkten Vergleich.'
 category: Biervergleich
 language: de

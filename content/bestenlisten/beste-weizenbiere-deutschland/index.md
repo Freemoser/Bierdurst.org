@@ -1,8 +1,8 @@
 ---
 title: 'Die besten Weizenbiere Deutschlands: 10 bekannte Vertreter'
 slug: /bestenlisten/beste-weizenbiere-deutschland/
-canonical: https://bier-durst.de/bestenlisten/beste-weizenbiere-deutschland/
-meta_title: 'Die besten Weizenbiere Deutschlands: 10 bek… | Bier-Durst.de'
+canonical: https://bierdurst.org/bestenlisten/beste-weizenbiere-deutschland/
+meta_title: 'Die besten Weizenbiere Deutschlands: 10 bek… | BierDurst.org'
 meta_description: 'Zehn bekannte deutsche Weizenbiere als redaktionelle Orientierung: fruchtig, würzig, hell, dunkel und traditionell.'
 category: Bestenlisten und Zahlen
 language: de

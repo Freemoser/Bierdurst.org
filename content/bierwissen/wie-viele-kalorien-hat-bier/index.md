@@ -1,8 +1,8 @@
 ---
 title: Wie viele Kalorien hat Bier?
 slug: /bierwissen/wie-viele-kalorien-hat-bier/
-canonical: https://bier-durst.de/bierwissen/wie-viele-kalorien-hat-bier/
-meta_title: Wie viele Kalorien hat Bier? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/wie-viele-kalorien-hat-bier/
+meta_title: Wie viele Kalorien hat Bier? | BierDurst.org
 meta_description: Kalorien in Pils, Hellem, Weizen, Starkbier, Radler und alkoholfreiem Bier sowie die wichtigsten Einflussfaktoren.
 category: Bierwissen
 language: de

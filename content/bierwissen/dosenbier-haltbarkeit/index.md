@@ -1,8 +1,8 @@
 ---
 title: Wie lange ist Dosenbier haltbar?
 slug: /bierwissen/dosenbier-haltbarkeit/
-canonical: https://bier-durst.de/bierwissen/dosenbier-haltbarkeit/
-meta_title: Wie lange ist Dosenbier haltbar? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/dosenbier-haltbarkeit/
+meta_title: Wie lange ist Dosenbier haltbar? | BierDurst.org
 meta_description: Dosen schützen Bier vollständig vor Licht. Entscheidend bleiben Mindesthaltbarkeitsdatum, Temperatur und Zustand.
 category: Bierwissen
 language: de

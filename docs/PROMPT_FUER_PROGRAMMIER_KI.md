@@ -1,6 +1,6 @@
 # Master-Prompt für die Programmier-KI
 
-Du erhältst das Paket `bier-durst-handoff-v2`. Baue daraus eine produktionsreife, vollständig statische Website für `https://bier-durst.de`.
+Du erhältst das Paket `bierdurst-handoff-v2`. Baue daraus eine produktionsreife, vollständig statische Website für `https://bierdurst.org`.
 
 Lies zuerst vollständig:
 
@@ -13,7 +13,7 @@ Lies zuerst vollständig:
 
 ## Verbindliches Ziel
 
-Erstelle eine schnelle deutschsprachige Informationswebsite rund um Bier. Kein Login, keine Community, keine Datenbank, keine Kommentare und kein serverseitiges Backend. Hosting muss auf Cloudflare Pages funktionieren.
+Erstelle eine schnelle deutschsprachige Informationswebsite rund um Bier. Kein Login, keine Community, keine Datenbank, keine Kommentare und kein serverseitiges Backend. Hosting erfolgt über GitHub Pages; Cloudflare dient als Registrar und DNS-Anbieter.
 
 ## Technische Vorgabe
 
@@ -57,7 +57,7 @@ Liefere ein vollständiges Git-Repository mit:
 
 - lokal ausführbarem Development-Setup
 - erfolgreichem Production-Build
-- Cloudflare-Pages-Konfiguration
+- GitHub-Pages-Workflow und Custom-Domain-Konfiguration
 - README mit Start-, Build- und Deploymentbefehlen
 - Tests oder Prüfskript für interne Links, doppelte Canonicals und Sitemap-URLs
 - kurzer Liste aller noch manuell zu erledigenden Punkte, insbesondere Impressum, Datenschutz, AdSense-Publisher-ID und Search-Console-Verifizierung

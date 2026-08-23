@@ -1,8 +1,8 @@
 ---
 title: Was ist Bockbier?
 slug: /biersorten/bockbier/
-canonical: https://bier-durst.de/biersorten/bockbier/
-meta_title: Was ist Bockbier? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/bockbier/
+meta_title: Was ist Bockbier? | BierDurst.org
 meta_description: 'Bockbier einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de

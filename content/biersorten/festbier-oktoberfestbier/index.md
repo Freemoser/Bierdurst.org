@@ -1,8 +1,8 @@
 ---
 title: Was ist Festbier oder Oktoberfestbier?
 slug: /biersorten/festbier-oktoberfestbier/
-canonical: https://bier-durst.de/biersorten/festbier-oktoberfestbier/
-meta_title: Was ist Festbier oder Oktoberfestbier? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/festbier-oktoberfestbier/
+meta_title: Was ist Festbier oder Oktoberfestbier? | BierDurst.org
 meta_description: 'Festbier und Oktoberfestbier einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de

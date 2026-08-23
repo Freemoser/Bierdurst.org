@@ -1,8 +1,8 @@
 ---
 title: Die sechs Münchner Oktoberfestbrauereien
 slug: /oktoberfest/sechs-oktoberfestbrauereien/
-canonical: https://bier-durst.de/oktoberfest/sechs-oktoberfestbrauereien/
-meta_title: Die sechs Münchner Oktoberfestbrauereien | Bier-Durst.de
+canonical: https://bierdurst.org/oktoberfest/sechs-oktoberfestbrauereien/
+meta_title: Die sechs Münchner Oktoberfestbrauereien | BierDurst.org
 meta_description: 'Die sechs Oktoberfestbrauereien: Augustiner, Hacker-Pschorr, Hofbräu, Löwenbräu, Paulaner und Spaten im Überblick.'
 category: Oktoberfest
 language: de

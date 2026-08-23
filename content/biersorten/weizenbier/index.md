@@ -1,8 +1,8 @@
 ---
 title: Was ist Weizenbier oder Weißbier?
 slug: /biersorten/weizenbier/
-canonical: https://bier-durst.de/biersorten/weizenbier/
-meta_title: Was ist Weizenbier oder Weißbier? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/weizenbier/
+meta_title: Was ist Weizenbier oder Weißbier? | BierDurst.org
 meta_description: 'Weizenbier einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de

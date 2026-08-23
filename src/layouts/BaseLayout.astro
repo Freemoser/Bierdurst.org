@@ -5,11 +5,9 @@ import '../styles/global.css';
 
 interface Props { title: string; description: string; canonical: string; robots?: string; structuredData?: Record<string, unknown>[]; pageType?: string }
 const { title, description, canonical, robots = 'index, follow', structuredData = [], pageType = 'article' } = Astro.props as Props;
-const isGitHubPagesPreview = import.meta.env.GITHUB_PAGES_PREVIEW === 'true';
-const effectiveRobots = isGitHubPagesPreview ? 'noindex, nofollow, noarchive' : robots;
 const publisherId = import.meta.env.PUBLIC_ADSENSE_PUBLISHER_ID ?? '';
 const cmpUrl = import.meta.env.PUBLIC_CMP_SCRIPT_URL ?? '';
-const adsConfigured = !isGitHubPagesPreview && /^ca-pub-\d{16}$/.test(publisherId) && /^https:\/\//.test(cmpUrl);
+const adsConfigured = /^ca-pub-\d{16}$/.test(publisherId) && /^https:\/\//.test(cmpUrl);
 ---
 <!doctype html>
 <html lang="de">
@@ -19,33 +17,33 @@ const adsConfigured = !isGitHubPagesPreview && /^ca-pub-\d{16}$/.test(publisherI
     <meta name="generator" content={Astro.generator} />
     <title>{title}</title>
     <meta name="description" content={description} />
-    <meta name="robots" content={effectiveRobots} />
+    <meta name="robots" content={robots} />
     <meta name="referrer" content="strict-origin-when-cross-origin" />
-    {isGitHubPagesPreview && <meta http-equiv="Content-Security-Policy" content="default-src 'self'; base-uri 'none'; object-src 'none'; form-action 'self'; img-src 'self' data:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline'; connect-src 'self'; upgrade-insecure-requests" />}
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; base-uri 'none'; object-src 'none'; form-action 'self'; img-src 'self' data:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline'; connect-src 'self'; upgrade-insecure-requests" />
     <link rel="canonical" href={canonical} />
     <meta property="og:type" content={pageType === 'home' ? 'website' : 'article'} />
     <meta property="og:locale" content="de_DE" />
-    <meta property="og:site_name" content="Bier-Durst.de" />
+    <meta property="og:site_name" content="BierDurst.org" />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
     <meta property="og:url" content={canonical} />
-    <meta property="og:image" content="https://bier-durst.de/og.png" />
+    <meta property="og:image" content="https://bierdurst.org/og.png" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
-    <meta property="og:image:alt" content="Bier-Durst.de – Bierwissen, Vergleiche und Rechner" />
+    <meta property="og:image:alt" content="BierDurst.org – Bierwissen, Vergleiche und Rechner" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
-    <meta name="twitter:image" content="https://bier-durst.de/og.png" />
+    <meta name="twitter:image" content="https://bierdurst.org/og.png" />
     <meta name="theme-color" content="#f3a712" />
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
     {structuredData.map((schema) => <script is:inline type="application/ld+json" set:html={JSON.stringify(schema)} />)}
     {adsConfigured && <script is:inline define:vars={{ cmpUrl, publisherId }}>
       window.enableBierDurstAds = () => {
-        if (document.querySelector('script[data-bier-durst-ads]')) return;
+        if (document.querySelector('script[data-bierdurst-ads]')) return;
         const script = document.createElement('script');
         script.async = true;
-        script.dataset.bierDurstAds = 'true';
+        script.dataset.bierdurstAds = 'true';
         script.crossOrigin = 'anonymous';
         script.src = `https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${publisherId}`;
         document.head.append(script);

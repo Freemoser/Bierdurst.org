@@ -1,8 +1,8 @@
 ---
 title: Was bedeutet IBU beim Bier?
 slug: /bierwissen/ibu-beim-bier/
-canonical: https://bier-durst.de/bierwissen/ibu-beim-bier/
-meta_title: Was bedeutet IBU beim Bier? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/ibu-beim-bier/
+meta_title: Was bedeutet IBU beim Bier? | BierDurst.org
 meta_description: 'IBU beim Bier erklärt: Was Bittereinheiten messen, warum 40 IBU nicht immer gleich bitter schmecken und welche Stile hohe Werte haben.'
 category: Bierwissen
 language: de

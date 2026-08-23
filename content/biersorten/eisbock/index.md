@@ -1,8 +1,8 @@
 ---
 title: Was ist Eisbock?
 slug: /biersorten/eisbock/
-canonical: https://bier-durst.de/biersorten/eisbock/
-meta_title: Was ist Eisbock? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/eisbock/
+meta_title: Was ist Eisbock? | BierDurst.org
 meta_description: 'Eisbock einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de

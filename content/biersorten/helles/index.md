@@ -1,8 +1,8 @@
 ---
 title: Was ist Helles Bier?
 slug: /biersorten/helles/
-canonical: https://bier-durst.de/biersorten/helles/
-meta_title: Was ist Helles Bier? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/helles/
+meta_title: Was ist Helles Bier? | BierDurst.org
 meta_description: 'Helles einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de

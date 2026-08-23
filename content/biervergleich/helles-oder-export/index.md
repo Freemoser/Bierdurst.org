@@ -1,8 +1,8 @@
 ---
 title: 'Helles oder Export: Was ist der Unterschied?'
 slug: /biervergleich/helles-oder-export/
-canonical: https://bier-durst.de/biervergleich/helles-oder-export/
-meta_title: 'Helles oder Export: Was ist der Unterschied? | Bier-Durst.de'
+canonical: https://bierdurst.org/biervergleich/helles-oder-export/
+meta_title: 'Helles oder Export: Was ist der Unterschied? | BierDurst.org'
 meta_description: 'Helles oder Export: Was ist der Unterschied? Geschmack, Alkohol, Gärung, Herkunft, Essen und eine einfache Entscheidungshilfe im direkten Vergleich.'
 category: Biervergleich
 language: de

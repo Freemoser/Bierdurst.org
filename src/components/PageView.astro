@@ -27,18 +27,18 @@ const breadcrumbItems = [{ href: '/', label: 'Startseite' }];
 if (parts.length > 1) breadcrumbItems.push({ href: `/${parts[0]}/`, label: labels[parts[0]] ?? parts[0] });
 if (entry.data.slug !== '/') breadcrumbItems.push({ href: entry.data.slug, label: entry.data.title });
 
-const title = entry.data.meta_title ?? (entry.data.slug === '/' ? entry.data.title : `${entry.data.title} | Bier-Durst.de`);
+const title = entry.data.meta_title ?? (entry.data.slug === '/' ? entry.data.title : `${entry.data.title} | BierDurst.org`);
 const updated = entry.data.last_updated.toISOString().slice(0, 10);
 const articleTypes = new Set(['article', 'comparison', 'tool', 'pillar']);
 const schemas = [];
 if (entry.data.slug === '/') {
-  schemas.push({ '@context': 'https://schema.org', '@type': 'WebSite', name: 'Bier-Durst.de', url: 'https://bier-durst.de/', inLanguage: 'de-DE', description: entry.data.meta_description, publisher: { '@type': 'Organization', name: 'Bier-Durst.de', url: 'https://bier-durst.de/' } });
+  schemas.push({ '@context': 'https://schema.org', '@type': 'WebSite', name: 'BierDurst.org', url: 'https://bierdurst.org/', inLanguage: 'de-DE', description: entry.data.meta_description, publisher: { '@type': 'Organization', name: 'BierDurst.org', url: 'https://bierdurst.org/' } });
 }
 if (articleTypes.has(entry.data.page_type)) {
-  schemas.push({ '@context': 'https://schema.org', '@type': 'Article', headline: entry.data.title, description: entry.data.meta_description, dateModified: updated, inLanguage: 'de-DE', mainEntityOfPage: entry.data.canonical, publisher: { '@type': 'Organization', name: 'Bier-Durst.de', url: 'https://bier-durst.de/' } });
+  schemas.push({ '@context': 'https://schema.org', '@type': 'Article', headline: entry.data.title, description: entry.data.meta_description, dateModified: updated, inLanguage: 'de-DE', mainEntityOfPage: entry.data.canonical, publisher: { '@type': 'Organization', name: 'BierDurst.org', url: 'https://bierdurst.org/' } });
 }
 if (breadcrumbItems.length > 1) {
-  schemas.push({ '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: breadcrumbItems.map((item, index) => ({ '@type': 'ListItem', position: index + 1, name: item.label, item: new URL(item.href, 'https://bier-durst.de').href })) });
+  schemas.push({ '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: breadcrumbItems.map((item, index) => ({ '@type': 'ListItem', position: index + 1, name: item.label, item: new URL(item.href, 'https://bierdurst.org').href })) });
 }
 const pageHeadings = headings.filter((heading) => heading.depth === 2 || heading.depth === 3);
 const isHome = entry.data.slug === '/';

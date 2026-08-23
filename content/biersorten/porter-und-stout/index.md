@@ -1,8 +1,8 @@
 ---
 title: Was sind Porter und Stout?
 slug: /biersorten/porter-und-stout/
-canonical: https://bier-durst.de/biersorten/porter-und-stout/
-meta_title: Was sind Porter und Stout? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/porter-und-stout/
+meta_title: Was sind Porter und Stout? | BierDurst.org
 meta_description: 'Porter und Stout einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de

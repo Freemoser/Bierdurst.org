@@ -1,4 +1,4 @@
-# Bier-Durst.de – Content-Paket v2
+# BierDurst.org – Content-Paket v2
 
 **Stand:** 2026-08-03
 **Artikel:** 127
@@ -9,8 +9,8 @@ Dieses Dokument ist eine Lesefassung. Für die Programmierung sind die einzelnen
 ---
 title: 'Biersorten in Deutschland: die große Übersicht'
 slug: /biersorten/
-canonical: https://bier-durst.de/biersorten/
-meta_title: 'Biersorten in Deutschland: die große Übersi… | Bier-Durst.de'
+canonical: https://bierdurst.org/biersorten/
+meta_title: 'Biersorten in Deutschland: die große Übersi… | BierDurst.org'
 meta_description: Alle wichtigen Biersorten Deutschlands mit Gärung, Geschmack, Alkoholgehalt, Regionen und passenden Detailartikeln.
 category: Biersorten
 language: de
@@ -134,8 +134,8 @@ Nein. Die Farbe entsteht hauptsächlich durch die verwendeten Malze. Ein Schwarz
 ---
 title: Was ist Pils?
 slug: /biersorten/pils/
-canonical: https://bier-durst.de/biersorten/pils/
-meta_title: Was ist Pils? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/pils/
+meta_title: Was ist Pils? | BierDurst.org
 meta_description: 'Pils einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de
@@ -245,8 +245,8 @@ Als typische Wahl eignet sich **schlanke Pilstulpe**. Wichtiger als die perfekte
 ---
 title: Was ist Helles Bier?
 slug: /biersorten/helles/
-canonical: https://bier-durst.de/biersorten/helles/
-meta_title: Was ist Helles Bier? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/helles/
+meta_title: Was ist Helles Bier? | BierDurst.org
 meta_description: 'Helles einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de
@@ -357,8 +357,8 @@ Als typische Wahl eignet sich **Willi-Becher, Seidel oder schlanker Bierkrug**. 
 ---
 title: Was ist Lagerbier?
 slug: /biersorten/lagerbier/
-canonical: https://bier-durst.de/biersorten/lagerbier/
-meta_title: Was ist Lagerbier? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/lagerbier/
+meta_title: Was ist Lagerbier? | BierDurst.org
 meta_description: 'Lagerbier einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de
@@ -468,8 +468,8 @@ Als typische Wahl eignet sich **vom Willi-Becher bis zur Pilstulpe, abhängig vo
 ---
 title: Was ist Exportbier?
 slug: /biersorten/exportbier/
-canonical: https://bier-durst.de/biersorten/exportbier/
-meta_title: Was ist Exportbier? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/exportbier/
+meta_title: Was ist Exportbier? | BierDurst.org
 meta_description: 'Exportbier einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de
@@ -581,8 +581,8 @@ Als typische Wahl eignet sich **Willi-Becher oder Seidel**. Wichtiger als die pe
 ---
 title: Was ist Weizenbier oder Weißbier?
 slug: /biersorten/weizenbier/
-canonical: https://bier-durst.de/biersorten/weizenbier/
-meta_title: Was ist Weizenbier oder Weißbier? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/weizenbier/
+meta_title: Was ist Weizenbier oder Weißbier? | BierDurst.org
 meta_description: 'Weizenbier einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de
@@ -693,8 +693,8 @@ Als typische Wahl eignet sich **hohes, geschwungenes Weizenbierglas**. Wichtiger
 ---
 title: Was ist Hefeweizen?
 slug: /biersorten/hefeweizen/
-canonical: https://bier-durst.de/biersorten/hefeweizen/
-meta_title: Was ist Hefeweizen? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/hefeweizen/
+meta_title: Was ist Hefeweizen? | BierDurst.org
 meta_description: 'Hefeweizen einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de
@@ -805,8 +805,8 @@ Als typische Wahl eignet sich **hohes Weizenbierglas**. Wichtiger als die perfek
 ---
 title: Was ist Kristallweizen?
 slug: /biersorten/kristallweizen/
-canonical: https://bier-durst.de/biersorten/kristallweizen/
-meta_title: Was ist Kristallweizen? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/kristallweizen/
+meta_title: Was ist Kristallweizen? | BierDurst.org
 meta_description: 'Kristallweizen einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de
@@ -917,8 +917,8 @@ Als typische Wahl eignet sich **hohes Weizenbierglas**. Wichtiger als die perfek
 ---
 title: Was ist dunkles Weizenbier?
 slug: /biersorten/dunkles-weizenbier/
-canonical: https://bier-durst.de/biersorten/dunkles-weizenbier/
-meta_title: Was ist dunkles Weizenbier? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/dunkles-weizenbier/
+meta_title: Was ist dunkles Weizenbier? | BierDurst.org
 meta_description: 'Dunkles Weizenbier einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de
@@ -1030,8 +1030,8 @@ Als typische Wahl eignet sich **hohes Weizenbierglas**. Wichtiger als die perfek
 ---
 title: Was ist Kölsch?
 slug: /biersorten/koelsch/
-canonical: https://bier-durst.de/biersorten/koelsch/
-meta_title: Was ist Kölsch? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/koelsch/
+meta_title: Was ist Kölsch? | BierDurst.org
 meta_description: 'Kölsch einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de
@@ -1143,8 +1143,8 @@ Als typische Wahl eignet sich **schmale 0,2-Liter-Kölschstange**. Wichtiger als
 ---
 title: Was ist Altbier?
 slug: /biersorten/altbier/
-canonical: https://bier-durst.de/biersorten/altbier/
-meta_title: Was ist Altbier? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/altbier/
+meta_title: Was ist Altbier? | BierDurst.org
 meta_description: 'Altbier einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de
@@ -1256,8 +1256,8 @@ Als typische Wahl eignet sich **zylindrisches Altbierglas, häufig 0,2 oder 0,25
 ---
 title: Was ist Schwarzbier?
 slug: /biersorten/schwarzbier/
-canonical: https://bier-durst.de/biersorten/schwarzbier/
-meta_title: Was ist Schwarzbier? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/schwarzbier/
+meta_title: Was ist Schwarzbier? | BierDurst.org
 meta_description: 'Schwarzbier einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de
@@ -1369,8 +1369,8 @@ Als typische Wahl eignet sich **Kelch, Pokal oder Willi-Becher**. Wichtiger als 
 ---
 title: Was ist Dunkelbier?
 slug: /biersorten/dunkelbier/
-canonical: https://bier-durst.de/biersorten/dunkelbier/
-meta_title: Was ist Dunkelbier? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/dunkelbier/
+meta_title: Was ist Dunkelbier? | BierDurst.org
 meta_description: 'Dunkelbier einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de
@@ -1482,8 +1482,8 @@ Als typische Wahl eignet sich **Seidel, Krug oder Willi-Becher**. Wichtiger als 
 ---
 title: Was sind Kellerbier und Zwickelbier?
 slug: /biersorten/kellerbier-zwickelbier/
-canonical: https://bier-durst.de/biersorten/kellerbier-zwickelbier/
-meta_title: Was sind Kellerbier und Zwickelbier? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/kellerbier-zwickelbier/
+meta_title: Was sind Kellerbier und Zwickelbier? | BierDurst.org
 meta_description: 'Kellerbier und Zwickelbier einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de
@@ -1595,8 +1595,8 @@ Als typische Wahl eignet sich **Seidel oder Willi-Becher**. Wichtiger als die pe
 ---
 title: Was ist Märzenbier?
 slug: /biersorten/maerzenbier/
-canonical: https://bier-durst.de/biersorten/maerzenbier/
-meta_title: Was ist Märzenbier? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/maerzenbier/
+meta_title: Was ist Märzenbier? | BierDurst.org
 meta_description: 'Märzenbier einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de
@@ -1707,8 +1707,8 @@ Als typische Wahl eignet sich **Maßkrug, Seidel oder Willi-Becher**. Wichtiger 
 ---
 title: Was ist Festbier oder Oktoberfestbier?
 slug: /biersorten/festbier-oktoberfestbier/
-canonical: https://bier-durst.de/biersorten/festbier-oktoberfestbier/
-meta_title: Was ist Festbier oder Oktoberfestbier? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/festbier-oktoberfestbier/
+meta_title: Was ist Festbier oder Oktoberfestbier? | BierDurst.org
 meta_description: 'Festbier und Oktoberfestbier einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de
@@ -1821,8 +1821,8 @@ Als typische Wahl eignet sich **Maßkrug oder Seidel**. Wichtiger als die perfek
 ---
 title: Was ist Bockbier?
 slug: /biersorten/bockbier/
-canonical: https://bier-durst.de/biersorten/bockbier/
-meta_title: Was ist Bockbier? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/bockbier/
+meta_title: Was ist Bockbier? | BierDurst.org
 meta_description: 'Bockbier einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de
@@ -1933,8 +1933,8 @@ Als typische Wahl eignet sich **Bockbierpokal oder kleiner Kelch**. Wichtiger al
 ---
 title: Was ist Doppelbock?
 slug: /biersorten/doppelbock/
-canonical: https://bier-durst.de/biersorten/doppelbock/
-meta_title: Was ist Doppelbock? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/doppelbock/
+meta_title: Was ist Doppelbock? | BierDurst.org
 meta_description: 'Doppelbock einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de
@@ -2045,8 +2045,8 @@ Als typische Wahl eignet sich **kleiner Kelch oder Bockbierpokal**. Wichtiger al
 ---
 title: Was ist Weizenbock?
 slug: /biersorten/weizenbock/
-canonical: https://bier-durst.de/biersorten/weizenbock/
-meta_title: Was ist Weizenbock? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/weizenbock/
+meta_title: Was ist Weizenbock? | BierDurst.org
 meta_description: 'Weizenbock einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de
@@ -2158,8 +2158,8 @@ Als typische Wahl eignet sich **Weizenbockglas oder kleiner Weizenpokal**. Wicht
 ---
 title: Was ist Eisbock?
 slug: /biersorten/eisbock/
-canonical: https://bier-durst.de/biersorten/eisbock/
-meta_title: Was ist Eisbock? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/eisbock/
+meta_title: Was ist Eisbock? | BierDurst.org
 meta_description: 'Eisbock einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de
@@ -2271,8 +2271,8 @@ Als typische Wahl eignet sich **kleines Degustationsglas oder Kelch**. Wichtiger
 ---
 title: Was ist Berliner Weisse?
 slug: /biersorten/berliner-weisse/
-canonical: https://bier-durst.de/biersorten/berliner-weisse/
-meta_title: Was ist Berliner Weisse? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/berliner-weisse/
+meta_title: Was ist Berliner Weisse? | BierDurst.org
 meta_description: 'Berliner Weisse einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de
@@ -2383,8 +2383,8 @@ Als typische Wahl eignet sich **breites Berliner-Weisse-Glas oder Kelch**. Wicht
 ---
 title: Was ist Gose?
 slug: /biersorten/gose/
-canonical: https://bier-durst.de/biersorten/gose/
-meta_title: Was ist Gose? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/gose/
+meta_title: Was ist Gose? | BierDurst.org
 meta_description: 'Gose einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de
@@ -2495,8 +2495,8 @@ Als typische Wahl eignet sich **Kelch oder schlankes Degustationsglas**. Wichtig
 ---
 title: Was ist Rauchbier?
 slug: /biersorten/rauchbier/
-canonical: https://bier-durst.de/biersorten/rauchbier/
-meta_title: Was ist Rauchbier? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/rauchbier/
+meta_title: Was ist Rauchbier? | BierDurst.org
 meta_description: 'Rauchbier einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de
@@ -2608,8 +2608,8 @@ Als typische Wahl eignet sich **Seidel, Willi-Becher oder Krug**. Wichtiger als 
 ---
 title: Was ist Zoiglbier?
 slug: /biersorten/zoiglbier/
-canonical: https://bier-durst.de/biersorten/zoiglbier/
-meta_title: Was ist Zoiglbier? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/zoiglbier/
+meta_title: Was ist Zoiglbier? | BierDurst.org
 meta_description: 'Zoiglbier einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de
@@ -2721,8 +2721,8 @@ Als typische Wahl eignet sich **Seidel oder Krug**. Wichtiger als die perfekte G
 ---
 title: Was ist Roggenbier?
 slug: /biersorten/roggenbier/
-canonical: https://bier-durst.de/biersorten/roggenbier/
-meta_title: Was ist Roggenbier? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/roggenbier/
+meta_title: Was ist Roggenbier? | BierDurst.org
 meta_description: 'Roggenbier einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de
@@ -2834,8 +2834,8 @@ Als typische Wahl eignet sich **Weizenbierglas oder Kelch**. Wichtiger als die p
 ---
 title: Was ist Landbier?
 slug: /biersorten/landbier/
-canonical: https://bier-durst.de/biersorten/landbier/
-meta_title: Was ist Landbier? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/landbier/
+meta_title: Was ist Landbier? | BierDurst.org
 meta_description: 'Landbier einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de
@@ -2947,8 +2947,8 @@ Als typische Wahl eignet sich **Seidel, Krug oder Willi-Becher**. Wichtiger als 
 ---
 title: Was ist alkoholfreies Bier?
 slug: /biersorten/alkoholfreies-bier/
-canonical: https://bier-durst.de/biersorten/alkoholfreies-bier/
-meta_title: Was ist alkoholfreies Bier? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/alkoholfreies-bier/
+meta_title: Was ist alkoholfreies Bier? | BierDurst.org
 meta_description: 'Alkoholfreies Bier einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de
@@ -3062,8 +3062,8 @@ Als typische Wahl eignet sich **passend zum Ausgangsstil**. Wichtiger als die pe
 ---
 title: Was sind Radler und Biermischgetränke?
 slug: /biersorten/radler-biermischgetraenke/
-canonical: https://bier-durst.de/biersorten/radler-biermischgetraenke/
-meta_title: Was sind Radler und Biermischgetränke? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/radler-biermischgetraenke/
+meta_title: Was sind Radler und Biermischgetränke? | BierDurst.org
 meta_description: 'Radler und Biermischgetränke einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de
@@ -3175,8 +3175,8 @@ Als typische Wahl eignet sich **Willi-Becher, Seidel oder Flasche**. Wichtiger a
 ---
 title: Was sind IPA und Pale Ale?
 slug: /biersorten/ipa-und-pale-ale/
-canonical: https://bier-durst.de/biersorten/ipa-und-pale-ale/
-meta_title: Was sind IPA und Pale Ale? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/ipa-und-pale-ale/
+meta_title: Was sind IPA und Pale Ale? | BierDurst.org
 meta_description: 'IPA und Pale Ale einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de
@@ -3287,8 +3287,8 @@ Als typische Wahl eignet sich **IPA-Glas, Teku oder kleiner Pokal**. Wichtiger a
 ---
 title: Was sind Porter und Stout?
 slug: /biersorten/porter-und-stout/
-canonical: https://bier-durst.de/biersorten/porter-und-stout/
-meta_title: Was sind Porter und Stout? | Bier-Durst.de
+canonical: https://bierdurst.org/biersorten/porter-und-stout/
+meta_title: Was sind Porter und Stout? | BierDurst.org
 meta_description: 'Porter und Stout einfach erklärt: Geschmack, Gärung, Alkoholgehalt, Herkunft, Trinktemperatur, passende Speisen und Unterschiede.'
 category: Biersorten
 language: de
@@ -3399,8 +3399,8 @@ Als typische Wahl eignet sich **Pintglas, Kelch oder Teku**. Wichtiger als die p
 ---
 title: 'Pils oder Helles: Was ist der Unterschied?'
 slug: /biervergleich/pils-oder-helles/
-canonical: https://bier-durst.de/biervergleich/pils-oder-helles/
-meta_title: 'Pils oder Helles: Was ist der Unterschied? | Bier-Durst.de'
+canonical: https://bierdurst.org/biervergleich/pils-oder-helles/
+meta_title: 'Pils oder Helles: Was ist der Unterschied? | BierDurst.org'
 meta_description: 'Pils oder Helles: Was ist der Unterschied? Geschmack, Alkohol, Gärung, Herkunft, Essen und eine einfache Entscheidungshilfe im direkten Vergleich.'
 category: Biervergleich
 language: de
@@ -3496,8 +3496,8 @@ Ja. Für den Alltag reicht ein sauberer Willi-Becher. Stiltypische Gläser könn
 ---
 title: 'Helles oder Export: Was ist der Unterschied?'
 slug: /biervergleich/helles-oder-export/
-canonical: https://bier-durst.de/biervergleich/helles-oder-export/
-meta_title: 'Helles oder Export: Was ist der Unterschied? | Bier-Durst.de'
+canonical: https://bierdurst.org/biervergleich/helles-oder-export/
+meta_title: 'Helles oder Export: Was ist der Unterschied? | BierDurst.org'
 meta_description: 'Helles oder Export: Was ist der Unterschied? Geschmack, Alkohol, Gärung, Herkunft, Essen und eine einfache Entscheidungshilfe im direkten Vergleich.'
 category: Biervergleich
 language: de
@@ -3594,8 +3594,8 @@ Ja. Für den Alltag reicht ein sauberer Willi-Becher. Stiltypische Gläser könn
 ---
 title: 'Pils oder Export: Was ist der Unterschied?'
 slug: /biervergleich/pils-oder-export/
-canonical: https://bier-durst.de/biervergleich/pils-oder-export/
-meta_title: 'Pils oder Export: Was ist der Unterschied? | Bier-Durst.de'
+canonical: https://bierdurst.org/biervergleich/pils-oder-export/
+meta_title: 'Pils oder Export: Was ist der Unterschied? | BierDurst.org'
 meta_description: 'Pils oder Export: Was ist der Unterschied? Geschmack, Alkohol, Gärung, Herkunft, Essen und eine einfache Entscheidungshilfe im direkten Vergleich.'
 category: Biervergleich
 language: de
@@ -3692,8 +3692,8 @@ Ja. Für den Alltag reicht ein sauberer Willi-Becher. Stiltypische Gläser könn
 ---
 title: 'Pils oder Lager: Was ist der Unterschied?'
 slug: /biervergleich/pils-oder-lager/
-canonical: https://bier-durst.de/biervergleich/pils-oder-lager/
-meta_title: 'Pils oder Lager: Was ist der Unterschied? | Bier-Durst.de'
+canonical: https://bierdurst.org/biervergleich/pils-oder-lager/
+meta_title: 'Pils oder Lager: Was ist der Unterschied? | BierDurst.org'
 meta_description: 'Pils oder Lager: Was ist der Unterschied? Geschmack, Alkohol, Gärung, Herkunft, Essen und eine einfache Entscheidungshilfe im direkten Vergleich.'
 category: Biervergleich
 language: de
@@ -3790,8 +3790,8 @@ Ja. Für den Alltag reicht ein sauberer Willi-Becher. Stiltypische Gläser könn
 ---
 title: 'Lager oder Helles: Was ist der Unterschied?'
 slug: /biervergleich/lager-oder-helles/
-canonical: https://bier-durst.de/biervergleich/lager-oder-helles/
-meta_title: 'Lager oder Helles: Was ist der Unterschied? | Bier-Durst.de'
+canonical: https://bierdurst.org/biervergleich/lager-oder-helles/
+meta_title: 'Lager oder Helles: Was ist der Unterschied? | BierDurst.org'
 meta_description: 'Lager oder Helles: Was ist der Unterschied? Geschmack, Alkohol, Gärung, Herkunft, Essen und eine einfache Entscheidungshilfe im direkten Vergleich.'
 category: Biervergleich
 language: de
@@ -3888,8 +3888,8 @@ Ja. Für den Alltag reicht ein sauberer Willi-Becher. Stiltypische Gläser könn
 ---
 title: 'Weizenbier oder Weißbier: Ist das dasselbe?'
 slug: /biervergleich/weizenbier-oder-weissbier/
-canonical: https://bier-durst.de/biervergleich/weizenbier-oder-weissbier/
-meta_title: 'Weizenbier oder Weißbier: Ist das dasselbe? | Bier-Durst.de'
+canonical: https://bierdurst.org/biervergleich/weizenbier-oder-weissbier/
+meta_title: 'Weizenbier oder Weißbier: Ist das dasselbe? | BierDurst.org'
 meta_description: 'Weizenbier oder Weißbier: Ist das dasselbe? Geschmack, Alkohol, Gärung, Herkunft, Essen und eine einfache Entscheidungshilfe im direkten Vergleich.'
 category: Biervergleich
 language: de
@@ -3973,8 +3973,8 @@ Nein. Bayern ist besonders stark mit dem Stil verbunden, aber Weizenbier wird in
 ---
 title: 'Hefeweizen oder Kristallweizen: der Unterschied'
 slug: /biervergleich/hefeweizen-oder-kristallweizen/
-canonical: https://bier-durst.de/biervergleich/hefeweizen-oder-kristallweizen/
-meta_title: 'Hefeweizen oder Kristallweizen: der Untersc… | Bier-Durst.de'
+canonical: https://bierdurst.org/biervergleich/hefeweizen-oder-kristallweizen/
+meta_title: 'Hefeweizen oder Kristallweizen: der Untersc… | BierDurst.org'
 meta_description: 'Hefeweizen oder Kristallweizen: der Unterschied Geschmack, Alkohol, Gärung, Herkunft, Essen und eine einfache Entscheidungshilfe im direkten Vergleich.'
 category: Biervergleich
 language: de
@@ -4071,8 +4071,8 @@ Ja. Für den Alltag reicht ein sauberer Willi-Becher. Stiltypische Gläser könn
 ---
 title: 'Helles oder Weizenbier: Was passt besser?'
 slug: /biervergleich/helles-oder-weizenbier/
-canonical: https://bier-durst.de/biervergleich/helles-oder-weizenbier/
-meta_title: 'Helles oder Weizenbier: Was passt besser? | Bier-Durst.de'
+canonical: https://bierdurst.org/biervergleich/helles-oder-weizenbier/
+meta_title: 'Helles oder Weizenbier: Was passt besser? | BierDurst.org'
 meta_description: 'Helles oder Weizenbier: Was passt besser? Geschmack, Alkohol, Gärung, Herkunft, Essen und eine einfache Entscheidungshilfe im direkten Vergleich.'
 category: Biervergleich
 language: de
@@ -4169,8 +4169,8 @@ Ja. Für den Alltag reicht ein sauberer Willi-Becher. Stiltypische Gläser könn
 ---
 title: 'Kölsch oder Altbier: der große Vergleich'
 slug: /biervergleich/koelsch-oder-altbier/
-canonical: https://bier-durst.de/biervergleich/koelsch-oder-altbier/
-meta_title: 'Kölsch oder Altbier: der große Vergleich | Bier-Durst.de'
+canonical: https://bierdurst.org/biervergleich/koelsch-oder-altbier/
+meta_title: 'Kölsch oder Altbier: der große Vergleich | BierDurst.org'
 meta_description: 'Kölsch oder Altbier: der große Vergleich Geschmack, Alkohol, Gärung, Herkunft, Essen und eine einfache Entscheidungshilfe im direkten Vergleich.'
 category: Biervergleich
 language: de
@@ -4267,8 +4267,8 @@ Ja. Für den Alltag reicht ein sauberer Willi-Becher. Stiltypische Gläser könn
 ---
 title: 'Kölsch oder Pils: Was ist der Unterschied?'
 slug: /biervergleich/koelsch-oder-pils/
-canonical: https://bier-durst.de/biervergleich/koelsch-oder-pils/
-meta_title: 'Kölsch oder Pils: Was ist der Unterschied? | Bier-Durst.de'
+canonical: https://bierdurst.org/biervergleich/koelsch-oder-pils/
+meta_title: 'Kölsch oder Pils: Was ist der Unterschied? | BierDurst.org'
 meta_description: 'Kölsch oder Pils: Was ist der Unterschied? Geschmack, Alkohol, Gärung, Herkunft, Essen und eine einfache Entscheidungshilfe im direkten Vergleich.'
 category: Biervergleich
 language: de
@@ -4365,8 +4365,8 @@ Ja. Für den Alltag reicht ein sauberer Willi-Becher. Stiltypische Gläser könn
 ---
 title: 'Altbier oder Pils: Was ist der Unterschied?'
 slug: /biervergleich/altbier-oder-pils/
-canonical: https://bier-durst.de/biervergleich/altbier-oder-pils/
-meta_title: 'Altbier oder Pils: Was ist der Unterschied? | Bier-Durst.de'
+canonical: https://bierdurst.org/biervergleich/altbier-oder-pils/
+meta_title: 'Altbier oder Pils: Was ist der Unterschied? | BierDurst.org'
 meta_description: 'Altbier oder Pils: Was ist der Unterschied? Geschmack, Alkohol, Gärung, Herkunft, Essen und eine einfache Entscheidungshilfe im direkten Vergleich.'
 category: Biervergleich
 language: de
@@ -4463,8 +4463,8 @@ Ja. Für den Alltag reicht ein sauberer Willi-Becher. Stiltypische Gläser könn
 ---
 title: 'Dunkelbier oder Schwarzbier: der Unterschied'
 slug: /biervergleich/dunkelbier-oder-schwarzbier/
-canonical: https://bier-durst.de/biervergleich/dunkelbier-oder-schwarzbier/
-meta_title: 'Dunkelbier oder Schwarzbier: der Unterschied | Bier-Durst.de'
+canonical: https://bierdurst.org/biervergleich/dunkelbier-oder-schwarzbier/
+meta_title: 'Dunkelbier oder Schwarzbier: der Unterschied | BierDurst.org'
 meta_description: 'Dunkelbier oder Schwarzbier: der Unterschied Geschmack, Alkohol, Gärung, Herkunft, Essen und eine einfache Entscheidungshilfe im direkten Vergleich.'
 category: Biervergleich
 language: de
@@ -4561,8 +4561,8 @@ Ja. Für den Alltag reicht ein sauberer Willi-Becher. Stiltypische Gläser könn
 ---
 title: 'Kellerbier oder Zwickelbier: Gibt es einen Unterschied?'
 slug: /biervergleich/kellerbier-oder-zwickelbier/
-canonical: https://bier-durst.de/biervergleich/kellerbier-oder-zwickelbier/
-meta_title: 'Kellerbier oder Zwickelbier: Gibt es einen… | Bier-Durst.de'
+canonical: https://bierdurst.org/biervergleich/kellerbier-oder-zwickelbier/
+meta_title: 'Kellerbier oder Zwickelbier: Gibt es einen… | BierDurst.org'
 meta_description: 'Kellerbier oder Zwickelbier: Gibt es einen Unterschied? Geschmack, Alkohol, Gärung, Herkunft, Essen und eine einfache Entscheidungshilfe im direkten Vergle'
 category: Biervergleich
 language: de
@@ -4642,8 +4642,8 @@ Nicht eiskalt, sondern meist bei ungefähr 7 bis 10 Grad. Ein Seidel oder Willi-
 ---
 title: 'Märzen oder Festbier: Was ist der Unterschied?'
 slug: /biervergleich/maerzen-oder-festbier/
-canonical: https://bier-durst.de/biervergleich/maerzen-oder-festbier/
-meta_title: 'Märzen oder Festbier: Was ist der Unterschi… | Bier-Durst.de'
+canonical: https://bierdurst.org/biervergleich/maerzen-oder-festbier/
+meta_title: 'Märzen oder Festbier: Was ist der Unterschi… | BierDurst.org'
 meta_description: 'Märzen oder Festbier: Was ist der Unterschied? Geschmack, Alkohol, Gärung, Herkunft, Essen und eine einfache Entscheidungshilfe im direkten Vergleich.'
 category: Biervergleich
 language: de
@@ -4740,8 +4740,8 @@ Ja. Für den Alltag reicht ein sauberer Willi-Becher. Stiltypische Gläser könn
 ---
 title: 'Bockbier oder Doppelbock: der Unterschied'
 slug: /biervergleich/bockbier-oder-doppelbock/
-canonical: https://bier-durst.de/biervergleich/bockbier-oder-doppelbock/
-meta_title: 'Bockbier oder Doppelbock: der Unterschied | Bier-Durst.de'
+canonical: https://bierdurst.org/biervergleich/bockbier-oder-doppelbock/
+meta_title: 'Bockbier oder Doppelbock: der Unterschied | BierDurst.org'
 meta_description: 'Bockbier oder Doppelbock: der Unterschied Geschmack, Alkohol, Gärung, Herkunft, Essen und eine einfache Entscheidungshilfe im direkten Vergleich.'
 category: Biervergleich
 language: de
@@ -4838,8 +4838,8 @@ Ja. Für den Alltag reicht ein sauberer Willi-Becher. Stiltypische Gläser könn
 ---
 title: 'Bockbier oder Weizenbock: Was ist der Unterschied?'
 slug: /biervergleich/bockbier-oder-weizenbock/
-canonical: https://bier-durst.de/biervergleich/bockbier-oder-weizenbock/
-meta_title: 'Bockbier oder Weizenbock: Was ist der Unter… | Bier-Durst.de'
+canonical: https://bierdurst.org/biervergleich/bockbier-oder-weizenbock/
+meta_title: 'Bockbier oder Weizenbock: Was ist der Unter… | BierDurst.org'
 meta_description: 'Bockbier oder Weizenbock: Was ist der Unterschied? Geschmack, Alkohol, Gärung, Herkunft, Essen und eine einfache Entscheidungshilfe im direkten Vergleich.'
 category: Biervergleich
 language: de
@@ -4936,8 +4936,8 @@ Ja. Für den Alltag reicht ein sauberer Willi-Becher. Stiltypische Gläser könn
 ---
 title: 'Porter oder Stout: Was ist der Unterschied?'
 slug: /biervergleich/porter-oder-stout/
-canonical: https://bier-durst.de/biervergleich/porter-oder-stout/
-meta_title: 'Porter oder Stout: Was ist der Unterschied? | Bier-Durst.de'
+canonical: https://bierdurst.org/biervergleich/porter-oder-stout/
+meta_title: 'Porter oder Stout: Was ist der Unterschied? | BierDurst.org'
 meta_description: 'Porter oder Stout: Was ist der Unterschied? Geschmack, Alkohol, Gärung, Herkunft, Essen und eine einfache Entscheidungshilfe im direkten Vergleich.'
 category: Biervergleich
 language: de
@@ -5021,8 +5021,8 @@ Steak, geräuchertes Fleisch, Austern, kräftiger Käse und Schokoladendesserts 
 ---
 title: 'IPA oder Pils: Was ist der Unterschied?'
 slug: /biervergleich/ipa-oder-pils/
-canonical: https://bier-durst.de/biervergleich/ipa-oder-pils/
-meta_title: 'IPA oder Pils: Was ist der Unterschied? | Bier-Durst.de'
+canonical: https://bierdurst.org/biervergleich/ipa-oder-pils/
+meta_title: 'IPA oder Pils: Was ist der Unterschied? | BierDurst.org'
 meta_description: 'IPA oder Pils: Was ist der Unterschied? Geschmack, Alkohol, Gärung, Herkunft, Essen und eine einfache Entscheidungshilfe im direkten Vergleich.'
 category: Biervergleich
 language: de
@@ -5119,8 +5119,8 @@ Ja. Für den Alltag reicht ein sauberer Willi-Becher. Stiltypische Gläser könn
 ---
 title: 'Alkoholfrei oder 0,0 Prozent: Was ist der Unterschied?'
 slug: /biervergleich/alkoholfrei-oder-null-komma-null/
-canonical: https://bier-durst.de/biervergleich/alkoholfrei-oder-null-komma-null/
-meta_title: 'Alkoholfrei oder 0,0 Prozent: Was ist der U… | Bier-Durst.de'
+canonical: https://bierdurst.org/biervergleich/alkoholfrei-oder-null-komma-null/
+meta_title: 'Alkoholfrei oder 0,0 Prozent: Was ist der U… | BierDurst.org'
 meta_description: 'Alkoholfrei oder 0,0 Prozent: Was ist der Unterschied? Geschmack, Alkohol, Gärung, Herkunft, Essen und eine einfache Entscheidungshilfe im direkten Verglei'
 category: Biervergleich
 language: de
@@ -5199,8 +5199,8 @@ Nein. Fast jeder Stil kann alkoholfrei gebraut werden, etwa Pils, Helles, Weizen
 ---
 title: 'Radler oder Alsterwasser: Was ist der Unterschied?'
 slug: /biervergleich/radler-oder-alsterwasser/
-canonical: https://bier-durst.de/biervergleich/radler-oder-alsterwasser/
-meta_title: 'Radler oder Alsterwasser: Was ist der Unter… | Bier-Durst.de'
+canonical: https://bierdurst.org/biervergleich/radler-oder-alsterwasser/
+meta_title: 'Radler oder Alsterwasser: Was ist der Unter… | BierDurst.org'
 meta_description: 'Radler oder Alsterwasser: Was ist der Unterschied? Geschmack, Alkohol, Gärung, Herkunft, Essen und eine einfache Entscheidungshilfe im direkten Vergleich.'
 category: Biervergleich
 language: de
@@ -5280,8 +5280,8 @@ Nicht automatisch. Weniger Alkohol spart Kalorien, die Limonade kann dafür Zuck
 ---
 title: Was ist Bier? Definition, Zutaten und Bierarten
 slug: /bierwissen/was-ist-bier/
-canonical: https://bier-durst.de/bierwissen/was-ist-bier/
-meta_title: Was ist Bier? Definition, Zutaten und Biera… | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/was-ist-bier/
+meta_title: Was ist Bier? Definition, Zutaten und Biera… | BierDurst.org
 meta_description: Was Bier ist, woraus es besteht, wie Alkohol und Kohlensäure entstehen und welche Bierarten es in Deutschland gibt.
 category: Bierwissen
 language: de
@@ -5353,8 +5353,8 @@ Viele als Malzgetränk verkaufte Produkte sind süße, alkoholfreie oder alkohol
 ---
 title: Wie wird Bier gebraut? Der Brauprozess einfach erklärt
 slug: /bierwissen/wie-wird-bier-gebraut/
-canonical: https://bier-durst.de/bierwissen/wie-wird-bier-gebraut/
-meta_title: Wie wird Bier gebraut? Der Brauprozess einf… | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/wie-wird-bier-gebraut/
+meta_title: Wie wird Bier gebraut? Der Brauprozess einf… | BierDurst.org
 meta_description: 'Bierbrauen Schritt für Schritt: Schroten, Maischen, Läutern, Würzekochen, Kühlen, Gärung, Lagerung und Abfüllung.'
 category: Bierwissen
 language: de
@@ -5432,8 +5432,8 @@ Ja, mit geeigneter Ausrüstung und Hygiene. In Deutschland gelten dafür steuerl
 ---
 title: Aus welchen Zutaten besteht Bier?
 slug: /bierwissen/aus-welchen-zutaten-besteht-bier/
-canonical: https://bier-durst.de/bierwissen/aus-welchen-zutaten-besteht-bier/
-meta_title: Aus welchen Zutaten besteht Bier? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/aus-welchen-zutaten-besteht-bier/
+meta_title: Aus welchen Zutaten besteht Bier? | BierDurst.org
 meta_description: 'Wasser, Malz, Hopfen und Hefe: Welche Aufgabe jede Zutat im Bier hat und wie sie Geschmack, Farbe und Alkohol beeinflusst.'
 category: Bierwissen
 language: de
@@ -5508,8 +5508,8 @@ Weizenbier ja. Viele andere deutsche Biere basieren überwiegend auf Gerstenmalz
 ---
 title: 'Deutsches Reinheitsgebot: Was steht wirklich darin?'
 slug: /bierwissen/deutsches-reinheitsgebot/
-canonical: https://bier-durst.de/bierwissen/deutsches-reinheitsgebot/
-meta_title: 'Deutsches Reinheitsgebot: Was steht wirklic… | Bier-Durst.de'
+canonical: https://bierdurst.org/bierwissen/deutsches-reinheitsgebot/
+meta_title: 'Deutsches Reinheitsgebot: Was steht wirklic… | BierDurst.org'
 meta_description: 'Das Reinheitsgebot verständlich erklärt: Ursprung 1516, erlaubte Zutaten, Unterschiede nach Gärung und häufige Missverständnisse.'
 category: Bierwissen
 language: de
@@ -5581,8 +5581,8 @@ Nicht pauschal. Je nach Rezept, Herstellungsort, Genehmigung und Bezeichnung gel
 ---
 title: 'Obergäriges und untergäriges Bier: der Unterschied'
 slug: /bierwissen/obergaerig-oder-untergaerig/
-canonical: https://bier-durst.de/bierwissen/obergaerig-oder-untergaerig/
-meta_title: 'Obergäriges und untergäriges Bier: der Unte… | Bier-Durst.de'
+canonical: https://bierdurst.org/bierwissen/obergaerig-oder-untergaerig/
+meta_title: 'Obergäriges und untergäriges Bier: der Unte… | BierDurst.org'
 meta_description: 'Obergärig oder untergärig: Unterschiede bei Hefe, Temperatur, Geschmack und typische Beispiele wie Weizen, Kölsch, Pils und Helles.'
 category: Bierwissen
 language: de
@@ -5667,8 +5667,8 @@ Im üblichen Sprachgebrauch ja. Lager bezeichnet dagegen untergärige Bierfamili
 ---
 title: Wie viele Biersorten gibt es?
 slug: /bierwissen/wie-viele-biersorten-gibt-es/
-canonical: https://bier-durst.de/bierwissen/wie-viele-biersorten-gibt-es/
-meta_title: Wie viele Biersorten gibt es? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/wie-viele-biersorten-gibt-es/
+meta_title: Wie viele Biersorten gibt es? | BierDurst.org
 meta_description: Wie viele Biersorten es weltweit und in Deutschland gibt, warum Zahlen abweichen und wie sich Stil, Marke und Variante unterscheiden.
 category: Bierwissen
 language: de
@@ -5705,7 +5705,7 @@ Deutschland hat mehr als 7.500 Biermarken, aber nicht 7.500 grundlegend verschie
 ## Die wichtigsten deutschen Sorten
 
 Für einen guten Überblick reichen zunächst Pils, Helles, Lager, Export, Weizen, Kölsch, Alt, Dunkel, Schwarzbier, Kellerbier, Märzen, Festbier, Bock und alkoholfreies Bier. Danach lohnen sich regionale Stile wie Rauchbier, Zoigl, Gose und Berliner Weisse.
-## Wie Bier-Durst.de zählt
+## Wie BierDurst.org zählt
 
 Wir fassen sehr ähnliche Unterarten auf gemeinsamen Übersichtsseiten zusammen und erstellen eigene Seiten dort, wo Nutzer tatsächlich einen klaren Unterschied suchen. Dadurch bleibt die Navigation verständlich, ohne die Vielfalt künstlich kleinzurechnen.
 
@@ -5740,8 +5740,8 @@ Ja. Brauereien kombinieren traditionelle Verfahren mit neuen Hopfen, Hefen und R
 ---
 title: Wie viele Biermarken gibt es in Deutschland?
 slug: /bierwissen/wie-viele-biermarken-gibt-es/
-canonical: https://bier-durst.de/bierwissen/wie-viele-biermarken-gibt-es/
-meta_title: Wie viele Biermarken gibt es in Deutschland? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/wie-viele-biermarken-gibt-es/
+meta_title: Wie viele Biermarken gibt es in Deutschland? | BierDurst.org
 meta_description: 'Mehr als 7.500 Biermarken in Deutschland: Was die Zahl bedeutet und warum Marken, Brauereien und Biersorten nicht dasselbe sind.'
 category: Bierwissen
 language: de
@@ -5818,8 +5818,8 @@ Ja, auch wenn die Produktion häufig von einer bestehenden Brauerei übernommen 
 ---
 title: Wie viele Brauereien gibt es in Deutschland?
 slug: /bierwissen/wie-viele-brauereien-gibt-es/
-canonical: https://bier-durst.de/bierwissen/wie-viele-brauereien-gibt-es/
-meta_title: Wie viele Brauereien gibt es in Deutschland? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/wie-viele-brauereien-gibt-es/
+meta_title: Wie viele Brauereien gibt es in Deutschland? | BierDurst.org
 meta_description: Aktuelle Zahl der Braustätten in Deutschland, regionale Verteilung und Unterschied zwischen Brauerei, Marke und Brauereigruppe.
 category: Bierwissen
 language: de
@@ -5897,8 +5897,8 @@ Ein Ort, an dem Bier gewerblich gebraut wird. Ein Unternehmen kann mehrere Braus
 ---
 title: Was bedeutet Stammwürze beim Bier?
 slug: /bierwissen/stammwuerze-beim-bier/
-canonical: https://bier-durst.de/bierwissen/stammwuerze-beim-bier/
-meta_title: Was bedeutet Stammwürze beim Bier? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/stammwuerze-beim-bier/
+meta_title: Was bedeutet Stammwürze beim Bier? | BierDurst.org
 meta_description: 'Stammwürze einfach erklärt: Was der Wert misst, wie er mit Alkohol zusammenhängt und warum er nicht mit Restzucker identisch ist.'
 category: Bierwissen
 language: de
@@ -5974,8 +5974,8 @@ Nein. Alkoholgehalt ist für Verbraucher deutlich häufiger sichtbar.
 ---
 title: Was bedeutet IBU beim Bier?
 slug: /bierwissen/ibu-beim-bier/
-canonical: https://bier-durst.de/bierwissen/ibu-beim-bier/
-meta_title: Was bedeutet IBU beim Bier? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/ibu-beim-bier/
+meta_title: Was bedeutet IBU beim Bier? | BierDurst.org
 meta_description: 'IBU beim Bier erklärt: Was Bittereinheiten messen, warum 40 IBU nicht immer gleich bitter schmecken und welche Stile hohe Werte haben.'
 category: Bierwissen
 language: de
@@ -6059,8 +6059,8 @@ Viele norddeutsche Pilsbiere und moderne IPAs sind deutlich hopfenbetont. Ein ve
 ---
 title: Was bedeutet EBC beim Bier?
 slug: /bierwissen/ebc-beim-bier/
-canonical: https://bier-durst.de/bierwissen/ebc-beim-bier/
-meta_title: Was bedeutet EBC beim Bier? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/ebc-beim-bier/
+meta_title: Was bedeutet EBC beim Bier? | BierDurst.org
 meta_description: 'EBC-Farbwert beim Bier erklärt: Was die Zahl aussagt, typische Bereiche und warum Farbe nichts Sicheres über Stärke oder Geschmack verrät.'
 category: Bierwissen
 language: de
@@ -6144,8 +6144,8 @@ Ein klassisches Pils ist hell. Ein sehr dunkles Bier würde stilistisch anders e
 ---
 title: Wie viel Alkohol hat Bier?
 slug: /bierwissen/wie-viel-alkohol-hat-bier/
-canonical: https://bier-durst.de/bierwissen/wie-viel-alkohol-hat-bier/
-meta_title: Wie viel Alkohol hat Bier? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/wie-viel-alkohol-hat-bier/
+meta_title: Wie viel Alkohol hat Bier? | BierDurst.org
 meta_description: Typischer Alkoholgehalt von Pils, Hellem, Weizen, Bock, Radler und alkoholfreiem Bier mit verständlicher Einordnung.
 category: Bierwissen
 language: de
@@ -6227,8 +6227,8 @@ Oft liegen beide ähnlich. Das konkrete Produkt entscheidet.
 ---
 title: Wie viele Kalorien hat Bier?
 slug: /bierwissen/wie-viele-kalorien-hat-bier/
-canonical: https://bier-durst.de/bierwissen/wie-viele-kalorien-hat-bier/
-meta_title: Wie viele Kalorien hat Bier? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/wie-viele-kalorien-hat-bier/
+meta_title: Wie viele Kalorien hat Bier? | BierDurst.org
 meta_description: Kalorien in Pils, Hellem, Weizen, Starkbier, Radler und alkoholfreiem Bier sowie die wichtigsten Einflussfaktoren.
 category: Bierwissen
 language: de
@@ -6312,8 +6312,8 @@ Nicht zwingend. Weniger Alkohol spart Energie, Limonadenzucker kann einen Teil d
 ---
 title: Wie lange ist Bier haltbar?
 slug: /bierwissen/wie-lange-ist-bier-haltbar/
-canonical: https://bier-durst.de/bierwissen/wie-lange-ist-bier-haltbar/
-meta_title: Wie lange ist Bier haltbar? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/wie-lange-ist-bier-haltbar/
+meta_title: Wie lange ist Bier haltbar? | BierDurst.org
 meta_description: Wie lange Bier haltbar ist, was das Mindesthaltbarkeitsdatum bedeutet und welche Stile frisch oder gereift besser schmecken.
 category: Bierwissen
 language: de
@@ -6398,8 +6398,8 @@ Normales Hefeweizen sollte meist frisch getrunken werden. Starke Weizenböcke k�
 ---
 title: 'Bier abgelaufen: Kann man es noch trinken?'
 slug: /bierwissen/abgelaufenes-bier-trinken/
-canonical: https://bier-durst.de/bierwissen/abgelaufenes-bier-trinken/
-meta_title: 'Bier abgelaufen: Kann man es noch trinken? | Bier-Durst.de'
+canonical: https://bierdurst.org/bierwissen/abgelaufenes-bier-trinken/
+meta_title: 'Bier abgelaufen: Kann man es noch trinken? | BierDurst.org'
 meta_description: 'Abgelaufenes Bier prüfen: Mindesthaltbarkeitsdatum, Geruch, Geschmack, Flaschendruck und klare Warnzeichen.'
 category: Bierwissen
 language: de
@@ -6480,8 +6480,8 @@ Sauerstoff kann Alterungsaromen erzeugen, die an Karton oder Papier erinnern.
 ---
 title: 'Bier richtig lagern: Temperatur, Licht und Position'
 slug: /bierwissen/bier-richtig-lagern/
-canonical: https://bier-durst.de/bierwissen/bier-richtig-lagern/
-meta_title: 'Bier richtig lagern: Temperatur, Licht und… | Bier-Durst.de'
+canonical: https://bierdurst.org/bierwissen/bier-richtig-lagern/
+meta_title: 'Bier richtig lagern: Temperatur, Licht und… | BierDurst.org'
 meta_description: 'Bier richtig lagern: kühl, dunkel, stehend und ohne Temperaturschwankungen. Tipps für Flaschen, Dosen und besondere Biere.'
 category: Bierwissen
 language: de
@@ -6562,8 +6562,8 @@ Für viele Alltagsbiere ist ein gleichmäßig kühler Bereich im einstelligen bi
 ---
 title: 'Bier einfrieren: Was passiert im Gefrierschrank?'
 slug: /bierwissen/bier-einfrieren/
-canonical: https://bier-durst.de/bierwissen/bier-einfrieren/
-meta_title: 'Bier einfrieren: Was passiert im Gefriersch… | Bier-Durst.de'
+canonical: https://bierdurst.org/bierwissen/bier-einfrieren/
+meta_title: 'Bier einfrieren: Was passiert im Gefriersch… | BierDurst.org'
 meta_description: Warum Bier im Gefrierschrank platzen kann, wie lange schnelles Kühlen dauern darf und was nach dem Einfrieren mit Geschmack passiert.
 category: Bierwissen
 language: de
@@ -6639,8 +6639,8 @@ Ja. Auch Dosen können sich stark verformen oder aufreißen.
 ---
 title: 'Bier richtig einschenken: So entsteht eine gute Schaumkrone'
 slug: /bierwissen/bier-richtig-einschenken/
-canonical: https://bier-durst.de/bierwissen/bier-richtig-einschenken/
-meta_title: 'Bier richtig einschenken: So entsteht eine… | Bier-Durst.de'
+canonical: https://bierdurst.org/bierwissen/bier-richtig-einschenken/
+meta_title: 'Bier richtig einschenken: So entsteht eine… | BierDurst.org'
 meta_description: 'Bier richtig einschenken: Glas halten, Winkel ändern, Schaum aufbauen und typische Fehler bei Pils und Weizen vermeiden.'
 category: Bierwissen
 language: de
@@ -6722,8 +6722,8 @@ Fett- und Spülmittelreste sind häufige Ursachen. Auch altes oder kohlensäurea
 ---
 title: Welches Bierglas gehört zu welchem Bier?
 slug: /bierwissen/welches-bierglas/
-canonical: https://bier-durst.de/bierwissen/welches-bierglas/
-meta_title: Welches Bierglas gehört zu welchem Bier? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/welches-bierglas/
+meta_title: Welches Bierglas gehört zu welchem Bier? | BierDurst.org
 meta_description: 'Biergläser im Überblick: Pilstulpe, Weizenglas, Kölschstange, Seidel, Pint und Kelch mit passenden Bierstilen.'
 category: Bierwissen
 language: de
@@ -6809,8 +6809,8 @@ Nein. Ein eisgekühltes Glas kann Aromen dämpfen und Wasser einbringen.
 ---
 title: Welche Trinktemperatur ist für Bier ideal?
 slug: /bierwissen/optimale-trinktemperatur-bier/
-canonical: https://bier-durst.de/bierwissen/optimale-trinktemperatur-bier/
-meta_title: Welche Trinktemperatur ist für Bier ideal? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/optimale-trinktemperatur-bier/
+meta_title: Welche Trinktemperatur ist für Bier ideal? | BierDurst.org
 meta_description: Ideale Trinktemperatur für Pils, Helles, Weizen, Bock, Stout und alkoholfreies Bier mit praktischer Kühlschrank-Regel.
 category: Bierwissen
 language: de
@@ -6901,8 +6901,8 @@ Wärme setzt komplexe Malz-, Frucht- und Reifearomen besser frei.
 ---
 title: Was ist die beliebteste Biersorte Deutschlands?
 slug: /bestenlisten/beliebteste-biersorten-deutschland/
-canonical: https://bier-durst.de/bestenlisten/beliebteste-biersorten-deutschland/
-meta_title: Was ist die beliebteste Biersorte Deutschla… | Bier-Durst.de
+canonical: https://bierdurst.org/bestenlisten/beliebteste-biersorten-deutschland/
+meta_title: Was ist die beliebteste Biersorte Deutschla… | BierDurst.org
 meta_description: 'Pils, Helles und alkoholfreies Bier: die beliebtesten Biersorten Deutschlands mit aktuellen Marktanteilen und regionalen Unterschieden.'
 category: Bestenlisten und Zahlen
 language: de
@@ -6993,8 +6993,8 @@ Helles, Kölsch oder ein mildes Weizen sind oft zugänglich. Wer Bitterkeit mag,
 ---
 title: Welche Biermarken sind in Deutschland am beliebtesten?
 slug: /bestenlisten/beliebteste-biermarken-deutschland/
-canonical: https://bier-durst.de/bestenlisten/beliebteste-biermarken-deutschland/
-meta_title: Welche Biermarken sind in Deutschland am be… | Bier-Durst.de
+canonical: https://bierdurst.org/bestenlisten/beliebteste-biermarken-deutschland/
+meta_title: Welche Biermarken sind in Deutschland am be… | BierDurst.org
 meta_description: Beliebte Biermarken in Deutschland nach Bekanntheit, Kaufbereitschaft und Absatz – mit Erklärung, warum Rankings voneinander abweichen.
 category: Bestenlisten und Zahlen
 language: de
@@ -7061,7 +7061,7 @@ Krombacher bezeichnete sich auch für 2025 als Deutschlands beliebteste Biermark
 
 In Bayern haben Augustiner, Tegernseer, Paulaner, Erdinger oder regionale Helle eine andere Bedeutung als in Norddeutschland. In Köln dominieren Kölschmarken, in Düsseldorf Altbiermarken. Ein gutes Ranking sollte daher immer auch regionale Unterlisten anbieten.
 
-## So bewertet Bier-Durst.de Marken
+## So bewertet BierDurst.org Marken
 
 Solange keine eigene Nutzerabstimmung existiert, trennen wir klar zwischen:
 
@@ -7101,8 +7101,8 @@ Dafür gibt es keine objektive Antwort. Regionale Verfügbarkeit und Stilvorlieb
 ---
 title: Welches Bier wird in Deutschland am meisten getrunken?
 slug: /bestenlisten/meistgetrunkenes-bier-deutschland/
-canonical: https://bier-durst.de/bestenlisten/meistgetrunkenes-bier-deutschland/
-meta_title: Welches Bier wird in Deutschland am meisten… | Bier-Durst.de
+canonical: https://bierdurst.org/bestenlisten/meistgetrunkenes-bier-deutschland/
+meta_title: Welches Bier wird in Deutschland am meisten… | BierDurst.org
 meta_description: 'Welches Bier in Deutschland am meisten getrunken wird: Pils als Sorte, Krombacher als führende Pilsmarke und wichtige Einschränkungen.'
 category: Bestenlisten und Zahlen
 language: de
@@ -7179,8 +7179,8 @@ In der monatlichen Verbrauchsteuerstatistik werden Biere mit 0,5 Prozent Alkohol
 ---
 title: Was ist das beste Bier Deutschlands?
 slug: /bestenlisten/bestes-bier-deutschland/
-canonical: https://bier-durst.de/bestenlisten/bestes-bier-deutschland/
-meta_title: Was ist das beste Bier Deutschlands? | Bier-Durst.de
+canonical: https://bierdurst.org/bestenlisten/bestes-bier-deutschland/
+meta_title: Was ist das beste Bier Deutschlands? | BierDurst.org
 meta_description: Das beste Bier Deutschlands gibt es nicht objektiv. So findest du deinen Favoriten nach Stil, Anlass, Frische und Geschmack.
 category: Bestenlisten und Zahlen
 language: de
@@ -7275,8 +7275,8 @@ Eine gemischte regionale Auswahl oder ein hochwertiger Stil, den die Person bere
 ---
 title: 'Die besten Pilsbiere Deutschlands: 10 bekannte Vertreter'
 slug: /bestenlisten/beste-pilsbiere-deutschland/
-canonical: https://bier-durst.de/bestenlisten/beste-pilsbiere-deutschland/
-meta_title: 'Die besten Pilsbiere Deutschlands: 10 bekan… | Bier-Durst.de'
+canonical: https://bierdurst.org/bestenlisten/beste-pilsbiere-deutschland/
+meta_title: 'Die besten Pilsbiere Deutschlands: 10 bekan… | BierDurst.org'
 meta_description: Zehn bekannte deutsche Pilsbiere als redaktionelle Orientierung – von mild bis norddeutsch herb, mit Auswahlkriterien.
 category: Bestenlisten und Zahlen
 language: de
@@ -7378,8 +7378,8 @@ Stand ist August 2026. Produkte, Rezepturen und Verfügbarkeit können sich ver�
 ---
 title: 'Die besten Hellen Deutschlands: 10 bekannte Vertreter'
 slug: /bestenlisten/beste-helle-deutschland/
-canonical: https://bier-durst.de/bestenlisten/beste-helle-deutschland/
-meta_title: 'Die besten Hellen Deutschlands: 10 bekannte… | Bier-Durst.de'
+canonical: https://bierdurst.org/bestenlisten/beste-helle-deutschland/
+meta_title: 'Die besten Hellen Deutschlands: 10 bekannte… | BierDurst.org'
 meta_description: Zehn bekannte Helle aus Deutschland als redaktionelle Orientierung mit bayerischen Klassikern und bundesweit erhältlichen Beispielen.
 category: Bestenlisten und Zahlen
 language: de
@@ -7481,8 +7481,8 @@ Stand ist August 2026. Produkte, Rezepturen und Verfügbarkeit können sich ver�
 ---
 title: 'Die besten Weizenbiere Deutschlands: 10 bekannte Vertreter'
 slug: /bestenlisten/beste-weizenbiere-deutschland/
-canonical: https://bier-durst.de/bestenlisten/beste-weizenbiere-deutschland/
-meta_title: 'Die besten Weizenbiere Deutschlands: 10 bek… | Bier-Durst.de'
+canonical: https://bierdurst.org/bestenlisten/beste-weizenbiere-deutschland/
+meta_title: 'Die besten Weizenbiere Deutschlands: 10 bek… | BierDurst.org'
 meta_description: 'Zehn bekannte deutsche Weizenbiere als redaktionelle Orientierung: fruchtig, würzig, hell, dunkel und traditionell.'
 category: Bestenlisten und Zahlen
 language: de
@@ -7589,8 +7589,8 @@ Stand ist August 2026. Produkte, Rezepturen und Verfügbarkeit können sich ver�
 ---
 title: 'Die besten alkoholfreien Biere Deutschlands: 10 Einstiege'
 slug: /bestenlisten/beste-alkoholfreie-biere-deutschland/
-canonical: https://bier-durst.de/bestenlisten/beste-alkoholfreie-biere-deutschland/
-meta_title: Die besten alkoholfreien Biere Deutschlands… | Bier-Durst.de
+canonical: https://bierdurst.org/bestenlisten/beste-alkoholfreie-biere-deutschland/
+meta_title: Die besten alkoholfreien Biere Deutschlands… | BierDurst.org
 meta_description: Zehn bekannte alkoholfreie Biere und 0,0-Produkte als redaktionelle Orientierung von Pils bis Weizen und IPA.
 category: Bestenlisten und Zahlen
 language: de
@@ -7692,8 +7692,8 @@ Stand ist August 2026. Produkte, Rezepturen und Verfügbarkeit können sich ver�
 ---
 title: Die größten Brauereien Deutschlands 2026
 slug: /bestenlisten/groesste-brauereien-deutschland/
-canonical: https://bier-durst.de/bestenlisten/groesste-brauereien-deutschland/
-meta_title: Die größten Brauereien Deutschlands 2026 | Bier-Durst.de
+canonical: https://bierdurst.org/bestenlisten/groesste-brauereien-deutschland/
+meta_title: Die größten Brauereien Deutschlands 2026 | BierDurst.org
 meta_description: 'Die größten deutschen Brauereigruppen nach Bierausstoß 2025: Radeberger, Paulaner, TCB, Oettinger, Krombacher und Bitburger.'
 category: Bestenlisten und Zahlen
 language: de
@@ -7775,8 +7775,8 @@ Ein Hektoliter entspricht 100 Litern. 9,95 Millionen Hektoliter sind 995 Million
 ---
 title: Die ältesten Brauereien Deutschlands
 slug: /bestenlisten/aelteste-brauereien-deutschland/
-canonical: https://bier-durst.de/bestenlisten/aelteste-brauereien-deutschland/
-meta_title: Die ältesten Brauereien Deutschlands | Bier-Durst.de
+canonical: https://bierdurst.org/bestenlisten/aelteste-brauereien-deutschland/
+meta_title: Die ältesten Brauereien Deutschlands | BierDurst.org
 meta_description: 'Weihenstephan, Weltenburg, Bolten und Augustiner: alte deutsche Brauereien, Gründungsdaten und warum der Vergleich schwierig ist.'
 category: Bestenlisten und Zahlen
 language: de
@@ -7864,8 +7864,8 @@ Augustiner-Bräu mit einer Tradition seit 1328.
 ---
 title: Wie viel Bier wird in Deutschland getrunken?
 slug: /bestenlisten/wie-viel-bier-wird-getrunken/
-canonical: https://bier-durst.de/bestenlisten/wie-viel-bier-wird-getrunken/
-meta_title: Wie viel Bier wird in Deutschland getrunken? | Bier-Durst.de
+canonical: https://bierdurst.org/bestenlisten/wie-viel-bier-wird-getrunken/
+meta_title: Wie viel Bier wird in Deutschland getrunken? | BierDurst.org
 meta_description: 'Bierverbrauch und Bierabsatz in Deutschland 2025: 76,9 Liter pro Kopf, 7,8 Milliarden Liter Absatz und wichtige Statistik-Hinweise.'
 category: Bestenlisten und Zahlen
 language: de
@@ -7949,8 +7949,8 @@ Nicht in der genannten Verbrauchsteuerstatistik für Bier mit mehr als 0,5 Proze
 ---
 title: Was kostet Bier in Deutschland?
 slug: /bestenlisten/was-kostet-bier-in-deutschland/
-canonical: https://bier-durst.de/bestenlisten/was-kostet-bier-in-deutschland/
-meta_title: Was kostet Bier in Deutschland? | Bier-Durst.de
+canonical: https://bierdurst.org/bestenlisten/was-kostet-bier-in-deutschland/
+meta_title: Was kostet Bier in Deutschland? | BierDurst.org
 meta_description: Bierpreise in Supermarkt, Getränkemarkt, Kneipe, Biergarten und Oktoberfest – mit Literpreis-Rechnung und Preisfaktoren.
 category: Bestenlisten und Zahlen
 language: de
@@ -8035,8 +8035,8 @@ Bierkästen werden im Handel als stark beachtetes Aktionsprodukt genutzt. Dauerh
 ---
 title: 'Bierregionen in Deutschland: die große Übersicht'
 slug: /bierregionen/
-canonical: https://bier-durst.de/bierregionen/
-meta_title: 'Bierregionen in Deutschland: die große Über… | Bier-Durst.de'
+canonical: https://bierdurst.org/bierregionen/
+meta_title: 'Bierregionen in Deutschland: die große Über… | BierDurst.org'
 meta_description: 'Deutschlands Bierregionen im Überblick: Bayern, Franken, Köln, Düsseldorf, Berlin, Baden-Württemberg, Sachsen und Thüringen.'
 category: Bierregionen
 language: de
@@ -8124,8 +8124,8 @@ Nein. Auch große Marken können tief in einer Region verwurzelt sein. Entscheid
 ---
 title: 'Bier in Bayern: Sorten, Regionen und Braukultur'
 slug: /bierregionen/bier-in-bayern/
-canonical: https://bier-durst.de/bierregionen/bier-in-bayern/
-meta_title: 'Bier in Bayern: Sorten, Regionen und Brauku… | Bier-Durst.de'
+canonical: https://bierdurst.org/bierregionen/bier-in-bayern/
+meta_title: 'Bier in Bayern: Sorten, Regionen und Brauku… | BierDurst.org'
 meta_description: 'Bier in Bayern: Helles, Weizen, Dunkel, Bock, Kellerbier, Zoigl, Rauchbier, Biergärten und wichtige Teilregionen.'
 category: Bierregionen
 language: de
@@ -8214,8 +8214,8 @@ Ausschließlich Oktoberfestbier der sechs zugelassenen Münchner Brauereien.
 ---
 title: 'Bier in München: Brauereien, Helles und Oktoberfest'
 slug: /bierregionen/bier-in-muenchen/
-canonical: https://bier-durst.de/bierregionen/bier-in-muenchen/
-meta_title: 'Bier in München: Brauereien, Helles und Okt… | Bier-Durst.de'
+canonical: https://bierdurst.org/bierregionen/bier-in-muenchen/
+meta_title: 'Bier in München: Brauereien, Helles und Okt… | BierDurst.org'
 meta_description: 'Münchner Bier erklärt: Helles, Dunkel, Weißbier, sechs Oktoberfestbrauereien, Biergärten und wichtige Regeln.'
 category: Bierregionen
 language: de
@@ -8308,8 +8308,8 @@ Auf dem offiziellen Oktoberfest wird Bier der sechs etablierten Münchner Oktobe
 ---
 title: 'Bier in Franken: Kellerbier, Rauchbier und Bierkeller'
 slug: /bierregionen/bier-in-franken/
-canonical: https://bier-durst.de/bierregionen/bier-in-franken/
-meta_title: 'Bier in Franken: Kellerbier, Rauchbier und… | Bier-Durst.de'
+canonical: https://bierdurst.org/bierregionen/bier-in-franken/
+meta_title: 'Bier in Franken: Kellerbier, Rauchbier und… | BierDurst.org'
 meta_description: 'Fränkische Bierkultur: Kellerbier, Rauchbier, Landbier, Bockbier, Bierkeller, Brauereigasthöfe und Bamberg.'
 category: Bierregionen
 language: de
@@ -8398,8 +8398,8 @@ Brotzeit, Bratwurst, Braten und mittelkräftiger Käse.
 ---
 title: 'Bier in Köln: Kölsch, Brauhäuser und Köbes'
 slug: /bierregionen/bier-in-koeln/
-canonical: https://bier-durst.de/bierregionen/bier-in-koeln/
-meta_title: 'Bier in Köln: Kölsch, Brauhäuser und Köbes | Bier-Durst.de'
+canonical: https://bierdurst.org/bierregionen/bier-in-koeln/
+meta_title: 'Bier in Köln: Kölsch, Brauhäuser und Köbes | BierDurst.org'
 meta_description: 'Kölner Bierkultur: Was Kölsch ausmacht, wie es serviert wird, was ein Köbes tut und wie der Kranz funktioniert.'
 category: Bierregionen
 language: de
@@ -8480,8 +8480,8 @@ Damit das Bier schnell, frisch und kühl getrunken wird.
 ---
 title: 'Bier in Düsseldorf: Altbier und Hausbrauereien'
 slug: /bierregionen/bier-in-duesseldorf/
-canonical: https://bier-durst.de/bierregionen/bier-in-duesseldorf/
-meta_title: 'Bier in Düsseldorf: Altbier und Hausbrauere… | Bier-Durst.de'
+canonical: https://bierdurst.org/bierregionen/bier-in-duesseldorf/
+meta_title: 'Bier in Düsseldorf: Altbier und Hausbrauere… | BierDurst.org'
 meta_description: 'Düsseldorfer Bierkultur: Altbier, Hausbrauereien, Altglas, Köbes und der Unterschied zu Kölsch und Pils.'
 category: Bierregionen
 language: de
@@ -8567,8 +8567,8 @@ Ja. Der Stil ist nicht so eng geschützt wie Kölsch, bleibt kulturell aber star
 ---
 title: 'Bier in Berlin: Berliner Weisse und moderne Brauszene'
 slug: /bierregionen/bier-in-berlin/
-canonical: https://bier-durst.de/bierregionen/bier-in-berlin/
-meta_title: 'Bier in Berlin: Berliner Weisse und moderne… | Bier-Durst.de'
+canonical: https://bierdurst.org/bierregionen/bier-in-berlin/
+meta_title: 'Bier in Berlin: Berliner Weisse und moderne… | BierDurst.org'
 meta_description: 'Berliner Bierkultur: Berliner Weisse, Pils, historische Brauereien, Craftbier und warum Sirup nicht die einzige Trinkweise ist.'
 category: Bierregionen
 language: de
@@ -8649,8 +8649,8 @@ Traditionelle Varianten liegen häufig nur bei etwa 2,5 bis 3,5 Prozent.
 ---
 title: 'Bier in Baden-Württemberg: Export, Pils und Kristallweizen'
 slug: /bierregionen/bier-in-baden-wuerttemberg/
-canonical: https://bier-durst.de/bierregionen/bier-in-baden-wuerttemberg/
-meta_title: 'Bier in Baden-Württemberg: Export, Pils und… | Bier-Durst.de'
+canonical: https://bierdurst.org/bierregionen/bier-in-baden-wuerttemberg/
+meta_title: 'Bier in Baden-Württemberg: Export, Pils und… | BierDurst.org'
 meta_description: 'Bier in Baden-Württemberg: Export, Pils, Kristallweizen, regionale Brauereien und Unterschiede zwischen Baden und Württemberg.'
 category: Bierregionen
 language: de
@@ -8736,8 +8736,8 @@ Die Brauerei liegt im Hochschwarzwald und gehört zu den bekanntesten Marken des
 ---
 title: 'Bier in Sachsen und Thüringen: Schwarzbier, Pils und Gose'
 slug: /bierregionen/bier-in-sachsen-und-thueringen/
-canonical: https://bier-durst.de/bierregionen/bier-in-sachsen-und-thueringen/
-meta_title: 'Bier in Sachsen und Thüringen: Schwarzbier… | Bier-Durst.de'
+canonical: https://bierdurst.org/bierregionen/bier-in-sachsen-und-thueringen/
+meta_title: 'Bier in Sachsen und Thüringen: Schwarzbier… | BierDurst.org'
 meta_description: 'Bier in Sachsen und Thüringen: Schwarzbier, Pils, Leipziger Gose, regionale Marken und passende Speisen.'
 category: Bierregionen
 language: de
@@ -8827,8 +8827,8 @@ Nein. Schwarzbier liegt oft in einem ähnlichen Alkoholbereich wie Pils.
 ---
 title: 'Oktoberfest 2026: Bier, Festzelte und die wichtigsten Informationen'
 slug: /oktoberfest/
-canonical: https://bier-durst.de/oktoberfest/
-meta_title: 'Oktoberfest 2026: Bier, Festzelte und die w… | Bier-Durst.de'
+canonical: https://bierdurst.org/oktoberfest/
+meta_title: 'Oktoberfest 2026: Bier, Festzelte und die w… | BierDurst.org'
 meta_description: 'Oktoberfest 2026 in München: Termine, Festzelte, Wiesnbier, Preise, Öffnungszeiten, Reservierung und Orientierung.'
 category: Oktoberfest
 language: de
@@ -8961,8 +8961,8 @@ In den großen Festzelten ist die Maß mit einem Liter das typische Format. Alko
 ---
 title: Welches Bier gibt es auf dem Oktoberfest?
 slug: /oktoberfest/welches-bier-gibt-es/
-canonical: https://bier-durst.de/oktoberfest/welches-bier-gibt-es/
-meta_title: Welches Bier gibt es auf dem Oktoberfest? | Bier-Durst.de
+canonical: https://bierdurst.org/oktoberfest/welches-bier-gibt-es/
+meta_title: Welches Bier gibt es auf dem Oktoberfest? | BierDurst.org
 meta_description: Welches Bier wird auf dem Oktoberfest ausgeschenkt? Alle sechs Wiesnbier-Brauereien, Bierstil, Alkoholgehalt und Unterschiede.
 category: Oktoberfest
 language: de
@@ -9039,7 +9039,7 @@ In verschiedenen Zelten und kleineren Betrieben wird zusätzlich Weißbier angeb
 
 ## Welches Wiesnbier schmeckt am besten?
 
-Das ist Geschmackssache. Wer mildes, rundes Bier mag, kann andere Favoriten haben als jemand, der ein trockeneres oder würzigeres Festbier bevorzugt. Für Bier-Durst.de sollte eine spätere Vergleichsseite deshalb nicht behaupten, es gebe ein objektiv bestes Wiesnbier. Sinnvoller sind transparente Kriterien wie Malzigkeit, Bittere, Alkoholgehalt, Ausschankart und persönliche Verkostungsnotizen.
+Das ist Geschmackssache. Wer mildes, rundes Bier mag, kann andere Favoriten haben als jemand, der ein trockeneres oder würzigeres Festbier bevorzugt. Für BierDurst.org sollte eine spätere Vergleichsseite deshalb nicht behaupten, es gebe ein objektiv bestes Wiesnbier. Sinnvoller sind transparente Kriterien wie Malzigkeit, Bittere, Alkoholgehalt, Ausschankart und persönliche Verkostungsnotizen.
 
 ## Häufige Fragen
 
@@ -9077,8 +9077,8 @@ Mehrere Brauereien verkaufen ihr Oktoberfestbier saisonal in Flaschen oder im Ha
 ---
 title: Die sechs Münchner Oktoberfestbrauereien
 slug: /oktoberfest/sechs-oktoberfestbrauereien/
-canonical: https://bier-durst.de/oktoberfest/sechs-oktoberfestbrauereien/
-meta_title: Die sechs Münchner Oktoberfestbrauereien | Bier-Durst.de
+canonical: https://bierdurst.org/oktoberfest/sechs-oktoberfestbrauereien/
+meta_title: Die sechs Münchner Oktoberfestbrauereien | BierDurst.org
 meta_description: 'Die sechs Oktoberfestbrauereien: Augustiner, Hacker-Pschorr, Hofbräu, Löwenbräu, Paulaner und Spaten im Überblick.'
 category: Oktoberfest
 language: de
@@ -9223,8 +9223,8 @@ Augustiner führt seine Geschichte bis 1328 zurück und ist damit die älteste n
 ---
 title: Welches Bier gibt es in welchem Festzelt?
 slug: /oktoberfest/bier-in-welchem-festzelt/
-canonical: https://bier-durst.de/oktoberfest/bier-in-welchem-festzelt/
-meta_title: Welches Bier gibt es in welchem Festzelt? | Bier-Durst.de
+canonical: https://bierdurst.org/oktoberfest/bier-in-welchem-festzelt/
+meta_title: Welches Bier gibt es in welchem Festzelt? | BierDurst.org
 meta_description: Welches Bier gibt es in welchem Oktoberfestzelt? Tabelle aller 14 großen Festzelte und ihrer Münchner Brauereien.
 category: Oktoberfest
 language: de
@@ -9356,8 +9356,8 @@ Besonders bekannt dafür ist die Augustiner-Festhalle.
 ---
 title: Alle großen und kleinen Oktoberfestzelte im Überblick
 slug: /oktoberfest/festzelte/
-canonical: https://bier-durst.de/oktoberfest/festzelte/
-meta_title: Alle großen und kleinen Oktoberfestzelte im… | Bier-Durst.de
+canonical: https://bierdurst.org/oktoberfest/festzelte/
+meta_title: Alle großen und kleinen Oktoberfestzelte im… | BierDurst.org
 meta_description: 'Alle Oktoberfestzelte im Überblick: 14 große Zelte, kleine Zelte, Schwerpunkte, Bier, Größe und Entscheidungshilfe.'
 category: Oktoberfest
 language: de
@@ -9504,8 +9504,8 @@ Ja, solange die Zelte geöffnet und nicht wegen Überfüllung geschlossen sind. 
 ---
 title: Wie viel kostet eine Maß Bier auf dem Oktoberfest 2026?
 slug: /oktoberfest/bierpreise/
-canonical: https://bier-durst.de/oktoberfest/bierpreise/
-meta_title: Wie viel kostet eine Maß Bier auf dem Oktob… | Bier-Durst.de
+canonical: https://bierdurst.org/oktoberfest/bierpreise/
+meta_title: Wie viel kostet eine Maß Bier auf dem Oktob… | BierDurst.org
 meta_description: 'Bierpreise 2026 auf dem Oktoberfest: Maßpreise aller großen Festzelte, Preisvergleich, Bedienungsgeld und Spartipps.'
 category: Oktoberfest
 language: de
@@ -9628,8 +9628,8 @@ Zahlungsmöglichkeiten unterscheiden sich nach Zelt und Bedienbereich. Bargeld b
 ---
 title: Welche Bands spielen auf dem Oktoberfest 2026?
 slug: /oktoberfest/bands-musik/
-canonical: https://bier-durst.de/oktoberfest/bands-musik/
-meta_title: Welche Bands spielen auf dem Oktoberfest 20… | Bier-Durst.de
+canonical: https://bierdurst.org/oktoberfest/bands-musik/
+meta_title: Welche Bands spielen auf dem Oktoberfest 20… | BierDurst.org
 meta_description: 'Bands und Musik auf dem Oktoberfest 2026: Festzeltkapellen, Musikzeiten, bekannte Bands und aktuelle Programmquellen.'
 category: Oktoberfest
 language: de
@@ -9705,7 +9705,7 @@ Für eine verlässliche Suche empfiehlt sich diese Reihenfolge:
 4. dort nach „Musik“, „Programm“ oder „Kapelle“ suchen
 5. am Veranstaltungstag nochmals auf kurzfristige Änderungen prüfen
 
-Bier-Durst.de kann daraus jährlich eine redaktionelle Übersicht erstellen. Sie sollte jedoch niemals alte Termine automatisch als aktuelle Auftritte ausgeben.
+BierDurst.org kann daraus jährlich eine redaktionelle Übersicht erstellen. Sie sollte jedoch niemals alte Termine automatisch als aktuelle Auftritte ausgeben.
 
 ## Welche Musik darf man erwarten?
 
@@ -9756,8 +9756,8 @@ Ja. Dort liegt der Schwerpunkt stärker auf traditioneller Volksmusik, Tanz und 
 ---
 title: 'Oktoberfest-Festzelt reservieren: Regeln und Öffnungszeiten 2026'
 slug: /oktoberfest/reservierung-oeffnungszeiten/
-canonical: https://bier-durst.de/oktoberfest/reservierung-oeffnungszeiten/
-meta_title: 'Oktoberfest-Festzelt reservieren: Regeln un… | Bier-Durst.de'
+canonical: https://bierdurst.org/oktoberfest/reservierung-oeffnungszeiten/
+meta_title: 'Oktoberfest-Festzelt reservieren: Regeln un… | BierDurst.org'
 meta_description: 'Festzelt auf dem Oktoberfest reservieren: offizielle Buchung, Gutscheine, Plätze ohne Reservierung und Öffnungszeiten 2026.'
 category: Oktoberfest
 language: de
@@ -9896,8 +9896,8 @@ Grundsätzlich ja. Die Reservierung ist jedoch meist mit dem Vorabkauf von Verze
 ---
 title: Oktoberfest-Karte, Anreise und Orientierung auf der Wiesn
 slug: /oktoberfest/karte-anreise/
-canonical: https://bier-durst.de/oktoberfest/karte-anreise/
-meta_title: Oktoberfest-Karte, Anreise und Orientierung… | Bier-Durst.de
+canonical: https://bierdurst.org/oktoberfest/karte-anreise/
+meta_title: Oktoberfest-Karte, Anreise und Orientierung… | BierDurst.org
 meta_description: 'Oktoberfest-Karte und Anreise: U-Bahn, S-Bahn, wichtige Eingänge, Festzelte, Oide Wiesn und Orientierung auf dem Gelände.'
 category: Oktoberfest
 language: de
@@ -9931,7 +9931,7 @@ index: true
 
 Die Stadt München veröffentlicht einen aktuellen offiziellen Geländeplan mit Festzelten, Fahrgeschäften, Eingängen, Servicepunkten, Toiletten und Sicherheitsangeboten. Dieser Plan ist die beste Quelle für den konkreten Besuch.
 
-Für Bier-Durst.de gilt: Der offizielle Lageplan sollte nicht einfach kopiert und kommerziell wiederverwendet werden. Sinnvoll sind entweder ein sauberer Link zur offiziellen Karte oder eine eigene, stark vereinfachte schematische Übersicht auf Basis selbst recherchierter Positionen und eigener Gestaltung.
+Für BierDurst.org gilt: Der offizielle Lageplan sollte nicht einfach kopiert und kommerziell wiederverwendet werden. Sinnvoll sind entweder ein sauberer Link zur offiziellen Karte oder eine eigene, stark vereinfachte schematische Übersicht auf Basis selbst recherchierter Positionen und eigener Gestaltung.
 
 ## Wichtige Bereiche des Geländes
 
@@ -10012,7 +10012,7 @@ Ja. Je nach Eingang dauert der Weg ungefähr 15 bis 25 Minuten.
 
 Im südlichen Bereich der Theresienwiese mit separatem Zugang.
 
-### Darf Bier-Durst.de die offizielle Karte einbinden?
+### Darf BierDurst.org die offizielle Karte einbinden?
 
 Nur im Rahmen der jeweils geltenden Nutzungsbedingungen. Sicherer ist ein Link oder eine eigene schematische Karte, die keine geschützte Gestaltung kopiert.
 
@@ -10033,8 +10033,8 @@ Nur im Rahmen der jeweils geltenden Nutzungsbedingungen. Sicherer ist ein Link o
 ---
 title: Wie viele Flaschen sind in einem Kasten Bier?
 slug: /bierwissen/wie-viele-flaschen-bierkasten/
-canonical: https://bier-durst.de/bierwissen/wie-viele-flaschen-bierkasten/
-meta_title: Wie viele Flaschen sind in einem Kasten Bier? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/wie-viele-flaschen-bierkasten/
+meta_title: Wie viele Flaschen sind in einem Kasten Bier? | BierDurst.org
 meta_description: Übliche Bierkästen mit 20, 24 oder anderen Flaschenzahlen – abhängig von Flaschengröße und Gebinde.
 category: Bierwissen
 language: de
@@ -10119,8 +10119,8 @@ Ein 20er-Kasten mit halben Litern entspricht 20 Halben oder zehn Maß. Ein 24er-
 ---
 title: Wie viele Liter hat ein Kasten Bier?
 slug: /bierwissen/wie-viele-liter-bierkasten/
-canonical: https://bier-durst.de/bierwissen/wie-viele-liter-bierkasten/
-meta_title: Wie viele Liter hat ein Kasten Bier? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/wie-viele-liter-bierkasten/
+meta_title: Wie viele Liter hat ein Kasten Bier? | BierDurst.org
 meta_description: Ein Bierkasten enthält je nach Flaschenzahl und Flaschengröße meist zwischen rund 6 und 10 Litern.
 category: Bierwissen
 language: de
@@ -10208,8 +10208,8 @@ Für 24 Flaschen à 0,33 Liter lautet die Rechnung: `24 × 0,33 = 7,92 Liter`.
 ---
 title: Wie schwer ist ein Kasten Bier?
 slug: /bierwissen/wie-schwer-ist-bierkasten/
-canonical: https://bier-durst.de/bierwissen/wie-schwer-ist-bierkasten/
-meta_title: Wie schwer ist ein Kasten Bier? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/wie-schwer-ist-bierkasten/
+meta_title: Wie schwer ist ein Kasten Bier? | BierDurst.org
 meta_description: 'Gewicht eines Bierkastens mit Inhalt: Rechenbeispiele für 20 × 0,5 Liter und 24 × 0,33 Liter.'
 category: Bierwissen
 language: de
@@ -10295,8 +10295,8 @@ Kästen gegen Verrutschen sichern und nicht lose auf Sitze stellen. Bei einer Vo
 ---
 title: Bierflaschen-Größen in Deutschland
 slug: /bierwissen/bierflaschen-groessen/
-canonical: https://bier-durst.de/bierwissen/bierflaschen-groessen/
-meta_title: Bierflaschen-Größen in Deutschland | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/bierflaschen-groessen/
+meta_title: Bierflaschen-Größen in Deutschland | BierDurst.org
 meta_description: Übliche Bierflaschen mit 0,33, 0,5 und weiteren Größen sowie typische Flaschenformen.
 category: Bierwissen
 language: de
@@ -10363,8 +10363,8 @@ Ja, allerdings eher als Sonderformat, Bügelflasche oder regionales Produkt.
 ---
 title: Bierkasten-Größen und typische Gebinde
 slug: /bierwissen/bierkasten-groessen/
-canonical: https://bier-durst.de/bierwissen/bierkasten-groessen/
-meta_title: Bierkasten-Größen und typische Gebinde | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/bierkasten-groessen/
+meta_title: Bierkasten-Größen und typische Gebinde | BierDurst.org
 meta_description: Typische Bierkästen, halbe Kästen, Probierkästen und die jeweilige Gesamtmenge.
 category: Bierwissen
 language: de
@@ -10424,8 +10424,8 @@ Die Außenmaße hängen vom Flaschenpool ab. Deshalb sollte für Regale, Kühlsc
 ---
 title: Wie viel Bier pro Person für eine Feier?
 slug: /bierwissen/wie-viel-bier-pro-person/
-canonical: https://bier-durst.de/bierwissen/wie-viel-bier-pro-person/
-meta_title: Wie viel Bier pro Person für eine Feier? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/wie-viel-bier-pro-person/
+meta_title: Wie viel Bier pro Person für eine Feier? | BierDurst.org
 meta_description: Biermenge für Party, Grillabend oder Hochzeit realistisch planen – mit Sicherheitsreserve und alkoholfreien Alternativen.
 category: Bierwissen
 language: de
@@ -10505,8 +10505,8 @@ Teile die geplanten Liter durch den Kasteninhalt und runde auf. 32 Liter entspre
 ---
 title: Biermengen-Rechner für Party und Feier
 slug: /bier-rechner/biermenge-party/
-canonical: https://bier-durst.de/bier-rechner/biermenge-party/
-meta_title: Biermengen-Rechner für Party und Feier | Bier-Durst.de
+canonical: https://bierdurst.org/bier-rechner/biermenge-party/
+meta_title: Biermengen-Rechner für Party und Feier | BierDurst.org
 meta_description: Berechne Liter, Flaschen und Kästen für eine Feier – nach Gästezahl, Biertrinkern, Dauer und Flaschengröße.
 category: Bierrechner
 language: de
@@ -10610,8 +10610,8 @@ Nein. Es ist eine Einkaufs- und Logistikschätzung für eine Veranstaltung.
 ---
 title: Wie viele Gläser bekommt man aus einem Bierfass?
 slug: /bierwissen/wie-viele-glaeser-aus-bierfass/
-canonical: https://bier-durst.de/bierwissen/wie-viele-glaeser-aus-bierfass/
-meta_title: Wie viele Gläser bekommt man aus einem Bierfass? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/wie-viele-glaeser-aus-bierfass/
+meta_title: Wie viele Gläser bekommt man aus einem Bierfass? | BierDurst.org
 meta_description: Gläser aus 5, 10, 20, 30 oder 50 Litern Fassbier berechnen – inklusive Ausschankverlust.
 category: Bierwissen
 language: de
@@ -10687,8 +10687,8 @@ Die Umrechnung funktioniert für jede Glasgröße. Aus zehn Litern entstehen the
 ---
 title: 'Fassbier-Rechner: Gläser und Maß pro Fass'
 slug: /bier-rechner/fassbier/
-canonical: https://bier-durst.de/bier-rechner/fassbier/
-meta_title: 'Fassbier-Rechner: Gläser und Maß pro Fass | Bier-Durst.de'
+canonical: https://bierdurst.org/bier-rechner/fassbier/
+meta_title: 'Fassbier-Rechner: Gläser und Maß pro Fass | BierDurst.org'
 meta_description: Berechne die Zahl der Gläser aus einem Bierfass nach Fassgröße, Glasgröße und Ausschankverlust.
 category: Bierrechner
 language: de
@@ -10787,8 +10787,8 @@ Ja. Der Rechner akzeptiert positive Dezimalwerte.
 ---
 title: Wie viel ist eine Maß Bier?
 slug: /bierwissen/wie-viel-ist-eine-mass/
-canonical: https://bier-durst.de/bierwissen/wie-viel-ist-eine-mass/
-meta_title: Wie viel ist eine Maß Bier? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/wie-viel-ist-eine-mass/
+meta_title: Wie viel ist eine Maß Bier? | BierDurst.org
 meta_description: Eine Maß entspricht einem Liter. Umrechnung in Halbe, 0,33-Liter-Flaschen und Kalorien abhängig vom Bier.
 category: Bierwissen
 language: de
@@ -10849,8 +10849,8 @@ Eine Maß enthält doppelt so viel Bier wie ein 0,5-Liter-Glas. Entsprechend ver
 ---
 title: Wie lange braucht Bier im Kühlschrank zum Kühlen?
 slug: /bierwissen/bier-im-kuehlschrank-kuehlen/
-canonical: https://bier-durst.de/bierwissen/bier-im-kuehlschrank-kuehlen/
-meta_title: Wie lange braucht Bier im Kühlschrank zum Kühle… | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/bier-im-kuehlschrank-kuehlen/
+meta_title: Wie lange braucht Bier im Kühlschrank zum Kühle… | BierDurst.org
 meta_description: 'Kühlzeit für Bier im Kühlschrank: grobe Richtwerte und Faktoren wie Flaschengröße, Starttemperatur und Kühlschrank.'
 category: Bierwissen
 language: de
@@ -10930,8 +10930,8 @@ Pils wird häufig kühler getrunken als Bockbier oder Stout. Der Rechner sollte 
 ---
 title: 'Bier schnell kühlen: sichere Methoden'
 slug: /bierwissen/bier-schnell-kuehlen/
-canonical: https://bier-durst.de/bierwissen/bier-schnell-kuehlen/
-meta_title: 'Bier schnell kühlen: sichere Methoden | Bier-Durst.de'
+canonical: https://bierdurst.org/bierwissen/bier-schnell-kuehlen/
+meta_title: 'Bier schnell kühlen: sichere Methoden | BierDurst.org'
 meta_description: Bier schnell kalt bekommen mit Eiswasser, Salz und nassem Tuch – ohne geplatzte Flaschen.
 category: Bierwissen
 language: de
@@ -10989,8 +10989,8 @@ Sehr kaltes Bier wirkt milder und weniger aromatisch. Nach dem schnellen Kühlen
 ---
 title: Bei welcher Temperatur gefriert Bier?
 slug: /bierwissen/gefriertemperatur-bier/
-canonical: https://bier-durst.de/bierwissen/gefriertemperatur-bier/
-meta_title: Bei welcher Temperatur gefriert Bier? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/gefriertemperatur-bier/
+meta_title: Bei welcher Temperatur gefriert Bier? | BierDurst.org
 meta_description: Normales Bier gefriert unter null Grad; der genaue Gefrierpunkt hängt vor allem vom Alkohol- und Extraktgehalt ab.
 category: Bierwissen
 language: de
@@ -11044,8 +11044,8 @@ Nicht sofort öffnen. Stelle das Gebinde aufrecht in eine Schüssel und lasse es
 ---
 title: 'Bier warm geworden und wieder gekühlt: Ist das schlimm?'
 slug: /bierwissen/bier-warm-und-wieder-kalt/
-canonical: https://bier-durst.de/bierwissen/bier-warm-und-wieder-kalt/
-meta_title: 'Bier warm geworden und wieder gekühlt: Ist das… | Bier-Durst.de'
+canonical: https://bierdurst.org/bierwissen/bier-warm-und-wieder-kalt/
+meta_title: 'Bier warm geworden und wieder gekühlt: Ist das… | BierDurst.org'
 meta_description: Was Temperaturschwankungen mit Geschmack und Haltbarkeit von Bier machen.
 category: Bierwissen
 language: de
@@ -11100,8 +11100,8 @@ Dunkel, möglichst konstant und eher kühl. Für baldigen Konsum reicht der Küh
 ---
 title: Wie lange ist geöffnetes Bier haltbar?
 slug: /bierwissen/geoeffnetes-bier-haltbar/
-canonical: https://bier-durst.de/bierwissen/geoeffnetes-bier-haltbar/
-meta_title: Wie lange ist geöffnetes Bier haltbar? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/geoeffnetes-bier-haltbar/
+meta_title: Wie lange ist geöffnetes Bier haltbar? | BierDurst.org
 meta_description: Geöffnetes Bier verliert schnell Kohlensäure und Aroma. So lange bleibt es im Kühlschrank noch brauchbar.
 category: Bierwissen
 language: de
@@ -11153,8 +11153,8 @@ Schales, aber unauffälliges Bier kann je nach Rezept zum Kochen oder Backen ver
 ---
 title: Wie lange hält ein geöffnetes 5-Liter-Partyfass?
 slug: /bierwissen/partyfass-haltbarkeit/
-canonical: https://bier-durst.de/bierwissen/partyfass-haltbarkeit/
-meta_title: Wie lange hält ein geöffnetes 5-Liter-Partyfass? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/partyfass-haltbarkeit/
+meta_title: Wie lange hält ein geöffnetes 5-Liter-Partyfass? | BierDurst.org
 meta_description: Haltbarkeit eines geöffneten Partyfasses hängt von Zapfsystem, Sauerstoffkontakt und Kühlung ab.
 category: Bierwissen
 language: de
@@ -11208,8 +11208,8 @@ Ein 5-Liter-Fass ergibt theoretisch zehn Halblitergläser. Plane einen kleinen A
 ---
 title: Wie lange ist Dosenbier haltbar?
 slug: /bierwissen/dosenbier-haltbarkeit/
-canonical: https://bier-durst.de/bierwissen/dosenbier-haltbarkeit/
-meta_title: Wie lange ist Dosenbier haltbar? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/dosenbier-haltbarkeit/
+meta_title: Wie lange ist Dosenbier haltbar? | BierDurst.org
 meta_description: Dosen schützen Bier vollständig vor Licht. Entscheidend bleiben Mindesthaltbarkeitsdatum, Temperatur und Zustand.
 category: Bierwissen
 language: de
@@ -11261,8 +11261,8 @@ Dosenbier verliert rasch Kohlensäure und lässt sich schlecht wiederverschließ
 ---
 title: 'Bier-Kalorien-Tabelle: Pils, Helles, Weizen und alkoholfrei'
 slug: /bierwissen/bier-kalorien-tabelle/
-canonical: https://bier-durst.de/bierwissen/bier-kalorien-tabelle/
-meta_title: 'Bier-Kalorien-Tabelle: Pils, Helles, Weizen und… | Bier-Durst.de'
+canonical: https://bierdurst.org/bierwissen/bier-kalorien-tabelle/
+meta_title: 'Bier-Kalorien-Tabelle: Pils, Helles, Weizen und… | BierDurst.org'
 meta_description: Typische Kalorienbereiche je 100 ml, 0,33 l und 0,5 l. Konkrete Werte unterscheiden sich nach Produkt.
 category: Bierwissen
 language: de
@@ -11345,8 +11345,8 @@ Ein Teil der Energie kommt direkt aus Alkohol. Deshalb sinkt der Kalorienwert be
 ---
 title: Wie viele Kohlenhydrate hat Bier?
 slug: /bierwissen/kohlenhydrate-bier/
-canonical: https://bier-durst.de/bierwissen/kohlenhydrate-bier/
-meta_title: Wie viele Kohlenhydrate hat Bier? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/kohlenhydrate-bier/
+meta_title: Wie viele Kohlenhydrate hat Bier? | BierDurst.org
 meta_description: Kohlenhydrate in Bier unterscheiden sich stark. So liest und berechnest du den Wert für Flasche oder Glas.
 category: Bierwissen
 language: de
@@ -11403,8 +11403,8 @@ Die Angabe „Kohlenhydrate“ umfasst mehr als Zucker. Deshalb können zwei Pro
 ---
 title: Wie viel Zucker ist im Bier?
 slug: /bierwissen/zucker-im-bier/
-canonical: https://bier-durst.de/bierwissen/zucker-im-bier/
-meta_title: Wie viel Zucker ist im Bier? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/zucker-im-bier/
+meta_title: Wie viel Zucker ist im Bier? | BierDurst.org
 meta_description: Zucker im Bier ist produktabhängig. Nährwertangabe richtig lesen und von Gesamtkohlenhydraten unterscheiden.
 category: Bierwissen
 language: de
@@ -11456,8 +11456,8 @@ Limonade bringt häufig zusätzlichen Zucker mit. Alkoholfreies Radler kann dahe
 ---
 title: Wie viel reiner Alkohol steckt in Bier?
 slug: /bierwissen/reiner-alkohol-im-bier/
-canonical: https://bier-durst.de/bierwissen/reiner-alkohol-im-bier/
-meta_title: Wie viel reiner Alkohol steckt in Bier? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/reiner-alkohol-im-bier/
+meta_title: Wie viel reiner Alkohol steckt in Bier? | BierDurst.org
 meta_description: Reinen Alkohol in Gramm aus Biermenge und Volumenprozent berechnen – mit Formel und Beispielen.
 category: Bierwissen
 language: de
@@ -11518,8 +11518,8 @@ Für eine schnelle Mengenrechnung gibt es den [Alkoholmengen-Rechner](/bier-rech
 ---
 title: Alkoholmengen-Rechner für Bier
 slug: /bier-rechner/alkoholmenge/
-canonical: https://bier-durst.de/bier-rechner/alkoholmenge/
-meta_title: Alkoholmengen-Rechner für Bier | Bier-Durst.de
+canonical: https://bierdurst.org/bier-rechner/alkoholmenge/
+meta_title: Alkoholmengen-Rechner für Bier | BierDurst.org
 meta_description: Berechne die ungefähre Grammmenge reinen Alkohols aus Biermenge und Volumenprozent. Kein Promillerechner.
 category: Bierrechner
 language: de
@@ -11584,8 +11584,8 @@ Der Rechner zeigt ausschließlich, wie viele Gramm reiner Alkohol in einer angeg
 ---
 title: 'Bieretikett lesen: Alkohol, Zutaten, MHD und Nährwerte'
 slug: /bierwissen/bieretikett-lesen/
-canonical: https://bier-durst.de/bierwissen/bieretikett-lesen/
-meta_title: 'Bieretikett lesen: Alkohol, Zutaten, MHD und Nä… | Bier-Durst.de'
+canonical: https://bierdurst.org/bierwissen/bieretikett-lesen/
+meta_title: 'Bieretikett lesen: Alkohol, Zutaten, MHD und Nä… | BierDurst.org'
 meta_description: Welche Angaben auf einem Bieretikett stehen und was Alkoholgehalt, Zutaten, Mindesthaltbarkeit und Nährwerte bedeuten.
 category: Bierwissen
 language: de
@@ -11644,8 +11644,8 @@ Diese Angaben sind auf deutschen Standardbieren nicht immer zu finden. Craftbrau
 ---
 title: Was bedeutet naturtrüb oder unfiltriert beim Bier?
 slug: /bierwissen/naturtrueb-unfiltriert/
-canonical: https://bier-durst.de/bierwissen/naturtrueb-unfiltriert/
-meta_title: Was bedeutet naturtrüb oder unfiltriert beim Bi… | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/naturtrueb-unfiltriert/
+meta_title: Was bedeutet naturtrüb oder unfiltriert beim Bi… | BierDurst.org
 meta_description: Naturtrübes und unfiltriertes Bier enthält sichtbare Hefe- und Trubstoffe. Bedeutung, Geschmack und Lagerung.
 category: Bierwissen
 language: de
@@ -11697,8 +11697,8 @@ Naturtrübe Biere können empfindlicher auf lange und warme Lagerung reagieren. 
 ---
 title: Warum sind Bierflaschen braun oder grün?
 slug: /bierwissen/warum-bierflaschen-braun-gruen/
-canonical: https://bier-durst.de/bierwissen/warum-bierflaschen-braun-gruen/
-meta_title: Warum sind Bierflaschen braun oder grün? | Bier-Durst.de
+canonical: https://bierdurst.org/bierwissen/warum-bierflaschen-braun-gruen/
+meta_title: Warum sind Bierflaschen braun oder grün? | BierDurst.org
 meta_description: Braunes Glas schützt Bier besser vor Licht. Warum trotzdem grüne und klare Bierflaschen verwendet werden.
 category: Bierwissen
 language: de
@@ -11750,8 +11750,8 @@ Unabhängig von der Farbe sollten Bierflaschen dunkel stehen. Direkte Sonne und 
 ---
 title: Bierpreis-pro-Liter-Rechner
 slug: /bier-rechner/bierpreis-pro-liter/
-canonical: https://bier-durst.de/bier-rechner/bierpreis-pro-liter/
-meta_title: Bierpreis-pro-Liter-Rechner | Bier-Durst.de
+canonical: https://bierdurst.org/bier-rechner/bierpreis-pro-liter/
+meta_title: Bierpreis-pro-Liter-Rechner | BierDurst.org
 meta_description: Vergleiche Bierpreise fair nach Litern – für Kasten, Sixpack, Einzelflasche oder Fass.
 category: Bierrechner
 language: de
@@ -11853,8 +11853,8 @@ Nur mengenmäßig. Geschmack, Haltbarkeit, Rückgabemöglichkeit und gewünschte
 ---
 title: Bier-Kühlzeit-Rechner
 slug: /bier-rechner/bier-kuehlzeit/
-canonical: https://bier-durst.de/bier-rechner/bier-kuehlzeit/
-meta_title: Bier-Kühlzeit-Rechner | Bier-Durst.de
+canonical: https://bierdurst.org/bier-rechner/bier-kuehlzeit/
+meta_title: Bier-Kühlzeit-Rechner | BierDurst.org
 meta_description: Schätze die Kühlzeit für Flasche oder Dose nach Starttemperatur, Zieltemperatur und Kühlmethode.
 category: Bierrechner
 language: de

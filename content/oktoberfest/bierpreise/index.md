@@ -1,8 +1,8 @@
 ---
 title: Wie viel kostet eine Maß Bier auf dem Oktoberfest 2026?
 slug: /oktoberfest/bierpreise/
-canonical: https://bier-durst.de/oktoberfest/bierpreise/
-meta_title: Wie viel kostet eine Maß Bier auf dem Oktob… | Bier-Durst.de
+canonical: https://bierdurst.org/oktoberfest/bierpreise/
+meta_title: Wie viel kostet eine Maß Bier auf dem Oktob… | BierDurst.org
 meta_description: 'Bierpreise 2026 auf dem Oktoberfest: Maßpreise aller großen Festzelte, Preisvergleich, Bedienungsgeld und Spartipps.'
 category: Oktoberfest
 language: de
