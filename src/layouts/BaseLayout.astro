@@ -1,6 +1,7 @@
 ---
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import CookieConsent from '../components/CookieConsent.astro';
 import '../styles/global.css';
 
 interface Props { title: string; description: string; canonical: string; robots?: string; structuredData?: Record<string, unknown>[]; pageType?: string }
@@ -19,7 +20,7 @@ const adsConfigured = /^ca-pub-\d{16}$/.test(publisherId) && /^https:\/\//.test(
     <meta name="description" content={description} />
     <meta name="robots" content={robots} />
     <meta name="referrer" content="strict-origin-when-cross-origin" />
-    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; base-uri 'none'; object-src 'none'; form-action 'self'; img-src 'self' data:; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline'; connect-src 'self'; upgrade-insecure-requests" />
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; base-uri 'none'; object-src 'none'; form-action 'self'; img-src 'self' data: https://www.google-analytics.com https://*.google-analytics.com; style-src 'self' 'unsafe-inline'; script-src 'self' 'unsafe-inline' https://www.googletagmanager.com; connect-src 'self' https://www.google-analytics.com https://*.google-analytics.com; upgrade-insecure-requests" />
     <link rel="canonical" href={canonical} />
     <meta property="og:type" content={pageType === 'home' ? 'website' : 'article'} />
     <meta property="og:locale" content="de_DE" />
@@ -59,5 +60,6 @@ const adsConfigured = /^ca-pub-\d{16}$/.test(publisherId) && /^https:\/\//.test(
     <Header />
     <slot />
     <Footer />
+    <CookieConsent />
   </body>
 </html>

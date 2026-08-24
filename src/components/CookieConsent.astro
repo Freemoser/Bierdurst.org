@@ -1,0 +1,125 @@
+---
+const measurementId = 'G-1DG8C53H4L';
+---
+
+<section class="cookie-consent" data-consent-banner hidden role="dialog" aria-labelledby="cookie-consent-title" aria-describedby="cookie-consent-description">
+  <div class="cookie-consent-copy">
+    <p class="cookie-consent-kicker">Deine Privatsphäre</p>
+    <h2 id="cookie-consent-title">Dürfen wir Nutzungsstatistiken erfassen?</h2>
+    <p id="cookie-consent-description">
+      Mit deiner Zustimmung verwenden wir Google Analytics, um zu verstehen, welche Inhalte hilfreich sind.
+      Ohne Zustimmung wird das Google-Tag nicht geladen und es werden keine Analysedaten an Google übertragen.
+      <a href="/datenschutz/#google-analytics">Mehr im Datenschutz</a>
+    </p>
+  </div>
+  <div class="cookie-consent-actions">
+    <button type="button" class="consent-reject" data-consent-reject>Nur notwendige</button>
+    <button type="button" class="consent-accept" data-consent-accept>Analyse erlauben</button>
+  </div>
+</section>
+
+<script is:inline define:vars={{ measurementId }}>
+  const consentKey = 'bierdurst-consent-v1';
+  const banner = document.querySelector('[data-consent-banner]');
+  const acceptButton = banner?.querySelector('[data-consent-accept]');
+  const rejectButton = banner?.querySelector('[data-consent-reject]');
+  const settingsLinks = document.querySelectorAll('[data-consent-settings]');
+
+  window.dataLayer = window.dataLayer || [];
+  window.gtag = window.gtag || function gtag() { window.dataLayer.push(arguments); };
+  window.gtag('consent', 'default', {
+    ad_storage: 'denied',
+    ad_user_data: 'denied',
+    ad_personalization: 'denied',
+    analytics_storage: 'denied'
+  });
+
+  const readChoice = () => {
+    try { return localStorage.getItem(consentKey); } catch { return null; }
+  };
+
+  const storeChoice = (choice) => {
+    try { localStorage.setItem(consentKey, choice); } catch { /* Entscheidung gilt dann nur für diese Seite. */ }
+  };
+
+  const loadAnalytics = () => {
+    if (document.querySelector('script[data-google-analytics]')) return;
+    window.gtag('consent', 'update', {
+      analytics_storage: 'granted',
+      ad_storage: 'denied',
+      ad_user_data: 'denied',
+      ad_personalization: 'denied'
+    });
+    window.gtag('js', new Date());
+    window.gtag('config', measurementId, {
+      allow_google_signals: false,
+      allow_ad_personalization_signals: false
+    });
+    const script = document.createElement('script');
+    script.async = true;
+    script.dataset.googleAnalytics = measurementId;
+    script.src = `https://www.googletagmanager.com/gtag/js?id=${encodeURIComponent(measurementId)}`;
+    document.head.append(script);
+  };
+
+  const deleteAnalyticsCookies = () => {
+    const names = document.cookie.split(';').map((cookie) => cookie.split('=')[0].trim()).filter((name) => /^_ga|^_gid$|^_gat/.test(name));
+    for (const name of names) {
+      document.cookie = `${name}=; Max-Age=0; path=/; SameSite=Lax`;
+      document.cookie = `${name}=; Max-Age=0; path=/; domain=.bierdurst.org; SameSite=Lax`;
+    }
+  };
+
+  const showBanner = () => {
+    if (!banner) return;
+    banner.hidden = false;
+    acceptButton?.focus();
+  };
+
+  const hideBanner = () => {
+    if (banner) banner.hidden = true;
+  };
+
+  acceptButton?.addEventListener('click', () => {
+    storeChoice('analytics-granted');
+    loadAnalytics();
+    hideBanner();
+  });
+
+  rejectButton?.addEventListener('click', () => {
+    const analyticsWasLoaded = Boolean(document.querySelector('script[data-google-analytics]'));
+    storeChoice('analytics-denied');
+    window.gtag('consent', 'update', {
+      analytics_storage: 'denied',
+      ad_storage: 'denied',
+      ad_user_data: 'denied',
+      ad_personalization: 'denied'
+    });
+    deleteAnalyticsCookies();
+    hideBanner();
+    if (analyticsWasLoaded) window.location.reload();
+  });
+
+  settingsLinks.forEach((link) => link.addEventListener('click', (event) => {
+    event.preventDefault();
+    showBanner();
+  }));
+
+  if (readChoice() === 'analytics-granted') loadAnalytics();
+  else if (readChoice() !== 'analytics-denied') showBanner();
+</script>
+
+<style>
+  .cookie-consent{position:fixed;z-index:100;left:1rem;right:1rem;bottom:1rem;width:min(1040px,calc(100% - 2rem));margin:auto;padding:1.1rem;background:#fffef9;color:#17322c;border:1px solid #d7c9ac;border-radius:18px;box-shadow:0 24px 80px rgba(11,31,25,.3);display:grid;gap:1rem}
+  .cookie-consent[hidden]{display:none}
+  .cookie-consent-kicker{margin:0 0 .2rem;color:#9c5b00;font-size:.7rem;font-weight:850;letter-spacing:.12em;text-transform:uppercase}
+  .cookie-consent h2{font-family:Georgia,"Times New Roman",serif;font-size:1.3rem;line-height:1.2;margin:0 0 .45rem}
+  .cookie-consent-copy>p:last-child{font-size:.86rem;line-height:1.5;margin:0;color:#46635b}
+  .cookie-consent a{color:#12634e;font-weight:750}
+  .cookie-consent-actions{display:grid;gap:.55rem;align-content:center}
+  .cookie-consent button{min-height:44px;border-radius:999px;padding:.65rem 1rem;font-weight:850;cursor:pointer}
+  .consent-reject{background:white;color:#17322c;border:1px solid #bfb5a2}
+  .consent-accept{background:#f3a712;color:#192d28;border:1px solid #f3a712}
+  .cookie-consent button:focus-visible{outline:3px solid rgba(18,99,78,.3);outline-offset:2px}
+  @media (min-width:760px){.cookie-consent{grid-template-columns:minmax(0,1fr) auto;align-items:center;padding:1.25rem 1.4rem}.cookie-consent-actions{grid-template-columns:auto auto}.cookie-consent h2{font-size:1.5rem}}
+</style>

@@ -9,7 +9,7 @@ Stand: 23. August 2026. Grundlage ist der Produktionsbuild mit 76 indexierbaren 
 - Meta-Description auf jeder Seite
 - keine internen Links auf Queue- oder Fehlerseiten
 - strukturierte Daten für Website, Bierstile, Marken und Statistiken
-- statische, schnelle Auslieferung ohne Tracking oder Anzeigen zum Launch
+- statische, schnelle Auslieferung; Google Analytics lädt ausschließlich nach Einwilligung, Anzeigen bleiben deaktiviert
 
 ## Priorität 1: Inhalte vor der Indexierung ausbauen
 

@@ -58,6 +58,8 @@ Die kanonische Hostvariante ist ausschließlich `https://bierdurst.org`. HTTPS w
 
 ## Werbung und Consent
 
+Google Analytics 4 ist mit der Mess-ID `G-1DG8C53H4L` im Basic Consent Mode eingebunden. Das Google-Tag wird erst nach einer aktiven Zustimmung über den Cookie-Banner geladen. Eine Ablehnung löst keine Übertragung an Google aus; die Auswahl kann jederzeit über **Datenschutz-Einstellungen** im Footer geändert werden. Google Signals und Werbepersonalisierung bleiben deaktiviert.
+
 Anzeigenflächen reservieren stabilen Platz, sind aber standardmäßig deaktiviert. AdSense wird nur vorbereitet, wenn beide Werte gesetzt sind und die Publisher-ID dem echten AdSense-Format entspricht:
 
 ```bash
@@ -71,10 +73,10 @@ Die konfigurierte, Google-zertifizierte CMP muss nach Einwilligung `window.enabl
 
 - [x] Branding, Canonicals und Kontaktadresse auf `bierdurst.org` umstellen
 - [x] GitHub-Pages-Produktionsworkflow vorbereiten
-- [x] Tracking und Werbung zum Launch deaktiviert lassen
+- [x] Google Analytics mit vorheriger Einwilligung und widerrufbaren Datenschutzeinstellungen einrichten
+- [x] Werbung zum Launch deaktiviert lassen
 - [ ] Domain bei Cloudflare registrieren und DNS mit GitHub Pages verbinden
 - [ ] Google Search Console verifizieren und `https://bierdurst.org/sitemap.xml` einreichen
-- [ ] Google Analytics erst danach datenschutzkonform einrichten
 - [ ] Bing Webmaster Tools anschließend verbinden
 - [ ] weitere Seiten einzeln redaktionell ausbauen und zur Indexierung freigeben
 - [ ] AdSense/CMP frühestens nach der geplanten Anlaufphase von etwa drei Monaten einrichten
