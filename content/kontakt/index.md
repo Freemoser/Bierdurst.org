@@ -23,6 +23,6 @@ Schinkelstraße 15<br>
 80805 München<br>
 Deutschland
 
-**E-Mail: [91Serdar@gmail.com](mailto:91Serdar@gmail.com)**
+**E-Mail: [kontakt@freimoser.de](mailto:kontakt@freimoser.de)**
 
 Für Korrekturhinweise sollte jede Nachricht die betroffene URL und möglichst eine nachvollziehbare Quelle enthalten.

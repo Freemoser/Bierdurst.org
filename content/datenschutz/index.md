@@ -25,7 +25,7 @@ Schinkelstraße 15<br>
 80805 München<br>
 Deutschland
 
-**E-Mail: [91Serdar@gmail.com](mailto:91Serdar@gmail.com)**
+**E-Mail: [kontakt@freimoser.de](mailto:kontakt@freimoser.de)**
 
 ## 2. Bereitstellung der Website und Hosting
 

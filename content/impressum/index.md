@@ -25,7 +25,7 @@ Deutschland
 
 ## Kontakt
 
-**E-Mail: [91Serdar@gmail.com](mailto:91Serdar@gmail.com)**
+**E-Mail: [kontakt@freimoser.de](mailto:kontakt@freimoser.de)**
 
 ## Redaktionell verantwortlich
 
